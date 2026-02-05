@@ -1,33 +1,58 @@
-import { Building2, Landmark, GraduationCap, Factory, Briefcase, Globe } from "lucide-react"
+"use client"
+
+import { MotionSection, MotionDiv, fadeInUp } from "@/components/motion"
 
 const partners = [
-  { name: "Fortune 500", icon: Building2 },
-  { name: "Global Leaders", icon: Globe },
-  { name: "Top Universities", icon: GraduationCap },
-  { name: "Industry Partners", icon: Factory },
-  { name: "Consulting Firms", icon: Briefcase },
-  { name: "Government Bodies", icon: Landmark },
+  "Harvard Business School",
+  "Stanford University",
+  "McKinsey & Company",
+  "Goldman Sachs",
+  "Google",
+  "Microsoft",
+  "World Bank",
+  "United Nations",
+  "Deloitte",
+  "JPMorgan Chase",
+  "Boston Consulting Group",
+  "MIT",
 ]
+
+function MarqueeRow({ reverse = false }: { reverse?: boolean }) {
+  return (
+    <div className="flex overflow-hidden [mask-image:linear-gradient(to_right,transparent,black_10%,black_90%,transparent)]">
+      <div
+        className={`flex shrink-0 items-center gap-12 ${
+          reverse ? "animate-[scroll_40s_linear_infinite_reverse]" : "animate-[scroll_40s_linear_infinite]"
+        }`}
+      >
+        {[...partners, ...partners].map((name, i) => (
+          <span
+            key={`${name}-${i}`}
+            className="whitespace-nowrap text-sm font-medium text-muted-foreground/40 transition-colors hover:text-muted-foreground/70 tracking-wide"
+          >
+            {name}
+          </span>
+        ))}
+      </div>
+    </div>
+  )
+}
 
 export function Partners() {
   return (
-    <section id="partners" className="bg-background py-16 lg:py-20">
-      <div className="mx-auto max-w-7xl px-6">
-        <p className="text-center text-sm font-medium text-muted-foreground">
-          Trusted by leading organizations worldwide
-        </p>
-        <div className="mt-10 grid grid-cols-2 gap-8 md:grid-cols-3 lg:grid-cols-6">
-          {partners.map((partner) => (
-            <div
-              key={partner.name}
-              className="flex flex-col items-center gap-3 text-muted-foreground/50 transition-colors hover:text-muted-foreground"
-            >
-              <partner.icon className="h-10 w-10" />
-              <span className="text-xs font-medium tracking-wide uppercase">{partner.name}</span>
-            </div>
-          ))}
-        </div>
+    <MotionSection className="py-20 lg:py-24 bg-background border-t border-border/50">
+      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+        <MotionDiv variants={fadeInUp} className="text-center">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-muted-foreground/60">
+            Trusted by Leading Organizations Worldwide
+          </p>
+        </MotionDiv>
       </div>
-    </section>
+
+      <div className="mt-12 flex flex-col gap-6">
+        <MarqueeRow />
+        <MarqueeRow reverse />
+      </div>
+    </MotionSection>
   )
 }

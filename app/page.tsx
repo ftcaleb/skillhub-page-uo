@@ -1,7 +1,9 @@
 import { Navbar } from "@/components/navbar"
 import { Hero } from "@/components/hero"
+import { About } from "@/components/about"
 import { Impact } from "@/components/impact"
 import { Programs } from "@/components/programs"
+import { Testimonials } from "@/components/testimonials"
 import { Events } from "@/components/events"
 import { CtaSection } from "@/components/cta-section"
 import { Partners } from "@/components/partners"
@@ -12,11 +14,13 @@ export default function Page() {
     <main>
       <Navbar />
       <Hero />
+      <About />
       <Impact />
       <Programs />
+      <Testimonials />
       <Events />
-      <CtaSection />
       <Partners />
+      <CtaSection />
       <Footer />
     </main>
   )
