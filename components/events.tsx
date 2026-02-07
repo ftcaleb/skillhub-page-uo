@@ -30,6 +30,14 @@ const events = [
     location: "The Grand Hall",
     color: "bg-emerald-500/10 text-emerald-700 border-emerald-500/20",
   },
+  {
+    type: "Networking",
+    title: "Combatting procurement Fraud",
+    date: "14 July, 2026",
+    time: "14 - 18 July 2026",
+    location: "Cape Town, South Africa",
+    color: "bg-emerald-500/10 text-emerald-700 border-emerald-500/20",
+  }
 ]
 
 export function Events() {
