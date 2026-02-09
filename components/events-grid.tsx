@@ -18,40 +18,76 @@ import {
 
 const allEvents = [
     {
-        id: "transport-fleet-management",
+        id: "effective-specifications-writing",
         category: "Logistics",
-        title: "Transport & Fleet Management",
+        title: "Effective Specifications Writing",
         description:
-            "A high-impact training designed to help professionals optimise transport resources, manage fleets effectively, and ensure compliance for strategic gains.",
-        date: "17 – 21 Nov 2026",
+            "A focused training that equips participants to write clear, concise, and accurate specifications that communicate project requirements effectively. Includes practical exercises, case studies, and templates to improve clarity, consistency, and impact.",
+        date: "23 - 27 June 2026",
         location: "Sandton, South Africa",
         duration: "5 Days",
         icon: Briefcase,
         featured: true,
     },
     {
-        id: "supply-chain-analytics",
-        category: "AI & Analytics",
-        title: "AI-Driven Supply Chain Analytics",
+        id: "combatting-procurement-fraud",
+        category: "Logistics",
+        title: "Combatting procurement fraud",
         description:
-            "Master the art of using artificial intelligence to forecast demand, optimize inventory, and streamline supply chain operations for maximum efficiency.",
-        date: "05 – 07 Dec 2026",
-        location: "Online / Virtual",
-        duration: "3 Days",
+            "Gain practical skills to detect, prevent, and manage procurement fraud and corruption, including risk assessment, fraud indicators, and internal controls aligned with international best practices.",
+        date: "14 - 18 July 2026",
+        location: "Cape Town, South Africa",
+        duration: "5 Days",
+        icon: Briefcase,
+        featured: true,
+    },
+    {
+        id: "advanced-superivorsy-management-skills",
+        category: "Logistics",
+        title: "Advanced Superivorsy Management Skills",
+        description:
+            "Learn essential tools and strategies to lead teams effectively, tackle workplace challenges, and reduce employee turnover through strong supervision.",
+        date: "18 - 22 August 2026",
+        location: "Sandton, South Africa",
+        duration: "5 Days",
+        icon: Briefcase,
+        featured: true,
+    },
+    {
+        id: "advanced-principles-ports-marine-terminals-management",
+        category: "Logistics",
+        title: "Advanced Principles in Ports & Marine Terminals Management",
+        description:
+            "Master port and terminal operations with a focus on risk-based management, safety, efficiency, and KPI-driven performance following global standards.",
+        date: "15 -19 September 2026",
+        location: "Durban, South Africa",
+        duration: "5 Days",
+        icon: Briefcase,
+        featured: true,
+    },
+    {
+        id: "ai-data-analytics-operations",
+        category: "AI & Analytics",
+        title: "AI and Data Analytics in Operations & International Conference on Global Logistics",
+        description:
+            "Harness AI and data analytics to optimize supply chain operations, improve visibility, resilience, and decision-making using machine learning, predictive analytics, and real-world applications.",
+        date: "20 - 24 October 2026",
+        location: "Dubai, UAE",
+        duration: "5 Days",
         icon: Brain,
         featured: true,
     },
     {
-        id: "operational-leadership",
-        category: "Leadership",
-        title: "Operational Leadership Summit",
+        id: "transport-fleet-management",
+        category: "Logistics",
+        title: "Transport and Fleet Management",
         description:
-            "Join top industry leaders for a transformative summit focused on strategic decision-making, team empowerment, and organizational excellence.",
-        date: "15 – 18 Jan 2027",
-        location: "Cape Town, South Africa",
-        duration: "4 Days",
+            "Develop practical skills to manage transportation resources efficiently, ensure safety and compliance, optimize operations, and drive cost savings while promoting integrity and transparency.",
+        date: "17 - 21 November 2026",
+        location: "Sandton, South Africa",
+        duration: "5 Days",
         icon: TrendingUp,
-        featured: false,
+        featured: true,
     },
 ]
 
@@ -108,8 +144,8 @@ export function EventsGrid() {
                                 type="button"
                                 onClick={() => setCategory(cat)}
                                 className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300 ${category === cat
-                                        ? "text-accent-foreground"
-                                        : "text-muted-foreground hover:text-foreground"
+                                    ? "text-accent-foreground"
+                                    : "text-muted-foreground hover:text-foreground"
                                     }`}
                             >
                                 {category === cat && (
@@ -140,8 +176,8 @@ export function EventsGrid() {
                             >
                                 <div
                                     className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 hover:-translate-y-1 ${event.featured
-                                            ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
-                                            : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
+                                        ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
+                                        : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
                                         }`}
                                 >
                                     {/* Spotlight gradient on hover */}

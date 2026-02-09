@@ -7,37 +7,30 @@ import { Calendar, Clock, MapPin, ArrowRight, ArrowUpRight } from "lucide-react"
 
 const events = [
   {
-    type: "Conference",
-    title: "Global Leadership Summit 2026",
-    date: "March 15-17, 2026",
+    type: "Procurement Management",
+    title: "Advanced Supervisory Management Skills",
+    date: "18 - 22 August 2026",
     time: "9:00 AM - 5:00 PM",
-    location: "Main Campus Auditorium",
+    location: "Sandton, South Africa",
     color: "bg-accent/10 text-accent border-accent/20",
   },
   {
-    type: "Workshop",
-    title: "Innovation & Entrepreneurship Workshop",
-    date: "March 22, 2026",
+    type: "Procurement Management",
+    title: "Advanced Principles in Ports & Marine Terminals Management",
+    date: "15 - 19 September, 2026",
     time: "2:00 PM - 6:00 PM",
-    location: "Innovation Hub, Building C",
+    location: "Durban, South Africa",
     color: "bg-primary/10 text-primary border-primary/20",
   },
   {
-    type: "Networking",
-    title: "Executive Networking Evening",
-    date: "April 5, 2026",
+    type: "Procurement Management",
+    title: "AI and Data Analytics in Operations & International Conference on Global Logisics",
+    date: "20 - 24 October, 2026",
     time: "6:00 PM - 9:00 PM",
-    location: "The Grand Hall",
+    location: "Dubai, UAE",
     color: "bg-emerald-500/10 text-emerald-700 border-emerald-500/20",
   },
-  {
-    type: "Networking",
-    title: "Combatting procurement Fraud",
-    date: "14 July, 2026",
-    time: "14 - 18 July 2026",
-    location: "Cape Town, South Africa",
-    color: "bg-emerald-500/10 text-emerald-700 border-emerald-500/20",
-  }
+
 ]
 
 export function Events() {
