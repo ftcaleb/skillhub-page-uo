@@ -14,12 +14,12 @@ import {
 } from "lucide-react"
 import Image from "next/image"
 
-/* ─── Mission & Vision ─── */
-function MissionVision() {
+/* ─── Mission, Vision & Voice ─── */
+function MissionVisionVoice() {
   return (
     <MotionSection className="py-20 lg:py-32 bg-background">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-20">
+        <div className="grid lg:grid-cols-3 gap-12 lg:gap-20">
           {/* Mission */}
           <MotionDiv variants={slideInLeft}>
             <div className="relative overflow-hidden rounded-2xl border border-border/50 bg-card p-8 lg:p-10 h-full transition-all duration-500 hover:shadow-xl hover:shadow-primary/[0.03] hover:border-border group">
@@ -32,11 +32,9 @@ function MissionVision() {
                   Our Mission
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  To deliver high-impact, industry-aligned training that
-                  equips professionals and organisations with practical,
-                  future-ready skills. We focus on measurable performance, operational
-                  excellence, and leadership capability. Every programme is designed to
-                  create real-world value and sustainable growth
+                  SkillHub International transforms lives through world-class, borderless education
+                  and skill development. We empower individuals and organisations with accessible,
+                  high-impact learning that creates real-world opportunity.
                 </p>
               </div>
             </div>
@@ -54,10 +52,28 @@ function MissionVision() {
                   Our Vision
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  To be a globally recognised leader in business education, trusted for
-                  developing agile, high-performing talent. We aim to set the benchmark
-                  for excellence across industries. Through innovation and relevance,
-                  we shape the future of learning and work.
+                  To be the world’s leading platform for skill transformation and professional growth.
+                  We envision a future where education knows no boundaries and talent thrives everywhere.
+                </p>
+              </div>
+            </div>
+          </MotionDiv>
+
+          {/* Voice */}
+          <MotionDiv variants={slideInLeft}>
+            <div className="relative overflow-hidden rounded-2xl border border-border/50 bg-card p-8 lg:p-10 h-full transition-all duration-500 hover:shadow-xl hover:shadow-primary/[0.03] hover:border-border group">
+              <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 bg-gradient-to-br from-accent/[0.03] via-transparent to-transparent" />
+              <div className="relative">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-accent/10 ring-1 ring-accent/20">
+                  <Target className="h-6 w-6 text-accent" />
+                </div>
+                <h3 className="mt-6 font-serif text-2xl font-bold text-foreground lg:text-3xl">
+                  Our Voice
+                </h3>
+                <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
+                  Professional, inspiring, and empowering—confident in expertise and human in tone.
+                  We communicate with clarity, inclusivity, and purpose to motivate learners at every
+                  stage.
                 </p>
               </div>
             </div>
@@ -360,7 +376,7 @@ function ImpactStats() {
 export function AboutContent() {
   return (
     <>
-      <MissionVision />
+      <MissionVisionVoice />
       <OurStory />
       <CoreValues />
       <Timeline />
