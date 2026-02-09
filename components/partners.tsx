@@ -3,27 +3,30 @@
 import { MotionSection, MotionDiv, fadeInUp } from "@/components/motion"
 
 const partners = [
-  "Harvard Business School",
-  "Stanford University",
-  "McKinsey & Company",
-  "Goldman Sachs",
-  "Google",
-  "Microsoft",
-  "World Bank",
-  "United Nations",
-  "Deloitte",
-  "JPMorgan Chase",
-  "Boston Consulting Group",
-  "MIT",
+  "QCTO",
+  "SAPICS",
+  "APICS",
+  "T.E.T.A",
+  "merSETA",
+  "QCTO",
+  "SAPICS",
+  "APICS",
+  "T.E.T.A",
+  "merSETA",
+  "QCTO",
+  "SAPICS",
+  "APICS",
+  "T.E.T.A",
+  "merSETA",
+
 ]
 
 function MarqueeRow({ reverse = false }: { reverse?: boolean }) {
   return (
     <div className="flex overflow-hidden [mask-image:linear-gradient(to_right,transparent,black_10%,black_90%,transparent)]">
       <div
-        className={`flex shrink-0 items-center gap-12 ${
-          reverse ? "animate-[scroll_40s_linear_infinite_reverse]" : "animate-[scroll_40s_linear_infinite]"
-        }`}
+        className={`flex shrink-0 items-center gap-12 ${reverse ? "animate-[scroll_20s_linear_infinite_reverse]" : "animate-[scroll_20s_linear_infinite]"
+          }`}
       >
         {[...partners, ...partners].map((name, i) => (
           <span

@@ -87,8 +87,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6, ease: [0.22, 1, 0.36, 1] }}
           >
-            A premier global institution dedicated to fostering innovation, critical thinking,
-            and academic excellence for the next generation of changemakers.
+            SkillHub International is a professional training and capacity-building partner offering a diverse and expanding portfolio of short courses across key business functions for private, public and third sector organisations
           </motion.p>
 
           <motion.div

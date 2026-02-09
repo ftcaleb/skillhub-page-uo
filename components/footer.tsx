@@ -6,14 +6,12 @@ import { motion } from "motion/react"
 const footerLinks = {
   "Quick Links": [
     { label: "About Us", href: "#about" },
-    { label: "Programs", href: "#programs" },
+    { label: "Courses", href: "#programs" },
     { label: "Admissions", href: "#cta" },
     { label: "Events", href: "#events" },
-    { label: "Campus Life", href: "#" },
   ],
   Resources: [
-    { label: "Student Portal", href: "#" },
-    { label: "Library", href: "#" },
+    { label: "Help Center", href: "#contact" },
     { label: "Research", href: "#" },
     { label: "Careers", href: "#" },
     { label: "Alumni Network", href: "#" },

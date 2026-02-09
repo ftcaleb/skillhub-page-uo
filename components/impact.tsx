@@ -10,9 +10,9 @@ import { GraduationCap, Globe, Briefcase, Users } from "lucide-react"
 const metrics = [
   {
     icon: GraduationCap,
-    target: 15000,
+    target: 20,
     suffix: "+",
-    label: "Graduates Worldwide",
+    label: "Years of Experience",
     description: "Alumni making impact across every major industry",
   },
   {
@@ -24,16 +24,16 @@ const metrics = [
   },
   {
     icon: Briefcase,
-    target: 94,
-    suffix: "%",
-    label: "Employment Rate",
+    target: 3450,
+    suffix: "+",
+    label: "Professionals Trained",
     description: "Graduates employed within six months",
   },
   {
     icon: Users,
-    target: 200,
-    suffix: "+",
-    label: "Expert Faculty",
+    target: 98,
+    suffix: "%",
+    label: "Satisfied Learners",
     description: "Industry leaders and world-class academics",
   },
 ]
