@@ -10,12 +10,6 @@ import {
     Calendar,
     MapPin,
     Users,
-    Award,
-    GraduationCap,
-    Briefcase,
-    Trophy,
-    Handshake,
-    Building2,
 } from "lucide-react"
 import Image from "next/image"
 
@@ -24,104 +18,56 @@ const galleryItems = [
         id: "leadership-summit-2025",
         category: "Events",
         title: "Executive Leadership Summit 2025",
-        description:
-            "Over 500 industry leaders gathered for our flagship leadership summit, featuring keynote speakers from Fortune 500 companies.",
-        date: "March 2025",
-        location: "Sandton Convention Centre",
-        attendees: "500+",
-        image: "/images/gallery/leadership-summit.jpg",
-        icon: Award,
+        image: "/asset/bgimg2.jpeg",
         featured: true,
     },
     {
         id: "graduation-ceremony-2024",
         category: "Graduations",
         title: "Annual Graduation Ceremony",
-        description:
-            "Celebrating the achievements of over 1,200 graduates across our executive and professional programs.",
-        date: "December 2024",
-        location: "Cape Town International Convention Centre",
-        attendees: "1,200+",
-        image: "/images/gallery/graduation.jpg",
-        icon: GraduationCap,
+        image: "/asset/bgimg3.jpeg",
         featured: true,
     },
     {
         id: "corporate-training-workshop",
         category: "Workshops",
         title: "Corporate Training Workshop",
-        description:
-            "Intensive three-day workshop on digital transformation and change management for enterprise teams.",
-        date: "February 2025",
-        location: "Johannesburg",
-        attendees: "150+",
-        image: "/images/gallery/workshop.jpg",
-        icon: Briefcase,
+        image: "/asset/img1.jpeg",
         featured: false,
     },
     {
         id: "innovation-awards",
         category: "Events",
         title: "Innovation Excellence Awards",
-        description:
-            "Recognizing outstanding achievements in business innovation and entrepreneurship across Africa.",
-        date: "November 2024",
-        location: "Durban ICC",
-        attendees: "300+",
-        image: "/images/gallery/awards.jpg",
-        icon: Trophy,
+        image: "/asset/img2.jpeg",
         featured: false,
     },
     {
         id: "industry-partnership-forum",
         category: "Partnerships",
         title: "Industry Partnership Forum",
-        description:
-            "Annual forum bringing together academic institutions and industry leaders to shape future curriculum.",
-        date: "October 2024",
-        location: "Pretoria",
-        attendees: "200+",
-        image: "/images/gallery/partnership.jpg",
-        icon: Handshake,
+        image: "/asset/img3.jpeg",
         featured: false,
     },
     {
         id: "campus-expansion",
         category: "Milestones",
         title: "New Campus Opening",
-        description:
-            "Grand opening of our state-of-the-art learning facility featuring modern classrooms and innovation labs.",
-        date: "September 2024",
-        location: "Port Elizabeth",
-        attendees: "400+",
-        image: "/images/gallery/campus.jpg",
-        icon: Building2,
+        image: "/asset/img4.jpeg",
         featured: true,
     },
     {
         id: "ai-symposium",
         category: "Workshops",
         title: "AI & Data Science Symposium",
-        description:
-            "Two-day intensive symposium exploring the latest developments in artificial intelligence and machine learning.",
-        date: "August 2024",
-        location: "Online & Hybrid",
-        attendees: "800+",
-        image: "/images/gallery/ai-symposium.jpg",
-        icon: Briefcase,
+        image: "/asset/img5.jpeg",
         featured: false,
     },
     {
         id: "alumni-networking",
         category: "Events",
         title: "Alumni Networking Gala",
-        description:
-            "Annual reunion celebrating our global alumni network and their professional achievements.",
-        date: "July 2024",
-        location: "Sandton",
-        attendees: "600+",
-        image: "/images/gallery/alumni.jpg",
-        icon: Users,
+        image: "/asset/img6.jpeg",
         featured: false,
     },
 ]
@@ -136,9 +82,7 @@ export function GalleryGrid() {
         return galleryItems.filter((item) => {
             const matchSearch =
                 !search ||
-                item.title.toLowerCase().includes(search.toLowerCase()) ||
-                item.description.toLowerCase().includes(search.toLowerCase()) ||
-                item.location.toLowerCase().includes(search.toLowerCase())
+                item.title.toLowerCase().includes(search.toLowerCase())
             const matchCategory = category === "All" || item.category === category
             return matchSearch && matchCategory
         })
@@ -179,8 +123,8 @@ export function GalleryGrid() {
                                 type="button"
                                 onClick={() => setCategory(cat)}
                                 className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300 ${category === cat
-                                        ? "text-accent-foreground"
-                                        : "text-muted-foreground hover:text-foreground"
+                                    ? "text-accent-foreground"
+                                    : "text-muted-foreground hover:text-foreground"
                                     }`}
                             >
                                 {category === cat && (
@@ -211,8 +155,8 @@ export function GalleryGrid() {
                             >
                                 <div
                                     className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 hover:-translate-y-1 ${item.featured
-                                            ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
-                                            : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
+                                        ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
+                                        : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
                                         }`}
                                 >
                                     {/* Spotlight gradient on hover */}
@@ -223,10 +167,13 @@ export function GalleryGrid() {
                                     )}
 
                                     {/* Image placeholder - using gradient since we don't have actual images */}
-                                    <div className="relative h-48 w-full overflow-hidden bg-gradient-to-br from-primary/10 via-accent/5 to-primary/5">
-                                        <div className="absolute inset-0 flex items-center justify-center">
-                                            <item.icon className="h-16 w-16 text-primary/20" />
-                                        </div>
+                                    <div className="relative h-48 w-full overflow-hidden bg-muted">
+                                        <Image
+                                            src={item.image}
+                                            alt={item.title}
+                                            fill
+                                            className="object-cover transition-transform duration-500 group-hover:scale-105"
+                                        />
                                         {item.featured && (
                                             <div className="absolute top-3 right-3">
                                                 <Badge className="bg-accent/90 text-accent-foreground border-accent/20 text-xs backdrop-blur-sm">
@@ -252,24 +199,6 @@ export function GalleryGrid() {
                                             </h3>
                                         </div>
 
-                                        <p className="mt-3 text-sm leading-relaxed text-muted-foreground line-clamp-2">
-                                            {item.description}
-                                        </p>
-
-                                        <div className="mt-5 flex flex-wrap items-center gap-4 text-xs text-muted-foreground">
-                                            <span className="flex items-center gap-1.5">
-                                                <Calendar className="h-3.5 w-3.5" />
-                                                {item.date}
-                                            </span>
-                                            <span className="flex items-center gap-1.5">
-                                                <MapPin className="h-3.5 w-3.5" />
-                                                {item.location}
-                                            </span>
-                                            <span className="flex items-center gap-1.5">
-                                                <Users className="h-3.5 w-3.5" />
-                                                {item.attendees}
-                                            </span>
-                                        </div>
                                     </div>
                                 </div>
                             </motion.div>
