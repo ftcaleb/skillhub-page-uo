@@ -42,8 +42,8 @@ export function Navbar() {
       animate={{ y: 0 }}
       transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${showTransparent
-          ? "bg-transparent py-5"
-          : "bg-background/80 backdrop-blur-xl shadow-[0_1px_0_0_hsl(var(--border)/0.5)] py-3"
+        ? "bg-transparent py-5"
+        : "bg-background/80 backdrop-blur-xl shadow-[0_1px_0_0_hsl(var(--border)/0.5)] py-3"
         }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-8">
@@ -73,12 +73,12 @@ export function Navbar() {
                 <Link
                   href={link.href}
                   className={`relative px-3.5 py-2 text-[13px] font-medium tracking-wide transition-colors duration-300 rounded-md ${isActive
-                      ? showTransparent
-                        ? "text-white"
-                        : "text-foreground"
-                      : showTransparent
-                        ? "text-white/70 hover:text-white"
-                        : "text-muted-foreground hover:text-foreground"
+                    ? showTransparent
+                      ? "text-white"
+                      : "text-foreground"
+                    : showTransparent
+                      ? "text-white/70 hover:text-white"
+                      : "text-muted-foreground hover:text-foreground"
                     }`}
                 >
                   {link.label}
@@ -100,12 +100,12 @@ export function Navbar() {
           <Button
             variant="ghost"
             className={`text-[13px] font-medium bg-transparent ${showTransparent
-                ? "text-white/70 hover:text-white hover:bg-white/10"
-                : "text-muted-foreground hover:text-foreground hover:bg-secondary"
+              ? "text-white/70 hover:text-white hover:bg-white/10"
+              : "text-muted-foreground hover:text-foreground hover:bg-secondary"
               }`}
             asChild
           >
-            <Link href="/#contact">Contact</Link>
+            <Link href="/contact">Contact</Link>
           </Button>
           <Button
             className="bg-accent text-accent-foreground hover:bg-accent/90 shadow-lg shadow-accent/25 text-[13px] font-medium h-9 px-5"
@@ -150,8 +150,8 @@ export function Navbar() {
                     <Link
                       href={link.href}
                       className={`block rounded-lg px-4 py-3 text-sm font-medium transition-colors ${pathname === link.href
-                          ? "bg-secondary text-foreground"
-                          : "text-muted-foreground hover:bg-secondary hover:text-foreground"
+                        ? "bg-secondary text-foreground"
+                        : "text-muted-foreground hover:bg-secondary hover:text-foreground"
                         }`}
                     >
                       {link.label}
