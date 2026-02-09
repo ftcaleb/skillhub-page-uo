@@ -3,6 +3,7 @@ import { PageHeader } from "@/components/page-header"
 import { CoursesGrid } from "@/components/courses-grid"
 import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
+import { getPaginatedCourses } from "@/lib/courses-data"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -12,6 +13,8 @@ export const metadata: Metadata = {
 }
 
 export default function CoursesPage() {
+  const { courses, totalPages, totalCourses } = getPaginatedCourses(1)
+
   return (
     <main>
       <Navbar />
@@ -23,7 +26,13 @@ export default function CoursesPage() {
           { label: "Courses", href: "/courses" },
         ]}
       />
-      <CoursesGrid />
+      <CoursesGrid
+        courses={courses}
+        totalCourses={totalCourses}
+        currentPage={1}
+        totalPages={totalPages}
+        baseUrl="/courses"
+      />
       <CtaSection />
       <Footer />
     </main>
