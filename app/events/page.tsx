@@ -3,6 +3,7 @@ import { PageHeader } from "@/components/page-header"
 import { EventsGrid } from "@/components/events-grid"
 import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
+import { getPaginatedEvents } from "@/lib/events-data"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -12,6 +13,8 @@ export const metadata: Metadata = {
 }
 
 export default function EventsPage() {
+    const { events, totalPages, totalEvents } = getPaginatedEvents(1)
+
     return (
         <main>
             <Navbar />
@@ -23,7 +26,13 @@ export default function EventsPage() {
                     { label: "Events", href: "/events" }
                 ]}
             />
-            <EventsGrid />
+            <EventsGrid
+                events={events}
+                totalEvents={totalEvents}
+                currentPage={1}
+                totalPages={totalPages}
+                baseUrl="/events"
+            />
             <CtaSection />
             <Footer />
         </main>
