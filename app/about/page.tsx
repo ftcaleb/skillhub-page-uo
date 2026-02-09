@@ -16,7 +16,9 @@ export default function AboutPage() {
       <Navbar />
       <PageHeader
         title="Unleash Your Business Potential with SkillHub"
-        description="Welcome to Trajlon Group — Your Stage for Business Excellence, your dedicated partner in unlocking profound growth and expertise across the entire business operations spectrum. We provide a comprehensive suite of short courses and learnerships, meticulously crafted to help you reach your full potential."
+        description="SkillHub International is a dedicated partner in driving business excellence, enabling growth across the full spectrum of business operations.
+                     We deliver expertly designed short courses and learnerships to help individuals and organisations reach their full potential.
+"
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "About", href: "/about" }
