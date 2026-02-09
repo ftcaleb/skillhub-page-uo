@@ -65,9 +65,9 @@ const galleryItems = [
     },
     {
         id: "ai-symposium",
-        category: "Certified",
-        title: "Certified Graduates",
-        image: "/asset/img11.jpeg",
+        category: "Workshops",
+        title: "Team Building",
+        image: "/asset/img12.jpeg",
         featured: false,
     },
 
