@@ -72,14 +72,14 @@ export function CtaSection() {
                   className="bg-transparent border border-primary-foreground/15 text-primary-foreground/80 hover:text-primary-foreground hover:bg-primary-foreground/10 h-12 px-8 text-sm font-medium"
                   asChild
                 >
-                  <a href="#programs">Browse Programs</a>
+                  <a href="/courses">Browse Programs</a>
                 </Button>
               </div>
             </MotionDiv>
 
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-xs text-primary-foreground/40">
-                Applications for the 2026 cohort are now open. Limited seats available.
+                Applications for 2026 are now open. Limited seats available.
               </p>
             </MotionDiv>
           </div>
