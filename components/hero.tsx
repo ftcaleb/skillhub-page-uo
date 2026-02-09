@@ -18,8 +18,8 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/hero-campus.jpg"
-          alt="Ascend Institute campus aerial view"
+          src="/asset/bgimg2.jpeg"
+          alt="SkillHub International"
           fill
           className="object-cover"
           priority
@@ -56,7 +56,7 @@ export function Hero() {
           >
             <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm px-4 py-1.5 text-xs font-medium tracking-widest uppercase text-white/80">
               <span className="h-1.5 w-1.5 rounded-full bg-accent animate-pulse" />
-              Excellence in Education Since 1985
+              Excellence in Education
             </span>
           </motion.div>
 
@@ -133,9 +133,8 @@ export function Hero() {
           {stats.map((stat, i) => (
             <div
               key={stat.label}
-              className={`flex flex-col items-center justify-center py-6 lg:py-8 ${
-                i > 0 ? "border-l border-white/10" : ""
-              } ${i >= 2 ? "border-t border-white/10 lg:border-t-0" : ""}`}
+              className={`flex flex-col items-center justify-center py-6 lg:py-8 ${i > 0 ? "border-l border-white/10" : ""
+                } ${i >= 2 ? "border-t border-white/10 lg:border-t-0" : ""}`}
             >
               <span className="text-2xl font-bold text-white sm:text-3xl lg:text-4xl tracking-tight">
                 {stat.value}
