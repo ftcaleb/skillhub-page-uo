@@ -49,8 +49,8 @@ export function About() {
                   ))}
                 </div>
                 <div>
-                  <p className="text-sm font-semibold text-foreground">15,000+</p>
-                  <p className="text-xs text-muted-foreground">Global alumni</p>
+                  <p className="text-sm font-semibold text-foreground">3450+</p>
+                  <p className="text-xs text-muted-foreground">Professionals Trained</p>
                 </div>
               </div>
             </motion.div>
