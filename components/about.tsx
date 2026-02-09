@@ -93,9 +93,9 @@ export function About() {
             <MotionDiv variants={fadeInUp}>
               <div className="mt-10 flex items-center gap-8">
                 <div>
-                  <p className="text-3xl font-bold text-foreground">94%</p>
+                  <p className="text-3xl font-bold text-foreground">98%</p>
                   <p className="text-xs text-muted-foreground font-medium mt-0.5">
-                    Employment Rate
+                    Satisfied Learners
                   </p>
                 </div>
                 <div className="h-12 w-px bg-border" />
@@ -107,9 +107,9 @@ export function About() {
                 </div>
                 <div className="h-12 w-px bg-border" />
                 <div>
-                  <p className="text-3xl font-bold text-foreground">Top 5%</p>
+                  <p className="text-3xl font-bold text-foreground">3450+</p>
                   <p className="text-xs text-muted-foreground font-medium mt-0.5">
-                    Global Ranking
+                    Professionals Trained
                   </p>
                 </div>
               </div>
