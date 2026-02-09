@@ -22,57 +22,58 @@ const galleryItems = [
         featured: true,
     },
     {
-        id: "graduation-ceremony-2024",
-        category: "Graduations",
-        title: "Annual Graduation Ceremony",
+        id: "leadership-summit-2025",
+        category: "Certified",
+        title: "Certified Graduates",
         image: "/asset/bgimg3.jpeg",
-        featured: true,
+        featured: false,
     },
     {
-        id: "corporate-training-workshop",
+        id: "training-workshop",
         category: "Workshops",
-        title: "Corporate Training Workshop",
-        image: "/asset/img1.jpeg",
+        title: "Training Workshop",
+        image: "/asset/img7.jpeg",
+        featured: false,
+    },
+    {
+        id: "training-workshop",
+        category: "Workshops",
+        title: "Training Workshop",
+        image: "/asset/img9.jpeg",
         featured: false,
     },
     {
         id: "innovation-awards",
-        category: "Events",
-        title: "Innovation Excellence Awards",
-        image: "/asset/img2.jpeg",
+        category: "Workshops",
+        title: "Innovation Workshop",
+        image: "/asset/img15.jpeg",
         featured: false,
     },
     {
         id: "industry-partnership-forum",
-        category: "Partnerships",
+        category: "Workshops",
         title: "Industry Partnership Forum",
-        image: "/asset/img3.jpeg",
+        image: "/asset/img16.jpeg",
         featured: false,
     },
     {
         id: "campus-expansion",
-        category: "Milestones",
-        title: "New Campus Opening",
-        image: "/asset/img4.jpeg",
-        featured: true,
+        category: "Certified",
+        title: "Graduation Ceremony",
+        image: "/asset/img17.jpeg",
+        featured: false,
     },
     {
         id: "ai-symposium",
-        category: "Workshops",
-        title: "AI & Data Science Symposium",
-        image: "/asset/img5.jpeg",
+        category: "Certified",
+        title: "Certified Graduates",
+        image: "/asset/img11.jpeg",
         featured: false,
     },
-    {
-        id: "alumni-networking",
-        category: "Events",
-        title: "Alumni Networking Gala",
-        image: "/asset/img6.jpeg",
-        featured: false,
-    },
+
 ]
 
-const categories = ["All", "Events", "Graduations", "Workshops", "Partnerships", "Milestones"]
+const categories = ["All", "Events", "Certified", "Workshops",]
 
 export function GalleryGrid() {
     const [search, setSearch] = useState("")
