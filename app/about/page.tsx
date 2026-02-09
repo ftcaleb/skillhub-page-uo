@@ -15,11 +15,11 @@ export default function AboutPage() {
     <main>
       <Navbar />
       <PageHeader
-        title="About Ascend Institute"
-        description="Four decades of academic excellence, shaping leaders who drive meaningful change across the globe."
+        title="Unleash Your Business Potential with SkillHub"
+        description="Welcome to Trajlon Group — Your Stage for Business Excellence, your dedicated partner in unlocking profound growth and expertise across the entire business operations spectrum. We provide a comprehensive suite of short courses and learnerships, meticulously crafted to help you reach your full potential."
         breadcrumbs={[
           { label: "Home", href: "/" },
-          { label: "About", href: "/about" },
+          { label: "About", href: "/about" }
         ]}
       />
       <AboutContent />

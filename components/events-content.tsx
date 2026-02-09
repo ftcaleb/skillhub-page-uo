@@ -129,50 +129,59 @@ export function EventsContent() {
                         </p>
                     </motion.div>
 
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {events.map((event, index) => (
                             <motion.div
                                 key={event.id}
-                                initial={{ opacity: 0, y: 20 }}
-                                whileInView={{ opacity: 1, y: 0 }}
+                                initial={{ opacity: 0, scale: 0.95, y: 20 }}
+                                whileInView={{ opacity: 1, scale: 1, y: 0 }}
                                 viewport={{ once: true }}
-                                transition={{ delay: index * 0.1 }}
-                                whileHover={{ y: -5 }}
-                                className="group flex flex-col justify-between bg-card border border-border/50 rounded-2xl p-6 shadow-sm hover:shadow-xl transition-all duration-300"
+                                transition={{ duration: 0.35, delay: index * 0.1, ease: [0.22, 1, 0.36, 1] }}
+                                className="group"
                             >
-                                <div>
-                                    <div className="flex justify-between items-start mb-4">
-                                        <span className="inline-flex items-center rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-medium text-accent ring-1 ring-inset ring-accent/20">
-                                            {event.category}
-                                        </span>
-                                    </div>
-                                    <h3 className="text-xl font-bold text-card-foreground group-hover:text-accent transition-colors">
-                                        {event.title}
-                                    </h3>
+                                <div className="relative h-full overflow-hidden rounded-2xl border border-border/50 bg-card transition-all duration-500 hover:-translate-y-1 hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border">
+                                    {/* Spotlight gradient on hover */}
+                                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none bg-[radial-gradient(600px_circle_at_var(--mouse-x,50%)_var(--mouse-y,0%),hsl(var(--accent)/0.04),transparent_40%)]" />
 
-                                    <div className="mt-4 space-y-2 text-sm text-muted-foreground">
-                                        <div className="flex items-center gap-2">
-                                            <MapPin className="h-4 w-4 text-accent" />
-                                            <span>{event.location}</span>
+                                    <div className="relative p-6 lg:p-7">
+                                        <div className="flex justify-between items-start">
+                                            <span className="inline-flex items-center rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-medium text-accent ring-1 ring-inset ring-accent/20">
+                                                {event.category}
+                                            </span>
                                         </div>
-                                        <div className="flex items-center gap-2">
-                                            <Calendar className="h-4 w-4 text-accent" />
-                                            <span>{event.date}</span>
+
+                                        <div className="mt-5">
+                                            <h3 className="text-lg font-semibold leading-snug text-foreground">
+                                                {event.title}
+                                            </h3>
+                                        </div>
+
+                                        <p className="mt-3 text-sm leading-relaxed text-muted-foreground line-clamp-3">
+                                            {event.description}
+                                        </p>
+
+                                        <div className="mt-5 flex flex-wrap items-center gap-4 text-xs text-muted-foreground">
+                                            <span className="flex items-center gap-1.5">
+                                                <Calendar className="h-3.5 w-3.5" />
+                                                {event.date}
+                                            </span>
+                                            <span className="flex items-center gap-1.5">
+                                                <MapPin className="h-3.5 w-3.5" />
+                                                {event.location}
+                                            </span>
+                                        </div>
+
+                                        <div className="mt-6 pt-5 border-t border-border/50 flex items-center justify-between">
+                                            <span className="text-sm font-medium text-foreground">
+                                                Learn More & Register
+                                            </span>
+                                            <Link href={event.link}>
+                                                <span className="flex h-8 w-8 items-center justify-center rounded-full bg-secondary transition-all duration-300 group-hover:bg-accent group-hover:text-accent-foreground">
+                                                    <ArrowRight className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />
+                                                </span>
+                                            </Link>
                                         </div>
                                     </div>
-
-                                    <p className="mt-4 text-sm text-muted-foreground line-clamp-3">
-                                        {event.description}
-                                    </p>
-                                </div>
-
-                                <div className="mt-6 pt-6 border-t border-border/50">
-                                    <Button className="w-full justify-between group-hover:bg-accent group-hover:text-white transition-colors" variant="outline" asChild>
-                                        <Link href={event.link}>
-                                            Learn More & Register
-                                            <ArrowRight className="h-4 w-4 ml-2 transition-transform group-hover:translate-x-1" />
-                                        </Link>
-                                    </Button>
                                 </div>
                             </motion.div>
                         ))}
