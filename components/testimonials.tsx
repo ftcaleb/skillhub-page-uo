@@ -109,9 +109,8 @@ export function Testimonials() {
                       key={`testimonial-dot-${i}`}
                       type="button"
                       onClick={() => setCurrent(i)}
-                      className={`h-1.5 rounded-full transition-all duration-300 ${
-                        i === current ? "w-8 bg-accent" : "w-1.5 bg-primary-foreground/20"
-                      }`}
+                      className={`h-1.5 rounded-full transition-all duration-300 ${i === current ? "w-8 bg-accent" : "w-1.5 bg-primary-foreground/20"
+                        }`}
                       aria-label={`Go to testimonial ${i + 1}`}
                     />
                   ))}

@@ -21,7 +21,7 @@ export function About() {
           <MotionDiv variants={slideInLeft} className="relative">
             <div className="relative rounded-2xl overflow-hidden aspect-[4/3] shadow-2xl">
               <Image
-                src="/images/about-students.jpg"
+                src="/asset/img1.jpeg"
                 alt="Students collaborating in a modern study space"
                 fill
                 className="object-cover"
@@ -63,7 +63,7 @@ export function About() {
           <div className="flex flex-col">
             <MotionDiv variants={fadeInUp}>
               <span className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-                About Ascend Institute
+                About SkillHub International
               </span>
             </MotionDiv>
 
@@ -75,10 +75,7 @@ export function About() {
 
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                Founded in 1985, Ascend Institute has grown from a small educational
-                venture into one of the most respected academic institutions globally. We
-                combine rigorous scholarship with practical experience to prepare
-                graduates who lead, innovate, and create lasting impact.
+                Based in South Africa and operating internationally, we design and deliver high-impact short courses, executive programmes, learnerships, and professional certifications that are practical, relevant, and aligned with modern organisational needs. Our programmes are delivered online, in-house at client premises, or at neutral training venues in major cities worldwide.
               </p>
             </MotionDiv>
 
