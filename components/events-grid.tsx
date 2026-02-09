@@ -19,7 +19,7 @@ import {
 const allEvents = [
     {
         id: "effective-specifications-writing",
-        category: "Logistics",
+        category: "Procurement Management",
         title: "Effective Specifications Writing",
         description:
             "A focused training that equips participants to write clear, concise, and accurate specifications that communicate project requirements effectively. Includes practical exercises, case studies, and templates to improve clarity, consistency, and impact.",
@@ -31,7 +31,7 @@ const allEvents = [
     },
     {
         id: "combatting-procurement-fraud",
-        category: "Logistics",
+        category: "Procurement Management",
         title: "Combatting procurement fraud",
         description:
             "Gain practical skills to detect, prevent, and manage procurement fraud and corruption, including risk assessment, fraud indicators, and internal controls aligned with international best practices.",
@@ -43,7 +43,7 @@ const allEvents = [
     },
     {
         id: "advanced-superivorsy-management-skills",
-        category: "Logistics",
+        category: "Procurement Management",
         title: "Advanced Superivorsy Management Skills",
         description:
             "Learn essential tools and strategies to lead teams effectively, tackle workplace challenges, and reduce employee turnover through strong supervision.",
@@ -55,7 +55,7 @@ const allEvents = [
     },
     {
         id: "advanced-principles-ports-marine-terminals-management",
-        category: "Logistics",
+        category: "Ports & Shipping Management",
         title: "Advanced Principles in Ports & Marine Terminals Management",
         description:
             "Master port and terminal operations with a focus on risk-based management, safety, efficiency, and KPI-driven performance following global standards.",
@@ -67,7 +67,7 @@ const allEvents = [
     },
     {
         id: "ai-data-analytics-operations",
-        category: "AI & Analytics",
+        category: "Procurement Management",
         title: "AI and Data Analytics in Operations & International Conference on Global Logistics",
         description:
             "Harness AI and data analytics to optimize supply chain operations, improve visibility, resilience, and decision-making using machine learning, predictive analytics, and real-world applications.",
@@ -79,7 +79,7 @@ const allEvents = [
     },
     {
         id: "transport-fleet-management",
-        category: "Logistics",
+        category: "Transport and Distribution Management",
         title: "Transport and Fleet Management",
         description:
             "Develop practical skills to manage transportation resources efficiently, ensure safety and compliance, optimize operations, and drive cost savings while promoting integrity and transparency.",
@@ -91,7 +91,7 @@ const allEvents = [
     },
 ]
 
-const categories = ["All", "Logistics", "AI & Analytics", "Leadership"]
+const categories = ["All", "Procurement Management", "Ports & Shipping Management", "Transport and Distribution Management"]
 
 export function EventsGrid() {
     const [search, setSearch] = useState("")
