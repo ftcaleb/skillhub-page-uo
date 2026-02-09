@@ -3,6 +3,7 @@
 import { Event } from "@/lib/events-data"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 import { Calendar, MapPin, Clock, Users, CheckCircle, ArrowRight } from "lucide-react"
 import { motion } from "motion/react"
 import { fadeInUp, staggerContainer } from "@/components/motion"
@@ -34,10 +35,12 @@ export function EventDetail({ event }: EventDetailProps) {
                             </h1>
 
                             <div className="relative aspect-video w-full overflow-hidden rounded-2xl mb-8">
-                                <img
+                                <Image
                                     src={event.imgSrc || "/placeholder-event.jpg"}
                                     alt={event.title}
-                                    className="object-cover w-full h-full"
+                                    fill
+                                    className="object-cover"
+                                    priority
                                 />
                             </div>
 

@@ -5,15 +5,13 @@ import { motion, AnimatePresence } from "motion/react"
 import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
 import Link from "next/link"
+import NextImage from "next/image"
 import {
     Search,
     Calendar,
     MapPin,
     Users,
     ArrowRight,
-    Briefcase,
-    Brain,
-    TrendingUp,
 } from "lucide-react"
 import { Event, getAllEventCategories } from "@/lib/events-data"
 import { Pagination } from "@/components/pagination"
@@ -138,10 +136,11 @@ export function EventsGrid({
 
                                         {/* Image Header Area */}
                                         <div className="relative h-48 w-full overflow-hidden bg-muted">
-                                            <img
+                                            <NextImage
                                                 src={event.imgSrc || "/placeholder-event.jpg"}
                                                 alt={event.title}
-                                                className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                                fill
+                                                className="object-cover transition-transform duration-700 group-hover:scale-105"
                                             />
                                             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent opacity-60" />
 

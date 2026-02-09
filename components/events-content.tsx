@@ -70,7 +70,7 @@ export function EventsContent() {
                         variants={fadeInUp}
                         className="mt-2 text-md md:text-lg text-white/60"
                     >
-                        Hosted by Trajlon Group — world-class operational leadership, logistics & AI training
+                        Hosted by SkillHub International — world-class operational leadership, logistics & AI training
                         events.
                     </motion.p>
                 </motion.div>
@@ -91,7 +91,7 @@ export function EventsContent() {
                     </motion.div>
 
                     <motion.p variants={fadeInUp} className="text-lg text-muted-foreground leading-relaxed">
-                        Trajlon Group delivers expert-led events and training that help professionals and
+                        SkillHub International delivers expert-led events and training that help professionals and
                         organizations unlock business operations excellence through supply chain management,
                         AI-driven analytics, leadership, transport & logistics mastery, and real-world practical
                         skills.
