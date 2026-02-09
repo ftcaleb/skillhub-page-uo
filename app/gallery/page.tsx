@@ -1,14 +1,14 @@
 import { Navbar } from "@/components/navbar"
 import { PageHeader } from "@/components/page-header"
-import { GalleryGrid } from "@/components/gallery-grid"
+import { GalleryGrid } from "@/components/gallery/gallery-grid"
 import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: "Gallery | SkillHub",
+    title: "Gallery | SkillHub International",
     description:
-        "Explore our gallery showcasing memorable moments from events, graduations, workshops, and milestones at SkillHub and Trajlon Group.",
+        "Explore our gallery showcasing memorable moments from events, graduations, workshops, and milestones at SkillHub International.",
 }
 
 export default function GalleryPage() {
