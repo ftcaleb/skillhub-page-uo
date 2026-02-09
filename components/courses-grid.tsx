@@ -9,17 +9,13 @@ import { useRouter, useSearchParams, usePathname } from "next/navigation"
 import {
   Search,
   Clock,
-  BarChart3,
   Users,
   ArrowRight,
   Sparkles,
   Cpu,
-  TrendingUp,
   Globe,
   BookOpen,
-  Lightbulb,
   Shield,
-  Briefcase,
   Layers,
   GraduationCap
 } from "lucide-react"
