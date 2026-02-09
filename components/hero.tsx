@@ -6,9 +6,9 @@ import { ArrowRight, Play } from "lucide-react"
 import Image from "next/image"
 
 const stats = [
-  { value: "40+", label: "Years of Excellence" },
-  { value: "15K+", label: "Global Alumni" },
-  { value: "200+", label: "Expert Faculty" },
+  { value: "20+", label: "Years of Experience" },
+  { value: "3450+", label: "Professionals Trained" },
+  { value: "98%", label: "Satisfied Learners" },
   { value: "50+", label: "Countries" },
 ]
 
@@ -87,8 +87,7 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.6, ease: [0.22, 1, 0.36, 1] }}
           >
-            SkillHub International is a professional training and capacity-building partner offering a diverse and expanding portfolio of short courses across key business functions for private, public and third sector organisations
-          </motion.p>
+            SkillHub International’s brand voice is professional, inspiring, and empowering. We communicate with the confidence of global educators and the warmth of passionate mentors, clear, inclusive, and motivating learners at every stage. Our tone is approachable yet expert, reinforcing excellence, global connection, and transformative learning.          </motion.p>
 
           <motion.div
             className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center"
