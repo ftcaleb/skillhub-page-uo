@@ -32,11 +32,11 @@ function MissionVision() {
                   Our Mission
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  To cultivate transformational leaders who combine intellectual rigour
-                  with ethical responsibility, empowering them to solve the complex
-                  challenges of a rapidly changing world. We provide a world-class
-                  education that bridges theory and practice, fostering innovation at
-                  every level.
+                  To deliver high-impact, industry-aligned training that
+                  equips professionals and organisations with practical,
+                  future-ready skills. We focus on measurable performance, operational
+                  excellence, and leadership capability. Every programme is designed to
+                  create real-world value and sustainable growth
                 </p>
               </div>
             </div>
@@ -54,10 +54,10 @@ function MissionVision() {
                   Our Vision
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  To be the foremost global institution for leadership education,
-                  recognized for producing graduates who redefine industries, shape
-                  public policy, and create lasting positive impact in communities
-                  worldwide. A beacon of academic excellence for the next century.
+                  To be a globally recognised leader in business education, trusted for
+                  developing agile, high-performing talent. We aim to set the benchmark
+                  for excellence across industries. Through innovation and relevance,
+                  we shape the future of learning and work.
                 </p>
               </div>
             </div>
@@ -77,7 +77,7 @@ function OurStory() {
           <MotionDiv variants={slideInLeft} className="relative">
             <div className="relative rounded-2xl overflow-hidden aspect-[4/3] shadow-2xl">
               <Image
-                src="/images/about-students.jpg"
+                src="/asset/img1.jpeg"
                 alt="Students collaborating in a modern study space"
                 fill
                 className="object-cover"
@@ -91,28 +91,27 @@ function OurStory() {
           <div>
             <MotionDiv variants={fadeInUp}>
               <span className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">
-                Our Story
+                Learn with us
               </span>
             </MotionDiv>
             <MotionDiv variants={fadeInUp}>
               <h2 className="mt-4 font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl lg:text-[2.75rem] lg:leading-tight text-balance">
-                From a Small Venture to Global Excellence
+                Why Choose SkillHub International?
               </h2>
             </MotionDiv>
             <MotionDiv variants={fadeInUp}>
               <p className="mt-6 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                Founded in 1985 by a group of visionary educators, Ascend Institute
-                began with a single classroom and a bold idea: that leadership could be
-                taught through real-world immersion rather than rote theory.
+                At SkillHub International, we are passionate about providing an exceptional learning experience.
+                Guided by expert instructors and enriched with cutting-edge materials, our mission is
+                to equip you with the vital knowledge and skills to excel in today's dynamic business landscape.
               </p>
             </MotionDiv>
             <MotionDiv variants={fadeInUp}>
               <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                Over four decades, that idea has grown into a globally recognized
-                institution spanning 50+ countries, with 15,000+ alumni leading
-                organizations from Fortune 500 corporations to international NGOs.
-                Every program, every faculty appointment, and every campus expansion
-                has been guided by one principle: excellence without compromise.
+                Whether you're an individual eager to elevate your career or an organization focused on enhancing
+                performance, SkillHub International offers tailored learning experiences to meet your specific
+                objectives. We are driven by a commitment to provide efficient, effective, and insightful education
+                that equips you for a successful future in business management.
               </p>
             </MotionDiv>
           </div>
@@ -257,9 +256,8 @@ function Timeline() {
           {milestones.map((item, i) => (
             <motion.div
               key={item.year}
-              className={`relative flex items-start gap-8 pb-14 last:pb-0 ${
-                i % 2 === 0 ? "lg:flex-row" : "lg:flex-row-reverse"
-              }`}
+              className={`relative flex items-start gap-8 pb-14 last:pb-0 ${i % 2 === 0 ? "lg:flex-row" : "lg:flex-row-reverse"
+                }`}
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true, amount: 0.3 }}
@@ -276,11 +274,10 @@ function Timeline() {
 
               {/* Content */}
               <div
-                className={`ml-14 lg:ml-0 lg:w-[calc(50%-2rem)] ${
-                  i % 2 === 0
-                    ? "lg:text-right lg:pr-8"
-                    : "lg:text-left lg:pl-8 lg:ml-auto"
-                }`}
+                className={`ml-14 lg:ml-0 lg:w-[calc(50%-2rem)] ${i % 2 === 0
+                  ? "lg:text-right lg:pr-8"
+                  : "lg:text-left lg:pl-8 lg:ml-auto"
+                  }`}
               >
                 <span className="text-sm font-bold text-accent">{item.year}</span>
                 <h3 className="mt-1 text-lg font-semibold text-foreground">
@@ -300,9 +297,9 @@ function Timeline() {
 
 /* ─── Impact Stats ─── */
 const stats = [
-  { icon: GraduationCap, value: "15,000+", label: "Graduates Worldwide" },
-  { icon: Globe, value: "50+", label: "Countries Represented" },
-  { icon: Briefcase, value: "94%", label: "Employment Rate" },
+  { icon: GraduationCap, value: "20+", label: "Years of Experience" },
+  { icon: Globe, value: "3450+", label: "Professionals trained" },
+  { icon: Briefcase, value: "98%", label: "Satisfied Learners" },
   { icon: Users, value: "200+", label: "Expert Faculty" },
 ]
 
