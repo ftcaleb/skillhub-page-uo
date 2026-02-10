@@ -8,16 +8,19 @@ const partners = [
   "APICS",
   "T.E.T.A",
   "merSETA",
+  "VSCP Consulting",
   "QCTO",
   "SAPICS",
   "APICS",
   "T.E.T.A",
   "merSETA",
+  "VSCP Consulting",
   "QCTO",
   "SAPICS",
   "APICS",
   "T.E.T.A",
   "merSETA",
+  "VSCP Consulting",
 
 ]
 
