@@ -67,13 +67,34 @@ export function ContactForm() {
         setIsSubmitting(true)
         setIsError(false)
 
-        // Simulate API call
         try {
-            await new Promise((resolve) => setTimeout(resolve, 2000))
-            console.log("Form Submitted:", values)
+            const response = await fetch("/api/enroll", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    firstName: values.firstName,
+                    lastName: values.lastName,
+                    email: values.email,
+                    number: values.phone,
+                    message: values.message,
+                    // Hidden/Derived fields required by API
+                    type: "request",
+                    country: "South Africa", // Default/Derived
+                }),
+            })
+
+            if (!response.ok) {
+                const errorData = await response.json()
+                throw new Error(errorData.error || "Failed to submit request")
+            }
+
+            console.log("Form Submitted Successfully")
             setIsSuccess(true)
             form.reset()
         } catch (error) {
+            console.error("Submission Error:", error)
             setIsError(true)
         } finally {
             setIsSubmitting(false)
