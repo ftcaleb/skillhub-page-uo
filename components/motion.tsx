@@ -1,8 +1,6 @@
 "use client"
 
-import React from "react"
-
-import { useState, useEffect, useRef } from "react"
+import type { ReactNode } from "react"
 import { motion, type Variants } from "motion/react"
 
 export const fadeInUp: Variants = {

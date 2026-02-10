@@ -51,7 +51,7 @@ export const galleryItems: GalleryItem[] = [
         span: "small"
     },
     {
-        id: "5",
+        id: "9",
         src: "/asset/img17.jpeg",
         category: "Certified",
         span: "small"
