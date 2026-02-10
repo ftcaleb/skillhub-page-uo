@@ -100,7 +100,7 @@ export function Hero() {
               className="bg-accent text-accent-foreground hover:bg-accent/90 shadow-xl shadow-accent/20 h-12 px-8 text-sm font-medium"
               asChild
             >
-              <a href="#programs">
+              <a href="/courses">
                 Explore Programs
                 <ArrowRight className="ml-2 h-4 w-4" />
               </a>
@@ -111,7 +111,7 @@ export function Hero() {
               className="bg-transparent text-white/80 hover:text-white hover:bg-white/10 h-12 px-6 text-sm font-medium group"
               asChild
             >
-              <a href="#about">
+              <a href="/about">
                 <span className="flex h-8 w-8 items-center justify-center rounded-full border border-white/20 mr-2 group-hover:border-white/40 transition-colors">
                   <Play className="h-3 w-3 ml-0.5" />
                 </span>

@@ -5,9 +5,9 @@ import { Footer } from "@/components/footer"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "About | Ascend Institute",
+  title: "About | SkillHub International",
   description:
-    "Learn about Ascend Institute's four decades of academic excellence, our mission, values, and the impact we create worldwide.",
+    "Learn about SkillHub International's four decades of academic excellence, our mission, values, and the impact we create worldwide.",
 }
 
 export default function AboutPage() {

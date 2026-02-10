@@ -15,7 +15,7 @@ const trajlonEvents = [
         title: "Effective Specifications Writing",
         slug: "effective-specifications-writing",
         seo: {
-            seoTitle: "Effective Specifications Writing Workshop | Procurement Event | Trajlon Group",
+            seoTitle: "Effective Specifications Writing Workshop | Procurement Event | SkillHub International",
             seoDescription: "Join the Effective Specifications Writing event in Sandton, South Africa. Enhance your procurement management skills with expert-led sessions on writing clear and effective specifications. Register now for this essential procurement event!",
             seoKeywords: "specifications writing workshop, procurement event South Africa, operations training, procurement management, Sandton events, Trajlon Group events",
             seoHeading: "Effective Specifications Writing: Procurement Management Workshop",
@@ -37,7 +37,7 @@ const trajlonEvents = [
         title: "Combatting procurement Fraud",
         slug: "combatting-procurement-fraud",
         seo: {
-            seoTitle: "Combatting Procurement Fraud Seminar | Procurement Event | Trajlon Group",
+            seoTitle: "Combatting Procurement Fraud Seminar | Procurement Event | SkillHub International",
             seoDescription: "Attend the Combatting Procurement Fraud seminar in Cape Town. Learn best practices and strategies to prevent and detect procurement fraud in your organization. Secure your spot at this vital procurement management event.",
             seoKeywords: "procurement fraud seminar, operations fraud prevention, procurement management event, Cape Town events, Trajlon Group events, anti-fraud training",
             seoHeading: "Combatting Procurement Fraud: Procurement Risk Management",
@@ -59,7 +59,7 @@ const trajlonEvents = [
         title: "Advanced Supervisory Management Skills",
         slug: "advanced-supervisory-management-skills",
         seo: {
-            seoTitle: "Advanced Supervisory Management Skills Training | Trajlon Group",
+            seoTitle: "Advanced Supervisory Management Skills Training | SkillHub International",
             seoDescription: "Join our Advanced Supervisory Management Skills training in Sandton. Enhance your leadership and management capabilities in procurement. Register now for this essential workshop!",
             seoKeywords: "supervisory management training, procurement leadership skills, operations management, Sandton events, Trajlon Group training",
             seoHeading: "Advanced Supervisory Management Skills: Leadership Training",
@@ -81,7 +81,7 @@ const trajlonEvents = [
         title: "Advanced Principles in Ports and Marine Terminals Management",
         slug: "advanced-principles-in-ports-and-marine-terminals-management",
         seo: {
-            seoTitle: "Advanced Principles in Ports and Marine Terminals Management | Trajlon Group",
+            seoTitle: "Advanced Principles in Ports and Marine Terminals Management | SkillHub International",
             seoDescription: "Enhance your expertise in ports and marine terminals management at our advanced training in Durban. Learn best practices and strategies for effective port operations. Register today!",
             seoKeywords: "ports management training, marine terminals management, logistics, Durban events, Trajlon Group training",
             seoHeading: "Advanced Principles in Ports and Marine Terminals Management",
@@ -103,7 +103,7 @@ const trajlonEvents = [
         title: "AI and Data Analytics in Operations & International Conference on Global Logistics",
         slug: "ai-and-data-analytics-in-scm-international-conference-on-global-supply-chain-and-logistics",
         seo: {
-            seoTitle: "AI and Data Analytics in Operations | Global Logistics Conference | Trajlon Group",
+            seoTitle: "AI and Data Analytics in Operations | Global Logistics Conference | SkillHub International",
             seoDescription: "Join the AI and Data Analytics in Operations conference in Dubai. Explore the latest trends and innovations in global logistics and operations. Network with industry leaders and enhance your knowledge.",
             seoKeywords: "AI in operations, data analytics conference, global logistics, Dubai events, Trajlon Group conference",
             seoHeading: "AI and Data Analytics in Operations: Global Logistics Conference",
@@ -125,7 +125,7 @@ const trajlonEvents = [
         title: "Transport and Fleet Management",
         slug: "transport-and-fleet-management",
         seo: {
-            seoTitle: "Transport and Fleet Management Training | Trajlon Group",
+            seoTitle: "Transport and Fleet Management Training | SkillHub International",
             seoDescription: "Enhance your transport and fleet management skills at our training in Sandton. Learn effective strategies for managing transportation and logistics operations. Register now!",
             seoKeywords: "transport management training, fleet management skills, logistics, Sandton events, Trajlon Group training",
             seoHeading: "Transport and Fleet Management: Logistics Training",

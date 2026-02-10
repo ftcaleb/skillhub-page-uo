@@ -1,14 +1,12 @@
 import { Navbar } from "@/components/navbar"
 import { PageHeader } from "@/components/page-header"
-import { GalleryGrid } from "@/components/gallery/gallery-grid"
-import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
+import { GalleryGrid } from "@/components/gallery-grid"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
     title: "Gallery | SkillHub International",
-    description:
-        "Explore our gallery showcasing memorable moments from events, graduations, workshops, and milestones at SkillHub International.",
+    description: "Explore our campus life, workshops, and graduation ceremonies through our photo gallery.",
 }
 
 export default function GalleryPage() {
@@ -17,14 +15,15 @@ export default function GalleryPage() {
             <Navbar />
             <PageHeader
                 title="Our Gallery"
-                description="Explore memorable moments from our events, graduations, workshops, and partnerships. Witness the impact we create together across the business excellence community."
+                description="A visual journey through our campus life, professional workshops, and milestones."
                 breadcrumbs={[
                     { label: "Home", href: "/" },
-                    { label: "Gallery", href: "/gallery" }
+                    { label: "Gallery", href: "/gallery" },
                 ]}
             />
+
             <GalleryGrid />
-            <CtaSection />
+
             <Footer />
         </main>
     )

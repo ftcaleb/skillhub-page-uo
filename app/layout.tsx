@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-playfair' })
 
 export const metadata: Metadata = {
-  title: 'Ascend Institute | Excellence in Education Since 1985',
+  title: 'SkillHub International | Excellence in Education Since 1985',
   description: 'A premier global institution dedicated to fostering innovation, critical thinking, and academic excellence for the next generation of changemakers.',
 }
 
