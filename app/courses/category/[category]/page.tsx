@@ -46,7 +46,7 @@ export async function generateMetadata({
             title,
             description,
             type: "website",
-            siteName: "Ascend Institute",
+            siteName: "SkillHub International",
         },
         twitter: {
             card: "summary_large_image",
