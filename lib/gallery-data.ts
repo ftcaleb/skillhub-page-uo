@@ -45,12 +45,6 @@ export const galleryItems: GalleryItem[] = [
         span: "large"
     },
     {
-        id: "5",
-        src: "/asset/img15.jpeg",
-        category: "Community",
-        span: "medium"
-    },
-    {
         id: "7",
         src: "/asset/img16.jpeg",
         category: "Community",
