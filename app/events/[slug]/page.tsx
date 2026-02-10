@@ -92,8 +92,8 @@ export default async function EventPage({ params }: EventPageProps) {
                         },
                         organizer: {
                             "@type": "Organization",
-                            name: "Trajlon Group",
-                            url: "https://trajlon.com"
+                            name: "SkillHub International",
+                            url: "https://skillhubinternational.com"
                         }
                     })
                 }}

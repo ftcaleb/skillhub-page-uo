@@ -33,7 +33,7 @@ export async function generateMetadata({
     }
 
     const seo = course.seo || {}
-    const title = seo.seoTitle || `${course.title} | Ascend Institute`
+    const title = seo.seoTitle || `${course.title} | SkillHub International`
     const description =
         seo.seoDescription || course.shortDesc || course.overview.substring(0, 160)
     const keywords = seo.seoKeywords
@@ -46,7 +46,7 @@ export async function generateMetadata({
             title,
             description,
             type: "website",
-            siteName: "Ascend Institute",
+            siteName: "SkillHub International",
         },
         twitter: {
             card: "summary_large_image",
@@ -72,7 +72,7 @@ export default async function CoursePage({ params }: CoursePageProps) {
         description: course.overview,
         provider: {
             "@type": "Organization",
-            name: "Ascend Institute",
+            name: "SkillHub International",
         },
         courseCode: course.id.toString(),
         educationalLevel: "Professional Development",

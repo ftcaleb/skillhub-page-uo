@@ -28,7 +28,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
     const { page } = await params
     return {
-        title: `Courses - Page ${page} | Ascend Institute`,
+        title: `Courses - Page ${page} | SkillHub International`,
         description: `Browse page ${page} of our professional courses and training programs.`,
     }
 }

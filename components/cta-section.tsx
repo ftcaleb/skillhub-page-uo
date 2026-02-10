@@ -61,7 +61,7 @@ export function CtaSection() {
                   className="bg-accent text-accent-foreground hover:bg-accent/90 shadow-xl shadow-accent/25 h-12 px-8 text-sm font-medium"
                   asChild
                 >
-                  <a href="#cta">
+                  <a href="/contact">
                     Apply Now
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </a>

@@ -7,9 +7,9 @@ import { getPaginatedCourses } from "@/lib/courses-data"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Courses | Ascend Institute",
+  title: "Courses | SkillHub International",
   description:
-    "Explore world-class programs in leadership, technology, finance, and business management at Ascend Institute.",
+    "Explore world-class programs in leadership, technology, finance, and business management at SkillHub International.",
 }
 
 export default function CoursesPage() {
