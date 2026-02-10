@@ -16,7 +16,7 @@ const programs = [
     description: "Develop transformational leadership skills for the modern business landscape through immersive case studies and global simulations.",
     duration: "12 Weeks",
     level: "Advanced",
-    enrolled: "2,500",
+    enroll: "",
     icon: Sparkles,
     featured: true,
   },
@@ -26,7 +26,7 @@ const programs = [
     description: "Master strategic thinking and decision-making frameworks used by Fortune 500 executives worldwide.",
     duration: "8 Weeks",
     level: "Intermediate",
-    enrolled: "3,200",
+    enroll: "",
     icon: TrendingUp,
     featured: false,
   },
@@ -36,7 +36,7 @@ const programs = [
     description: "Navigate the digital transformation journey with confidence. From machine learning to product strategy.",
     duration: "10 Weeks",
     level: "Intermediate",
-    enrolled: "1,800",
+    enroll: "",
     icon: Cpu,
     featured: false,
   },
@@ -46,7 +46,7 @@ const programs = [
     description: "Understand global financial markets, investment strategies, and economic principles that drive growth.",
     duration: "6 Weeks",
     level: "Advanced",
-    enrolled: "2,100",
+    enroll: "",
     icon: Globe,
     featured: false,
   },
@@ -100,11 +100,10 @@ export function Programs() {
                 key={cat}
                 type="button"
                 onClick={() => setActiveCategory(cat)}
-                className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300 ${
-                  activeCategory === cat
+                className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300 ${activeCategory === cat
                     ? "text-accent-foreground"
                     : "text-muted-foreground hover:text-foreground"
-                }`}
+                  }`}
               >
                 {activeCategory === cat && (
                   <motion.span
@@ -134,11 +133,10 @@ export function Programs() {
                 transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
                 className="group"
               >
-                <div className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 ${
-                  program.featured
+                <div className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 ${program.featured
                     ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
                     : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
-                }`}>
+                  }`}>
                   {program.featured && (
                     <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-accent to-transparent" />
                   )}
@@ -182,7 +180,7 @@ export function Programs() {
                     <div className="mt-5 pt-5 border-t border-border/50 flex items-center justify-between">
                       <span className="flex items-center gap-1.5 text-xs text-muted-foreground">
                         <Users className="h-3.5 w-3.5" />
-                        <span className="font-semibold text-foreground">{program.enrolled}</span>
+                        <span className="font-semibold text-foreground">{program.enroll}</span>
                         {" enrolled"}
                       </span>
                       <span className="text-xs font-medium text-accent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center gap-1">
