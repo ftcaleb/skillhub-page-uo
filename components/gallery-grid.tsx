@@ -16,8 +16,8 @@ import Image from "next/image"
 const galleryItems = [
     {
         id: "leadership-summit-2025",
-        category: "Events",
-        title: "Executive Leadership Summit 2025",
+        category: "Workshops",
+        title: "Training Workshop",
         image: "/asset/bgimg2.jpeg",
         featured: true,
     },

@@ -55,31 +55,11 @@ export function ImageCard({ item, onClick, priority = false }: ImageCardProps) {
                         <span className="inline-flex rounded-full bg-white/20 px-2 py-0.5 text-xs font-medium text-white backdrop-blur-sm border border-white/10">
                             {item.category}
                         </span>
-                        {item.year && (
-                            <span className="text-xs font-medium text-white/80">
-                                {item.year}
-                            </span>
-                        )}
                     </div>
 
                     <h3 className="text-xl font-semibold text-white mb-1">
                         {item.title}
                     </h3>
-
-                    <div className="flex items-center justify-between opacity-0 transition-opacity duration-300 delay-75 group-hover:opacity-100">
-                        <div className="flex items-center gap-1.5 text-sm text-white/80">
-                            {item.location && (
-                                <>
-                                    <MapPin className="h-3.5 w-3.5" />
-                                    <span>{item.location}</span>
-                                </>
-                            )}
-                        </div>
-
-                        <div className="flex h-8 w-8 items-center justify-center rounded-full bg-white/20 backdrop-blur-md text-white transition-all hover:bg-white hover:text-black">
-                            <Plus className="h-4 w-4" />
-                        </div>
-                    </div>
                 </div>
             </div>
         </motion.div>

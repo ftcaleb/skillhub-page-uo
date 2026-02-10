@@ -112,18 +112,6 @@ export function Lightbox({
                                 <h3 className="text-xl font-semibold mb-1">{item.title}</h3>
                                 <div className="flex items-center justify-center gap-2 text-sm text-white/70">
                                     <span>{item.category}</span>
-                                    {item.location && (
-                                        <>
-                                            <span>•</span>
-                                            <span>{item.location}</span>
-                                        </>
-                                    )}
-                                    {item.year && (
-                                        <>
-                                            <span>•</span>
-                                            <span>{item.year}</span>
-                                        </>
-                                    )}
                                 </div>
                             </div>
                         </motion.div>
