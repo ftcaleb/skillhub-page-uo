@@ -222,29 +222,29 @@ function CoreValues() {
 /* ─── Timeline ─── */
 const milestones = [
   {
-    year: "1985",
-    title: "Founded",
-    description: "Ascend Institute opens its doors with 50 students and 8 faculty members in a single campus building.",
+    year: "1999",
+    title: "Larreth Investments",
+    description: "Founded in Zimbabwe.",
   },
   {
-    year: "1995",
-    title: "First International Partnership",
-    description: "Signed collaboration agreements with Harvard Business School and Oxford, establishing global exchange programmes.",
+    year: "2018",
+    title: "Larreth Group",
+    description: "Launched in South Africa.",
   },
   {
-    year: "2005",
-    title: "10,000 Alumni Milestone",
-    description: "Reached 10,000 graduates working across 40+ countries. Launched the Executive Leadership Program.",
+    year: "2020",
+    title: "Larreth Group Eswatini",
+    description: "Launched a new branch in Swaziland.",
   },
   {
-    year: "2015",
-    title: "Innovation Hub Launched",
-    description: "Opened a state-of-the-art Innovation Hub and introduced the Digital Innovation & AI curriculum track.",
+    year: "2022",
+    title: "Larreth Group The Gambia",
+    description: "Launched a new branch in The Gambia.",
   },
   {
-    year: "2024",
-    title: "Top 5% Global Ranking",
-    description: "Ranked in the top 5% of global institutions. 15,000+ alumni, 200+ faculty, 50+ partner countries.",
+    year: "2025",
+    title: "Skillhub International",
+    description: "Larreth Group changed to SkillHub International Pty Ltd.",
   },
 ]
 
