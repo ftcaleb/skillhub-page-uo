@@ -41,38 +41,44 @@ export function GalleryGrid() {
     }
 
     return (
-        <section className="py-16 lg:py-24 bg-background border-t border-border/40">
+        <section className="py-12 lg:py-20 bg-background">
             <div className="container px-4 md:px-6">
 
-                {/* Filters */}
-                <div className="flex flex-wrap items-center justify-center gap-2 mb-12">
-                    {galleryCategories.map((category) => (
-                        <button
-                            key={category}
-                            onClick={() => setFilter(category)}
-                            className={cn(
-                                "relative px-4 py-2 text-sm font-medium transition-colors rounded-full",
-                                filter === category
-                                    ? "text-primary-foreground"
-                                    : "text-muted-foreground hover:text-foreground hover:bg-muted"
-                            )}
-                        >
-                            {filter === category && (
-                                <motion.div
-                                    layoutId="gallery-filter"
-                                    className="absolute inset-0 bg-primary rounded-full"
-                                    transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
-                                />
-                            )}
-                            <span className="relative z-10">{category}</span>
-                        </button>
-                    ))}
+                {/* Filters - Minimalist approach */}
+                <div className="flex flex-col md:flex-row items-center justify-between gap-6 mb-16">
+                    <div className="flex flex-wrap items-center justify-center md:justify-start gap-1 p-1 bg-muted/50 rounded-full border border-border/40 backdrop-blur-sm">
+                        {galleryCategories.map((category) => (
+                            <button
+                                key={category}
+                                onClick={() => setFilter(category)}
+                                className={cn(
+                                    "relative px-5 py-2 text-xs font-semibold tracking-wide uppercase transition-all rounded-full",
+                                    filter === category
+                                        ? "text-primary-foreground"
+                                        : "text-muted-foreground hover:text-foreground"
+                                )}
+                            >
+                                {filter === category && (
+                                    <motion.div
+                                        layoutId="gallery-filter"
+                                        className="absolute inset-0 bg-primary rounded-full shadow-lg shadow-primary/20"
+                                        transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
+                                    />
+                                )}
+                                <span className="relative z-10">{category}</span>
+                            </button>
+                        ))}
+                    </div>
+
+                    <div className="hidden md:block text-sm text-muted-foreground tracking-tight">
+                        Showing <span className="text-foreground font-medium">{filteredItems.length}</span> selected works
+                    </div>
                 </div>
 
-                {/* Grid */}
+                {/* Grid - Refined Masonry-like Grid */}
                 <motion.div
                     layout
-                    className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 auto-rows-[250px]"
+                    className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 auto-rows-[300px]"
                 >
                     <AnimatePresence mode="popLayout">
                         {filteredItems.map((item, index) => (
@@ -88,9 +94,13 @@ export function GalleryGrid() {
 
                 {/* Empty State */}
                 {filteredItems.length === 0 && (
-                    <div className="text-center py-20">
-                        <p className="text-muted-foreground">No images found in this category.</p>
-                    </div>
+                    <motion.div
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        className="text-center py-32 border border-dashed border-border/60 rounded-3xl"
+                    >
+                        <p className="text-muted-foreground text-lg italic">No visual records found in this category.</p>
+                    </motion.div>
                 )}
             </div>
 

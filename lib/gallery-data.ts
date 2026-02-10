@@ -2,85 +2,70 @@ export interface GalleryItem {
     id: string
     src: string
     category: string
-    title: string
-    location?: string
-    year?: string
     span?: "small" | "medium" | "large"
 }
 
-export const galleryCategories = ["All", "Events", "Training", "Facilities", "Community"]
+export const galleryCategories = ["All", "Community", "Certified", "Workshops",]
 
 export const galleryItems: GalleryItem[] = [
     {
         id: "1",
         src: "/asset/bgimg2.jpeg",
         category: "Events",
-        title: "Annual Procurement Summit",
-        location: "Sandton, South Africa",
-        year: "2025",
         span: "large"
     },
     {
         id: "2",
         src: "/asset/img1.jpeg",
-        category: "Training",
-        title: "Executive Leadership Workshop",
-        location: "Dubai, UAE",
-        year: "2025",
+        category: "Certified",
         span: "medium"
     },
     {
         id: "3",
-        src: "/asset/img2.jpeg",
-        category: "Community",
-        title: "Graduation Ceremony",
-        location: "Cape Town",
-        year: "2024",
+        src: "/asset/img9.jpeg",
+        category: "Workshops",
         span: "small"
     },
     {
         id: "4",
-        src: "/asset/img3.jpeg",
-        category: "Facilities",
-        title: "Modern Training Center",
-        location: "Johannesburg",
-        year: "2024",
+        src: "/asset/img11.jpeg",
+        category: "Certified",
         span: "small"
     },
     {
         id: "5",
-        src: "/asset/img4.jpeg",
-        category: "Training",
-        title: "Supply Chain Simulation",
-        location: "Durban",
-        year: "2025",
+        src: "/asset/img15.jpeg",
+        category: "Workshops",
         span: "medium"
     },
     {
         id: "6",
         src: "/asset/img5.jpeg",
-        category: "Events",
-        title: "Global Logistics Conference",
-        location: "London, UK",
-        year: "2025",
+        category: "Community",
         span: "large"
     },
     {
-        id: "7",
-        src: "/asset/img6.jpeg",
+        id: "5",
+        src: "/asset/img15.jpeg",
         category: "Community",
-        title: "Alumni Networking Night",
-        location: "Sandton",
-        year: "2024",
+        span: "medium"
+    },
+    {
+        id: "7",
+        src: "/asset/img16.jpeg",
+        category: "Community",
+        span: "small"
+    },
+    {
+        id: "5",
+        src: "/asset/img17.jpeg",
+        category: "Certified",
         span: "small"
     },
     {
         id: "8",
         src: "/asset/img7.jpeg",
         category: "Facilities",
-        title: "Interactive Lecture Hall",
-        location: "Sandton",
-        year: "2024",
         span: "medium"
     }
 ]
