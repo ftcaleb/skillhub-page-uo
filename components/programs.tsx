@@ -101,8 +101,8 @@ export function Programs() {
                 type="button"
                 onClick={() => setActiveCategory(cat)}
                 className={`relative rounded-full px-4 py-2 text-sm font-medium transition-colors duration-300 ${activeCategory === cat
-                    ? "text-accent-foreground"
-                    : "text-muted-foreground hover:text-foreground"
+                  ? "text-accent-foreground"
+                  : "text-muted-foreground hover:text-foreground"
                   }`}
               >
                 {activeCategory === cat && (
@@ -134,8 +134,8 @@ export function Programs() {
                 className="group"
               >
                 <div className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 ${program.featured
-                    ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
-                    : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
+                  ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
+                  : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
                   }`}>
                   {program.featured && (
                     <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-accent to-transparent" />
@@ -181,7 +181,7 @@ export function Programs() {
                       <span className="flex items-center gap-1.5 text-xs text-muted-foreground">
                         <Users className="h-3.5 w-3.5" />
                         <span className="font-semibold text-foreground">{program.enroll}</span>
-                        {" enrolled"}
+                        {" enroll"}
                       </span>
                       <span className="text-xs font-medium text-accent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center gap-1">
                         Learn more
