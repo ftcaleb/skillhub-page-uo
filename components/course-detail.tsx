@@ -80,8 +80,10 @@ export function CourseDetail({ course }: CourseDetailProps) {
                         </div>
 
                         <div className="mt-8 flex flex-wrap gap-4">
-                            <Button size="lg" className="bg-accent hover:bg-accent/90">
-                                Enroll Now
+                            <Button size="lg" className="bg-accent hover:bg-accent/90" asChild>
+                                <Link href={`/courses/${course.slg}/enroll`}>
+                                    Enroll Now
+                                </Link>
                             </Button>
                             {course.brochure && (
                                 <Button
@@ -107,8 +109,8 @@ export function CourseDetail({ course }: CourseDetailProps) {
                                 key={tab}
                                 onClick={() => setActiveTab(tab)}
                                 className={`relative px-6 py-3 text-sm font-medium transition-colors capitalize ${activeTab === tab
-                                        ? "text-accent"
-                                        : "text-muted-foreground hover:text-foreground"
+                                    ? "text-accent"
+                                    : "text-muted-foreground hover:text-foreground"
                                     }`}
                             >
                                 {activeTab === tab && (
@@ -258,8 +260,10 @@ export function CourseDetail({ course }: CourseDetailProps) {
                                 Join thousands of professionals who have advanced their careers with our world-class training programs.
                             </p>
                             <div className="flex flex-wrap gap-4 justify-center">
-                                <Button size="lg" className="bg-accent hover:bg-accent/90">
-                                    Enroll Now
+                                <Button size="lg" className="bg-accent hover:bg-accent/90" asChild>
+                                    <Link href={`/courses/${course.slg}/enroll`}>
+                                        Enroll Now
+                                    </Link>
                                 </Button>
                                 <Button size="lg" variant="outline" asChild>
                                     <Link href="/courses">

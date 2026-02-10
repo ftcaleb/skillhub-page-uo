@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
 import { Calendar, MapPin, Clock, Users, CheckCircle, ArrowRight } from "lucide-react"
+import Link from "next/link"
 import { motion } from "motion/react"
 import { fadeInUp, staggerContainer } from "@/components/motion"
 
@@ -120,9 +121,11 @@ export function EventDetail({ event }: EventDetailProps) {
                             </div>
 
                             <div className="mt-8 pt-8 border-t border-border/50">
-                                <Button className="w-full h-12 text-base" size="lg">
-                                    Register Now
-                                    <ArrowRight className="ml-2 h-4 w-4" />
+                                <Button className="w-full h-12 text-base" size="lg" asChild>
+                                    <Link href={`/events/${event.slug}/register`}>
+                                        Register Now
+                                        <ArrowRight className="ml-2 h-4 w-4" />
+                                    </Link>
                                 </Button>
                                 <p className="mt-4 text-xs text-center text-muted-foreground">
                                     Limited seats available. Secure your spot today.

@@ -23,6 +23,8 @@ import { getAllCategories, Course } from "@/lib/courses-data"
 import { Pagination } from "@/components/pagination"
 import { cn } from "@/lib/utils"
 
+import { Button } from "@/components/ui/button"
+
 // Map categories to icons
 const getCategoryIcon = (category: string) => {
   const lowerCat = category.toLowerCase()
@@ -194,77 +196,83 @@ export function CoursesGrid({
                   transition={{ duration: 0.2 }}
                   className="group h-full"
                 >
-                  <Link href={`/courses/${course.slg}`} className="block h-full">
-                    <div
-                      className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 hover:-translate-y-1 ${course.popular
-                        ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
-                        : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
-                        }`}
-                    >
-                      {/* Spotlight gradient on hover */}
-                      <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none bg-[radial-gradient(600px_circle_at_var(--mouse-x,50%)_var(--mouse-y,0%),hsl(var(--accent)/0.04),transparent_40%)]" />
+                  <div
+                    onClick={() => router.push(`/courses/${course.slg}`)}
+                    className={`relative h-full overflow-hidden rounded-2xl border transition-all duration-500 hover:-translate-y-1 cursor-pointer ${course.popular
+                      ? "border-accent/30 bg-card shadow-lg shadow-accent/[0.06]"
+                      : "border-border/50 bg-card hover:shadow-xl hover:shadow-primary/[0.04] hover:border-border"
+                      }`}
+                  >
+                    {/* Spotlight gradient on hover */}
+                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none bg-[radial-gradient(600px_circle_at_var(--mouse-x,50%)_var(--mouse-y,0%),hsl(var(--accent)/0.04),transparent_40%)]" />
 
-                      {course.popular && (
-                        <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-accent to-transparent" />
-                      )}
+                    {course.popular && (
+                      <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-accent to-transparent" />
+                    )}
 
-                      <div className="relative p-6 lg:p-7 flex flex-col h-full">
-                        <div className="flex items-start justify-between">
-                          <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/5 ring-1 ring-primary/10 transition-all duration-300 group-hover:bg-accent/10 group-hover:ring-accent/20">
-                            <Icon className="h-5 w-5 text-primary transition-colors duration-300 group-hover:text-accent" />
-                          </div>
-                          <div className="flex items-center gap-2">
-                            {course.popular && (
-                              <Badge className="bg-accent/10 text-accent border-accent/20 text-[10px]">
-                                Popular
-                              </Badge>
-                            )}
-                            <Badge
-                              variant="outline"
-                              className="text-[10px] font-semibold"
-                            >
-                              Certificate
+                    <div className="relative p-6 lg:p-7 flex flex-col h-full">
+                      <div className="flex items-start justify-between">
+                        <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-primary/5 ring-1 ring-primary/10 transition-all duration-300 group-hover:bg-accent/10 group-hover:ring-accent/20">
+                          <Icon className="h-5 w-5 text-primary transition-colors duration-300 group-hover:text-accent" />
+                        </div>
+                        <div className="flex items-center gap-2">
+                          {course.popular && (
+                            <Badge className="bg-accent/10 text-accent border-accent/20 text-[10px]">
+                              Popular
                             </Badge>
-                          </div>
+                          )}
+                          <Badge
+                            variant="outline"
+                            className="text-[10px] font-semibold"
+                          >
+                            Certificate
+                          </Badge>
                         </div>
+                      </div>
 
-                        <div className="mt-5">
-                          <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-muted-foreground">
-                            {course.type}
-                          </p>
-                          <h3 className="mt-1.5 text-lg font-semibold leading-snug text-foreground line-clamp-2">
-                            {course.title}
-                          </h3>
-                        </div>
-
-                        <p className="mt-3 text-sm leading-relaxed text-muted-foreground line-clamp-3 mb-4">
-                          {course.shortDesc || course.overview}
+                      <div className="mt-5">
+                        <p className="text-[10px] font-semibold uppercase tracking-[0.15em] text-muted-foreground">
+                          {course.type}
                         </p>
+                        <h3 className="mt-1.5 text-lg font-semibold leading-snug text-foreground line-clamp-2">
+                          {course.title}
+                        </h3>
+                      </div>
 
-                        <div className="mt-auto">
-                          <div className="flex flex-wrap items-center gap-4 text-xs text-muted-foreground">
-                            <span className="flex items-center gap-1.5">
-                              <Clock className="h-3.5 w-3.5" />
-                              {course.duration}
-                            </span>
-                            <span className="flex items-center gap-1.5">
-                              <Users className="h-3.5 w-3.5" />
-                              Enrolling
-                            </span>
-                          </div>
+                      <p className="mt-3 text-sm leading-relaxed text-muted-foreground line-clamp-3 mb-4">
+                        {course.shortDesc || course.overview}
+                      </p>
 
-                          <div className="mt-6 pt-5 border-t border-border/50 flex items-center justify-between">
-                            <span className="text-sm font-medium text-foreground">
-                              View Details
-                            </span>
-                            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-secondary transition-all duration-300 group-hover:bg-accent group-hover:text-accent-foreground">
-                              <ArrowRight className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />
-                            </span>
-                          </div>
+                      <div className="mt-auto">
+                        <div className="flex flex-wrap items-center gap-4 text-xs text-muted-foreground">
+                          <span className="flex items-center gap-1.5">
+                            <Clock className="h-3.5 w-3.5" />
+                            {course.duration}
+                          </span>
+                          <span className="flex items-center gap-1.5">
+                            <Users className="h-3.5 w-3.5" />
+                            Enrolling
+                          </span>
+                        </div>
+
+                        <div className="mt-6 pt-5 border-t border-border/50 flex items-center justify-between gap-4">
+                          <Button
+                            size="sm"
+                            className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-xl px-4"
+                            asChild
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            <Link href={`/courses/${course.slg}/enroll`}>
+                              Enroll Now
+                            </Link>
+                          </Button>
+                          <span className="flex h-8 w-8 items-center justify-center rounded-full bg-secondary transition-all duration-300 group-hover:bg-secondary/80">
+                            <ArrowRight className="h-3.5 w-3.5 transition-transform duration-300 group-hover:translate-x-0.5" />
+                          </span>
                         </div>
                       </div>
                     </div>
-                  </Link>
+                  </div>
                 </motion.div>
               )
             })}

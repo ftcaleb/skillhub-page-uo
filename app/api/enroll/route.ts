@@ -13,6 +13,11 @@ export async function POST(req: Request) {
             lastName,
             name,
             message,
+            city,
+            companyName,
+            startDate,
+            attendees,
+            courseOrEventName,
         } = body
 
         // Validation based on requirements
@@ -56,23 +61,33 @@ export async function POST(req: Request) {
             from: process.env.SMTP_USER,
             to: process.env.RECEIVER_EMAIL || "sales@trajlongroup.com",
             replyTo: email,
-            subject: `Enrollment Request: ${type}`,
+            subject: `Enrollment Request: ${courseOrEventName || type}`,
             text: `
                 New enrollment/contact request received:
                 
+                Product/Event: ${courseOrEventName || type}
                 Name: ${name || `${firstName} ${lastName}`}
                 Email: ${email}
                 Phone: ${number}
                 Country: ${country}
+                City: ${city || "Not provided"}
+                Company: ${companyName || "Not provided"}
+                ${startDate ? `Requested Start Date: ${startDate}` : ""}
+                ${attendees ? `Number of Attendees: ${attendees}` : ""}
                 Type: ${type}
                 Message: ${message || "No message provided"}
             `,
             html: `
                 <h2>New Enrollment/Contact Request</h2>
+                <p><strong>Product/Event:</strong> ${courseOrEventName || type}</p>
                 <p><strong>Name:</strong> ${name || `${firstName} ${lastName}`}</p>
                 <p><strong>Email:</strong> ${email}</p>
                 <p><strong>Phone:</strong> ${number}</p>
                 <p><strong>Country:</strong> ${country}</p>
+                <p><strong>City:</strong> ${city || "Not provided"}</p>
+                <p><strong>Company:</strong> ${companyName || "Not provided"}</p>
+                ${startDate ? `<p><strong>Requested Start Date:</strong> ${startDate}</p>` : ""}
+                ${attendees ? `<p><strong>Number of Attendees:</strong> ${attendees}</p>` : ""}
                 <p><strong>Type:</strong> ${type}</p>
                 <p><strong>Message:</strong></p>
                 <p>${message || "No message provided"}</p>
