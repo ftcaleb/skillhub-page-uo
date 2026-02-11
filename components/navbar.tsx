@@ -3,8 +3,9 @@
 import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "motion/react"
 import { Button } from "@/components/ui/button"
-import { GraduationCap, Menu, X, ChevronRight } from "lucide-react"
+import { Menu, X, ChevronRight } from "lucide-react"
 import Link from "next/link"
+import Image from "next/image"
 import { usePathname } from "next/navigation"
 
 const navLinks = [
@@ -47,18 +48,18 @@ export function Navbar() {
         }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-8">
-        <Link href="/" className="group flex items-center gap-2.5">
-          <div
-            className={`flex h-9 w-9 items-center justify-center rounded-lg transition-colors duration-300 ${showTransparent ? "bg-white/10 backdrop-blur-sm" : "bg-primary"
-              }`}
-          >
-            <GraduationCap
-              className={`h-5 w-5 transition-colors duration-300 ${showTransparent ? "text-white" : "text-primary-foreground"
-                }`}
+        <Link href="/" className="group flex items-center gap-3">
+          <div className="relative h-10 w-10 overflow-hidden rounded-lg">
+            <Image
+              src="/asset/Logo.png"
+              alt="SkillHub International Logo"
+              fill
+              className="object-contain"
+              priority
             />
           </div>
           <span
-            className={`text-lg font-semibold tracking-tight transition-colors duration-300 ${showTransparent ? "text-white" : "text-foreground"
+            className={`text-lg font-bold tracking-tight transition-colors duration-300 ${showTransparent ? "text-white" : "text-foreground"
               }`}
           >
             SkillHub International
