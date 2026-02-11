@@ -21,7 +21,6 @@ const footerLinks = {
   ],
   "About Us": [
     { label: "Milestones", href: "/about#milestones" },
-    { label: "Popular Programs", href: "/#programs" },
     { label: "Accreditations and Partners", href: "/#partners" },
   ],
 }

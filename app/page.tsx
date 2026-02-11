@@ -2,7 +2,6 @@ import { Navbar } from "@/components/navbar"
 import { Hero } from "@/components/hero"
 import { About } from "@/components/about"
 import { Impact } from "@/components/impact"
-import { Programs } from "@/components/programs"
 import { Testimonials } from "@/components/testimonials"
 import { Events } from "@/components/events"
 import { CtaSection } from "@/components/cta-section"
@@ -16,7 +15,6 @@ export default function Page() {
       <Hero />
       <About />
       <Impact />
-      <Programs />
       <Testimonials />
       <Events />
       <Partners />
