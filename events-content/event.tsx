@@ -2,7 +2,7 @@ const trajlonEvents = [
     {
         id: 1,
         related_id: 19,
-        imgSrc: "asset/effectiveimg.webp",
+        imgSrc: "/asset/effectiveimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "23",
         monthYear: "June, 2026",
@@ -24,7 +24,7 @@ const trajlonEvents = [
     {
         id: 2,
         related_id: 17,
-        imgSrc: "asset/aiAndDataimg.webp",
+        imgSrc: "/asset/aiAndDataimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "14",
         monthYear: "July, 2026",
@@ -46,7 +46,7 @@ const trajlonEvents = [
     {
         id: 3,
         related_id: 30,
-        imgSrc: "asset/supervisoryimg.webp",
+        imgSrc: "/asset/supervisoryimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "18",
         monthYear: "August, 2026",
@@ -68,7 +68,7 @@ const trajlonEvents = [
     {
         id: 4,
         related_id: 4,
-        imgSrc: "asset/effectiveimg.webp",
+        imgSrc: "/asset/effectiveimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "15",
         monthYear: "September, 2026",
@@ -90,7 +90,7 @@ const trajlonEvents = [
     {
         id: 5,
         related_id: 31,
-        imgSrc: "asset/aiAndDataimg.webp",
+        imgSrc: "/asset/aiAndDataimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "20",
         monthYear: "October, 2026",
@@ -112,7 +112,7 @@ const trajlonEvents = [
     {
         id: 6,
         related_id: 15,
-        imgSrc: "asset/advancedimg.webp",
+        imgSrc: "/asset/advancedimg.webp",
         youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
         dayDate: "17",
         monthYear: "November, 2026",

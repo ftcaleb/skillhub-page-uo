@@ -49,7 +49,7 @@ export function Navbar() {
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-8">
         <Link href="/" className="group flex items-center gap-3">
-          <div className="relative h-10 w-10 overflow-hidden rounded-lg">
+          <div className="relative h-16 w-16 overflow-hidden rounded-lg">
             <Image
               src="/asset/Logo.png"
               alt="SkillHub International Logo"
