@@ -46,7 +46,7 @@ function MarqueeRow({ reverse = false }: { reverse?: boolean }) {
 
 export function Partners() {
   return (
-    <MotionSection className="py-20 lg:py-24 bg-background border-t border-border/50">
+    <MotionSection id="partners" className="py-20 lg:py-24 bg-background border-t border-border/50">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <MotionDiv variants={fadeInUp} className="text-center">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-muted-foreground/60">
