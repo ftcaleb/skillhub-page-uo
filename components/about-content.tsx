@@ -250,7 +250,7 @@ const milestones = [
 
 function Timeline() {
   return (
-    <MotionSection className="py-20 lg:py-32 bg-muted/50">
+    <MotionSection id="milestones" className="py-20 lg:py-32 bg-muted/50">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <MotionDiv variants={fadeInUp}>
