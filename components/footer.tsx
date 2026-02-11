@@ -19,6 +19,11 @@ const footerLinks = {
     { label: "Transport", href: "/courses/category/Transport" },
     { label: "Airport & Rail", href: "/courses/category/Airport%20%26%20Rail" },
   ],
+  "About Us": [
+    { label: "Milestones", href: "/about#milestones" },
+    { label: "Popular Programs", href: "/#programs" },
+    { label: "Accreditations and Partners", href: "/#partners" },
+  ],
 }
 
 export function Footer() {
