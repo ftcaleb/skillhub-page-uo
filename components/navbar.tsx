@@ -98,21 +98,11 @@ export function Navbar() {
 
         <div className="hidden lg:flex items-center gap-3">
           <Button
-            variant="ghost"
-            className={`text-[13px] font-medium bg-transparent ${showTransparent
-              ? "text-white/70 hover:text-white hover:bg-white/10"
-              : "text-muted-foreground hover:text-foreground hover:bg-secondary"
-              }`}
-            asChild
-          >
-            <Link href="/contact">Contact</Link>
-          </Button>
-          <Button
             className="bg-accent text-accent-foreground hover:bg-accent/90 shadow-lg shadow-accent/25 text-[13px] font-medium h-9 px-5"
             asChild
           >
-            <Link href="/#cta">
-              Apply Now
+            <Link href="/contact">
+              Contact Us
               <ChevronRight className="ml-1 h-3.5 w-3.5" />
             </Link>
           </Button>
@@ -164,7 +154,7 @@ export function Navbar() {
                   className="w-full bg-accent text-accent-foreground hover:bg-accent/90 shadow-lg shadow-accent/25"
                   asChild
                 >
-                  <Link href="/#cta">
+                  <Link href="/contact">
                     Apply Now
                     <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>

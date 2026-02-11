@@ -7,7 +7,6 @@ export const contactConfig = {
             icon: Mail,
             details: [
                 { label: "General Inquiries", value: "hello@skillhub.africa", href: "mailto:hello@skillhub.africa" },
-                { label: "Corporate Training", value: "partners@skillhub.africa", href: "mailto:partners@skillhub.africa", isSecondary: true },
             ],
         },
         {
@@ -15,7 +14,6 @@ export const contactConfig = {
             icon: Phone,
             details: [
                 { label: "Main Office", value: "+27 64 515 8024", href: "tel:+27645158024" },
-                { label: "Direct Support", value: "+27 11 555 0123", href: "tel:+27115550123", isSecondary: true },
             ],
         },
         {
