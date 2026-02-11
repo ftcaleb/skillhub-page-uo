@@ -48,8 +48,8 @@ export async function POST(req: Request) {
         // Create transporter using environment variables provided by user
         const transporter = nodemailer.createTransport({
             host: process.env.SMTP_HOST,
-            port: Number(process.env.SMTP_PORT) || 465,
-            secure: true, // Use SSL
+            port: 587,
+            secure: false, // Use STARTTLS
             auth: {
                 user: process.env.SMTP_USER,
                 pass: process.env.SMTP_PASSWORD,
@@ -59,7 +59,7 @@ export async function POST(req: Request) {
         // Construct email content
         const mailOptions = {
             from: process.env.SMTP_USER,
-            to: process.env.RECEIVER_EMAIL || "sales@trajlongroup.com",
+            to: process.env.RECEIVER_EMAIL || "caleb19scott@gmail.com",
             replyTo: email,
             subject: `Enrollment Request: ${courseOrEventName || type}`,
             text: `
