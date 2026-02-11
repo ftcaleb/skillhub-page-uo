@@ -56,22 +56,25 @@ export async function POST(req: Request) {
             },
         })
 
+        // Determine a friendly display name for the product/event
+        const displayProduct = courseOrEventName || (type === "request" ? "General Inquiry" : type)
+
         // Construct email content
         const mailOptions = {
             from: process.env.SMTP_USER,
             to: process.env.RECEIVER_EMAIL || "caleb19scott@gmail.com",
             replyTo: email,
-            subject: `Enrollment Request: ${courseOrEventName || type}`,
+            subject: `Enrollment Request: ${displayProduct}`,
             text: `
                 New enrollment/contact request received:
                 
-                Product/Event: ${courseOrEventName || type}
+                Source/Product: ${displayProduct}
                 Name: ${name || `${firstName} ${lastName}`}
                 Email: ${email}
                 Phone: ${number}
                 Country: ${country}
-                City: ${city || "Not provided"}
-                Company: ${companyName || "Not provided"}
+                ${city ? `City: ${city}` : ""}
+                ${companyName ? `Company: ${companyName}` : ""}
                 ${startDate ? `Requested Start Date: ${startDate}` : ""}
                 ${attendees ? `Number of Attendees: ${attendees}` : ""}
                 Type: ${type}
@@ -79,13 +82,13 @@ export async function POST(req: Request) {
             `,
             html: `
                 <h2>New Enrollment/Contact Request</h2>
-                <p><strong>Product/Event:</strong> ${courseOrEventName || type}</p>
+                <p><strong>Source/Product:</strong> ${displayProduct}</p>
                 <p><strong>Name:</strong> ${name || `${firstName} ${lastName}`}</p>
                 <p><strong>Email:</strong> ${email}</p>
                 <p><strong>Phone:</strong> ${number}</p>
                 <p><strong>Country:</strong> ${country}</p>
-                <p><strong>City:</strong> ${city || "Not provided"}</p>
-                <p><strong>Company:</strong> ${companyName || "Not provided"}</p>
+                ${city ? `<p><strong>City:</strong> ${city}</p>` : ""}
+                ${companyName ? `<p><strong>Company:</strong> ${companyName}</p>` : ""}
                 ${startDate ? `<p><strong>Requested Start Date:</strong> ${startDate}</p>` : ""}
                 ${attendees ? `<p><strong>Number of Attendees:</strong> ${attendees}</p>` : ""}
                 <p><strong>Type:</strong> ${type}</p>

@@ -78,6 +78,7 @@ export function ContactForm() {
                     email: values.email,
                     number: values.phone,
                     message: values.message,
+                    courseOrEventName: values.subject,
                     // Hidden/Derived fields required by API
                     type: "request",
                     country: "South Africa", // Default/Derived
