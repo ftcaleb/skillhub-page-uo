@@ -1,7 +1,7 @@
 const financialManagement = [
     {
         id: 81,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Credit Management, Accounts Payable and Accounts Receivable Training",
         slg: "credit-management-accounts-payable-receivable-training",
         brochure: "https://drive.google.com/file/d/1EtJSO0M49vFVxwqJH5LDd1wHkiNi8c8j/view?usp=drive_link",
@@ -104,7 +104,7 @@ const financialManagement = [
     },
     {
         id: 82,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Financial Analysis, Modelling and Forecasting Training",
         slg: "financial-analysis-modelling-forecasting-training",
         brochure: "https://drive.google.com/file/d/1sFWPtZvV3oVfRz-LRTvANRTsus7EVFJN/view?usp=drive_link",
@@ -207,7 +207,7 @@ const financialManagement = [
     },
     {
         id: 83,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Financial Crime, Fraud Risk Management and Prevention of Economic Crime Training",
         slg: "financial-crime-fraud-risk-management-prevention-training",
         brochure: "https://drive.google.com/file/d/1Cwo6BM-TLB4bGgfvV945jx4tJP5YxjLq/view?usp=drive_link",
@@ -315,7 +315,7 @@ const financialManagement = [
     },
     {
         id: 84,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Financial Management, Budgeting, and Auditing of Donor-Funded Projects Training",
         slg: "donor-funded-project-financial-management-training",
         brochure: "https://drive.google.com/file/d/1KSSmC0OM8Ca3XoZ_MmPKUe9bhPiU8Kj-/view?usp=drive_link",
@@ -436,7 +436,7 @@ const financialManagement = [
     },
     {
         id: 85,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Forecasting, Budgeting and Financial Foreatement Analysis in the Public Sector Training",
         slg: "public-sector-forecasting-budgeting-financial-analysis",
         brochure: "https://drive.google.com/file/d/1pB3HKpMl3xNG-c7XMzrRk_0rGgCDMkQs/view?usp=drive_link",
@@ -558,7 +558,7 @@ const financialManagement = [
     },
     {
         id: 86,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Generally Recognized Accounting Practices - GRAP Standards Training",
         slg: "grap-standards-financial-reporting-training-south-africa",
         brochure: "https://drive.google.com/file/d/1WoT_Dpwm7VetG_6kTRMWa_fxW_P-FtTL/view?usp=drive_link",
@@ -673,7 +673,7 @@ const financialManagement = [
     },
     {
         id: 87,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Advanced Public Financial Management: Reporting & Audit Training",
         slg: "advanced-public-financial-management-reporting-audit-training",
         brochure: "https://drive.google.com/file/d/1_8oPQ_Feb3JmYS2pypHjZOoWAmgjDdNa/view?usp=drive_link",
@@ -769,7 +769,7 @@ const financialManagement = [
     },
     {
         id: 88,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "International Public Sector Accounting Standards (IPSAS), Financial Statement Fraud and Governance Training",
         slg: "ipsas-financial-statement-fraud-governance-training",
         brochure: "https://drive.google.com/file/d/1mStE--Hwc4CrH82aAvhrss97IwZuriuo/view?usp=drive_link",
@@ -890,7 +890,7 @@ const financialManagement = [
     },
     {
         id: 89,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Investment Analysis and Evaluation of Fund Manager's Performance Training",
         slg: "investment-analysis-fund-manager-performance-evaluation-training",
         brochure: "https://drive.google.com/file/d/1tUHWr6n8Vz3JW6WD_gVlsV_pLnlqcoUK/view?usp=drive_link",
@@ -1012,7 +1012,7 @@ const financialManagement = [
     },
     {
         id: 90,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Payroll Management and Administration Training",
         slg: "payroll-management-administration-training",
         brochure: "https://drive.google.com/file/d/1sVi6XlF3Q0W9j9USxvooMB-Zl6nqpwbA/view?usp=drive_link",
@@ -1119,7 +1119,7 @@ const financialManagement = [
     },
     {
         id: 91,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Pension Fund and Investment Management Training",
         slg: "pension-fund-investment-management-training",
         brochure: "https://drive.google.com/file/d/1bfiuyhZLCvXHUh89A32T3VvOmYWk0gJD/view?usp=drive_link",
@@ -1222,7 +1222,7 @@ const financialManagement = [
     },
     {
         id: 92,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Preparing Financial Statements and the Annual Report Training",
         slg: "preparing-financial-statements-annual-report-training",
         brochure: "https://drive.google.com/file/d/1EmHhESg_3wmhOrXOyb67-B2bBpPc-kcK/view?usp=drive_link",
@@ -1340,7 +1340,7 @@ const financialManagement = [
     },
     {
         id: 93,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Provident Fund Management Best Practices Training",
         slg: "provident-fund-management-best-practices-training",
         brochure: "https://drive.google.com/file/d/1jfqxeZr9P21TsUWccumtHIirt33LyC_O/view?usp=drive_link",
@@ -1456,7 +1456,7 @@ const financialManagement = [
     },
     {
         id: 94,
-        type: "Financial Management",
+        type: "Financial-Management",
         title: "Public Sector Budgeting, Accounting, and Internal Auditing Training",
         slg: "public-sector-budgeting-accounting-internal-auditing-training",
         brochure: "https://drive.google.com/file/d/1JFH69G0ub_Qd8L244CkIlRdeON_Sa06A/view?usp=drive_link",
@@ -1564,7 +1564,7 @@ const financialManagement = [
 const adminAssistance = [
     {
         id: 96,
-        type: "Administrative & Executive",
+        type: "Administrative-Executive",
         title: "Advanced Management Development Programme for Executive Secretaries and Personal Assistants Training",
         slg: "advanced-management-development-executive-secretaries-pa-training",
         brochure: "https://drive.google.com/file/d/15ZPWbu9_v55DmAMFX29yTLvZNzvFKAiz/view?usp=drive_link",
@@ -1698,7 +1698,7 @@ const adminAssistance = [
     },
     {
         id: 97,
-        type: "Administrative & Executive",
+        type: "Administrative-Executive",
         title: "Effective Report, Minute Writing and Presentation Skills Training",
         slg: "effective-report-minute-writing-presentation-skills-training",
         brochure: "https://drive.google.com/file/d/1b5HXPcoik2w8KKO1g9Kyk4walvEp4uJq/view?usp=drive_link",
@@ -1830,7 +1830,7 @@ const adminAssistance = [
     },
     {
         id: 98,
-        type: "Administrative & Executive",
+        type: "Administrative-Executive",
         title: "Modern Essential Skills For Executive Secretaries and Personal Assistants Training",
         slg: "modern-essential-skills-executive-secretaries-pa-training",
         brochure: "https://drive.google.com/file/d/1-0Ugsk56GAnfRIeFHA3gkGymKPyuNaDH/view?usp=drive_link",
@@ -1962,7 +1962,7 @@ const adminAssistance = [
     },
     {
         id: 99,
-        type: "Administrative & Executive",
+        type: "Administrative-Executive",
         title: "Public Administration, Relations and Events Management Training",
         slg: "public-administration-relations-events-management-training",
         brochure: "https://drive.google.com/file/d/1Zv_RQgbcOWT4Bi9XyP0-8hvZugdFprc4/view?usp=drive_link",
@@ -2098,7 +2098,7 @@ const adminAssistance = [
 const assetFacilityManagement = [
     {
         id: 100,
-        type: "Asset and Facility Management",
+        type: "Asset-and-Facility-Management",
         title: "Advanced Facilities Management Training",
         slg: "advanced-facilities-management-training",
         brochure: "https://drive.google.com/file/d/1QXHRV3C63lRx_aySpvXay-KOM_Lr5h6Z/view?usp=drive_link",
@@ -2225,7 +2225,7 @@ const assetFacilityManagement = [
     },
     {
         id: 101,
-        type: "Asset and Facility Management",
+        type: "Asset-and-Facility-Management",
         title: "Strategic Asset Management Training Programme",
         slg: "strategic-asset-management-training-programme",
         brochure: "https://drive.google.com/file/d/1RPWc6UasBdvnPM6cLLB5QT32A-LkqbYY/view?usp=drive_link",
@@ -2355,7 +2355,7 @@ const assetFacilityManagement = [
     },
     {
         id: 102,
-        type: "Asset and Facility Management",
+        type: "Asset-and-Facility-Management",
         title: "Facilities Management and Maintenance Training",
         slg: "facilities-management-and-maintenance-training",
         brochure: "https://drive.google.com/file/d/1ynXLnhwwukhJoqXf7IDbJ5xTSploL0yz/view?usp=sharing",
@@ -2491,7 +2491,7 @@ const assetFacilityManagement = [
     },
     {
         id: 103,
-        type: "Asset and Facility Management",
+        type: "Asset-and-Facility-Management",
         title: "Infrastructure Asset Management and ISO 55000 Series Training",
         slg: "infrastructure-asset-management-iso-55000-training",
         brochure: "https://drive.google.com/file/d/1GS8FaHXfD3XeJYJgiBg_qjyYs1IcASJa/view?usp=sharing",
@@ -2636,7 +2636,7 @@ const assetFacilityManagement = [
 const communicationAndWriting = [
     {
         id: 104,
-        type: "Communication & Writing Skills",
+        type: "Communication-Writing-Skills",
         title: "Effective Communication Skills Training",
         slg: "effective-communication-skills-training",
         brochure: "https://drive.google.com/file/d/1jOwdCzJPqk46uEKFrXPpTR3YTZ0rd0NG/view?usp=drive_link",
@@ -2762,7 +2762,7 @@ const communicationAndWriting = [
     },
     {
         id: 105,
-        type: "Communication & Writing Skills",
+        type: "Communication-Writing-Skills",
         title: "Professional Business Writing Skills Training",
         slg: "professional-business-writing-skills-training",
         brochure: "https://drive.google.com/file/d/1GxUPBYDbGo3HzKBCuK3MrrYrS-iYNCSM/view?usp=drive_link",
@@ -2892,7 +2892,7 @@ const communicationAndWriting = [
     },
     {
         id: 106,
-        type: "Communication & Writing Skills",
+        type: "Communication-Writing-Skills",
         title: "Public Speaking and Presentation Skills Training",
         slg: "public-speaking-presentation-skills-training",
         brochure: "https://drive.google.com/file/d/1YSVDlvbr1Esmga9gWn-s9o7KNjM8zZ6Z/view?usp=drive_link",
@@ -3018,7 +3018,7 @@ const communicationAndWriting = [
 const corporateAndLeadership = [
     {
         id: 107,
-        type: "Corporate Governance & Leadership",
+        type: "Corporate-Governance-Leadership",
         title: "Effective Audit Committee Oversight in Corporate Governance Training",
         slg: "effective-audit-committee-oversight-corporate-governance-training",
         brochure: "https://drive.google.com/file/d/1c_52-Y5R9RX0Yc_IoycfOUqSveKLLORa/view?usp=drive_link",
@@ -3123,7 +3123,7 @@ const corporateAndLeadership = [
     },
     {
         id: 108,
-        type: "Corporate Governance & Leadership",
+        type: "Corporate-Governance-Leadership",
         title: "Enhancing Local Government Service Delivery Training",
         slg: "enhancing-local-government-service-delivery-training",
         brochure: "https://drive.google.com/file/d/1rbsoWgSZmHtjwlgLK1zR_rVyLjOGeh9m/view?usp=drive_link",
@@ -3228,7 +3228,7 @@ const corporateAndLeadership = [
     },
     {
         id: 109,
-        type: "Corporate Governance & Leadership",
+        type: "Corporate-Governance-Leadership",
         title: "Internal Audit, Oversight Boards & Accountability; Fraudulent Reporting, Governance and Risk Management Training",
         slg: "internal-audit-oversight-boards-accountability-governance-risk-training",
         brochure: "https://drive.google.com/file/d/1qeX9_8HCsUTUp47o8w1KVZ80MethVEEV/view?usp=drive_link",
@@ -3325,7 +3325,7 @@ const corporateAndLeadership = [
     },
     {
         id: 110,
-        type: "Corporate Governance & Leadership",
+        type: "Corporate-Governance-Leadership",
         title: "Strategic Women Leadership Development Programme",
         slg: "strategic-women-leadership-development-programme",
         brochure: "https://drive.google.com/file/d/1nxSBdcVSEQuYxFZEaIlF8pj2ZSoG8rQP/view?usp=drive_link",
@@ -3433,7 +3433,7 @@ const corporateAndLeadership = [
 const customerServices = [
     {
         id: 111,
-        type: "Customer Service",
+        type: "Customer-Service",
         title: "Call Centre Agents Training",
         slg: "call-centre-agents-training",
         brochure: "https://drive.google.com/file/d/1HwSTKXvIkWvgRAZyXQPG7xQ9eFBanguz/view?usp=drive_link",
@@ -3560,7 +3560,7 @@ const customerServices = [
     },
     {
         id: 112,
-        type: "Customer Service",
+        type: "Customer-Service",
         title: "Customer Relationship Management (CRM) Training Course",
         slg: "customer-relationship-management-crm-training-course",
         brochure: "https://drive.google.com/file/d/1z2T-OZ9hrucUqirdEo6ymxu0d8a_kyqE/view?usp=drive_link",
@@ -3675,7 +3675,7 @@ const customerServices = [
     },
     {
         id: 113,
-        type: "Customer Service",
+        type: "Customer-Service",
         title: "Customer Service Excellence Training",
         slg: "customer-service-excellence-training",
         brochure: "https://drive.google.com/file/d/16NqQpDKVsj6PBxycFQ1ZLybJpPtWlVTJ/view?usp=drive_link",
@@ -3801,7 +3801,7 @@ const customerServices = [
     },
     {
         id: 114,
-        type: "Customer Service",
+        type: "Customer-Service",
         title: "Customer Service Professional Training Program",
         slg: "customer-service-professional-training-program",
         brochure: "https://drive.google.com/file/d/1bMYNqcA24FvQnLsLGwapvOtR20YvmQBu/view?usp=drive_link",
@@ -3917,7 +3917,7 @@ const customerServices = [
     },
     {
         id: 115,
-        type: "Customer Service",
+        type: "Customer-Service",
         title: "Retail Customer Service Skills Training Program",
         slg: "retail-customer-service-skills-training-program",
         brochure: "https://drive.google.com/file/d/1FGPCdh071nSV0rp3F2_g07riSJMezR-Y/view?usp=drive_link",
@@ -4036,7 +4036,7 @@ const customerServices = [
 const environmentalUrbanRegional = [
     {
         id: 116,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Developing and Implementing Environmental Management System (EMS) Training",
         slg: "developing-implementing-environmental-management-system-training",
         brochure: "https://drive.google.com/file/d/1rzNFfdZhaf3WIs8YXHSr5WPhpr__3VTS/view?usp=drive_link",
@@ -4137,7 +4137,7 @@ const environmentalUrbanRegional = [
     },
     {
         id: 117,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Disaster Preparedness and Management Training",
         slg: "disaster-preparedness-management-training",
         brochure: "https://drive.google.com/file/d/1V8JOmaj8pTEPOuQsz8zN5N4wpP0mglb3/view?usp=drive_link",
@@ -4256,7 +4256,7 @@ const environmentalUrbanRegional = [
     },
     {
         id: 118,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Ecosystem and Biodiversity Management Training",
         slg: "ecosystem-biodiversity-management-training",
         brochure: "https://drive.google.com/file/d/1PsvFIrs76XEeG65newhrNoISmRk3SLgF/view?usp=drive_link",
@@ -4372,7 +4372,7 @@ const environmentalUrbanRegional = [
     },
     {
         id: 119,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Environmental Impact Assessment (EIA) and Environmental Management",
         slg: "environmental-impact-assessment-eia-environmental-management-training",
         brochure: "https://drive.google.com/file/d/1sYZycPSQjsS6wmHElPicjp8WBUJ6g5b2/view?usp=drive_link",
@@ -4488,7 +4488,7 @@ const environmentalUrbanRegional = [
     },
     {
         id: 120,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Renewable Energy and Sustainable Resource Management Training",
         slg: "renewable-energy-sustainable-resource-management-training",
         brochure: "https://drive.google.com/file/d/16VdNzgy7pEJctagQt6KJAhUGuNVW9l7A/view?usp=drive_link",
@@ -4603,7 +4603,7 @@ const environmentalUrbanRegional = [
     },
     {
         id: 121,
-        type: "Environmental, Urban & Regional Planning",
+        type: "Environmental-Urban-Regional-Planning",
         title: "Urban Energy and Water Supply Management Training",
         slg: "urban-energy-water-supply-management-training",
         brochure: "https://drive.google.com/file/d/1Zyvr2ibhcoAgO2iRzLnfSxcOwel3u51_/view?usp=drive_link",
@@ -4721,7 +4721,7 @@ const environmentalUrbanRegional = [
 const healthManagement = [
     {
         id: 122,
-        type: "Health Management",
+        type: "Health-Management",
         title: "Advanced Leadership Strategies for Health Care Executives",
         slg: "advanced-leadership-strategies-health-care-executives",
         brochure: "https://drive.google.com/file/d/1cnAjwzM_JUbsePx-vmkBLzgRcaEHMzmE/view?usp=drive_link",
@@ -4836,7 +4836,7 @@ const healthManagement = [
     },
     {
         id: 123,
-        type: "Health Management",
+        type: "Health-Management",
         title: "Healthcare Financial Accounting Systems",
         slg: "healthcare-financial-accounting-systems",
         brochure: "https://drive.google.com/file/d/1VH9ut-f6tnqRYOHKHPFEHX1Sy4RqUHp2/view?usp=drive_link",
@@ -4952,7 +4952,7 @@ const healthManagement = [
     },
     {
         id: 124,
-        type: "Health Management",
+        type: "Health-Management",
         title: "Human Resources for Health (HRH) Management and Development",
         slg: "human-resources-for-health-management-development",
         brochure: "https://drive.google.com/file/d/1NpmuarHcyahLecQicdkUOlrCumDhjyBI/view?usp=drive_link",
@@ -5067,7 +5067,7 @@ const healthManagement = [
     },
     {
         id: 125,
-        type: "Health Management",
+        type: "Health-Management",
         title: "Public Health Service Management and Administration",
         slg: "public-health-service-management-administration",
         brochure: "https://drive.google.com/file/d/1185v0rLEOjLyy9TVbCI5kPMpkEqtvxXZ/view?usp=drive_link",
@@ -5181,7 +5181,7 @@ const healthManagement = [
     },
     {
         id: 126,
-        type: "Health Management",
+        type: "Health-Management",
         title: "Research, Monitoring and Evaluation of HIV/AIDS Programme",
         slg: "research-monitoring-evaluation-hivaids-programme",
         brochure: "https://drive.google.com/file/d/1NYTRjG0RjOAMhDsmW2bLy5Fi-zOq3r_p/view?usp=drive_link",
@@ -5301,7 +5301,7 @@ const healthManagement = [
 const humanResourcesManagement = [
     {
         id: 127,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Human Resources Information Systems (HRIS) Training in Data Management and Report Making",
         slg: "human-resources-information-systems-hris-training",
         brochure: "https://drive.google.com/file/d/1vMxqMLqWSVw07hvGKyb-1kRc1MyE-snM/view?usp=drive_link",
@@ -5420,7 +5420,7 @@ const humanResourcesManagement = [
     },
     {
         id: 128,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Job Analysis, Evaluation and Salary Structure Design",
         slg: "job-analysis-evaluation-salary-structure-design",
         brochure: "https://drive.google.com/file/d/1b26nYp0U5CUTFNAlcPrSIest2ONELQ1Z/view?usp=drive_link",
@@ -5517,7 +5517,7 @@ const humanResourcesManagement = [
     },
     {
         id: 129,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Pension Fund Strategies, Governance, Regulation and Investment",
         slg: "pension-fund-strategies-governance-regulation-investment",
         brochure: "https://drive.google.com/file/d/1arHhxFN32KyZWSbo9tFooS6X7_EfCZAU/view?usp=drive_link",
@@ -5638,7 +5638,7 @@ const humanResourcesManagement = [
     },
     {
         id: 130,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Performance Management and Appraisal for Managers",
         slg: "performance-management-appraisal-for-managers",
         brochure: "https://drive.google.com/file/d/1LSmEqsLrvNUibof9E0-zOd5-WHjPZgg4/view?usp=drive_link",
@@ -5751,7 +5751,7 @@ const humanResourcesManagement = [
     },
     {
         id: 131,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Retirement Planning for Public and Civil Service",
         slg: "retirement-planning-public-civil-service",
         brochure: "https://drive.google.com/file/d/1bQv7QrNcc19V8aE7zzsv4iM3k1eKeBe1/view?usp=drive_link",
@@ -5867,7 +5867,7 @@ const humanResourcesManagement = [
     },
     {
         id: 132,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Skills Auditing and Training Needs Analysis",
         slg: "skills-auditing-training-needs-analysis",
         brochure: "https://drive.google.com/file/d/1IslucqJjbuLA1uYX83C8vz7YK4eWw-Cb/view?usp=drive_link",
@@ -5968,7 +5968,7 @@ const humanResourcesManagement = [
     },
     {
         id: 133,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Strategic HR Business Partner Masterclass",
         slg: "strategic-hr-business-partner-masterclass",
         brochure: "https://drive.google.com/file/d/1289b02jucFqsOeirihlglTT_an3iXt0n/view?usp=drive_link",
@@ -6083,7 +6083,7 @@ const humanResourcesManagement = [
     },
     {
         id: 134,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Succession Planning and Strategic Human Resources Development",
         slg: "succession-planning-strategic-human-resources-development",
         brochure: "https://drive.google.com/file/d/1D4bqd9nyDKljakGW0GTcxV9IbTegQY0-/view?usp=drive_link",
@@ -6196,7 +6196,7 @@ const humanResourcesManagement = [
     },
     {
         id: 135,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "The 5-Day MBA in HR",
         slg: "5-day-mba-in-hr",
         brochure: "https://drive.google.com/file/d/1Q6mExTOVCOxWLlRH-b6iUBP6_Tj9CeIg/view?usp=drive_link",
@@ -6288,7 +6288,7 @@ const humanResourcesManagement = [
     },
     {
         id: 136,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Trade Union Shop Steward and Leadership Training",
         slg: "trade-union-shop-steward-leadership-training",
         brochure: "https://drive.google.com/file/d/1ZHDB_G43tgrlQ1ulxosurozfKRDPAFHa/view?usp=drive_link",
@@ -6399,7 +6399,7 @@ const humanResourcesManagement = [
     },
     {
         id: 137,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Training in Psychology, Guidance and Counselling Techniques",
         slg: "training-in-psychology-guidance-counselling-techniques",
         brochure: "https://drive.google.com/file/d/1VyDZBlEYJ17agbRUc-RbzemB_LadJ8oS/view?usp=drive_link",
@@ -6504,7 +6504,7 @@ const humanResourcesManagement = [
     },
     {
         id: 138,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Understanding Labour Laws & Employee Relations (For HR Managers and Legal Advisers)",
         slg: "understanding-labour-laws-employee-relations",
         brochure: "https://drive.google.com/file/d/1iBxUKbU873kCvWwvEw9ithKPwB2LImvP/view?usp=drive_link",
@@ -6616,7 +6616,7 @@ const humanResourcesManagement = [
     },
     {
         id: 139,
-        type: "Human Resources Management",
+        type: "Human-Resources-Management",
         title: "Writing and Implementing Human Resources Policies and Procedures",
         slg: "writing-implementing-human-resources-policies-procedures",
         brochure: "https://drive.google.com/file/d/1O2o-c-hUXCHiKCvC20pY4Kl1_7uN0iKJ/view?usp=drive_link",
@@ -6726,7 +6726,7 @@ const humanResourcesManagement = [
 const AgricultureCourses = [
     {
         "id": 140,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "AI in Agriculture & Data-Driven Farming (AgTech) Programme",
         "slg": "ai-in-agriculture-data-driven-farming-agtech-programme",
         "brochure": "https://drive.google.com/file/d/1ve_ScK-5kW2WotPeRJCVrnurDcanPNoX/view?usp=drive_link",
@@ -6870,7 +6870,7 @@ const AgricultureCourses = [
     },
     {
         "id": 141,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Agribusiness Management & Market Linkages Programme",
         "slg": "agribusiness-management-market-linkages-programme",
         "brochure": "https://drive.google.com/file/d/18xsCcZ4_CuE6XW-Ikjog642-9c2W5qGE/view?usp=drive_link",
@@ -7013,7 +7013,7 @@ const AgricultureCourses = [
     },
     {
         "id": 142,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Agricultural Extension & Advisory Systems Modernisation Programme",
         "slg": "agricultural-extension-advisory-systems-modernisation-programme",
         "brochure": "https://drive.google.com/file/d/1jt9mRXEyn6k5fDxS_c7TLjg64z_C5_Vq/view?usp=drive_link",
@@ -7156,7 +7156,7 @@ const AgricultureCourses = [
     },
     {
         "id": 143,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Agroecology & Sustainable Land Management Programme",
         "slg": "agroecology-sustainable-land-management-programme",
         "brochure": "https://drive.google.com/file/d/19AV_7GOME6fbjiDpVPvMipwMtR--y80z/view?usp=drive_link",
@@ -7299,7 +7299,7 @@ const AgricultureCourses = [
     },
     {
         "id": 144,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Contract Farming & Inclusive Agribusiness Models Programme",
         "slg": "contract-farming-inclusive-agribusiness-models-programme",
         "brochure": "https://drive.google.com/file/d/17CLxVL38boZ8khfPFb-GQMEkCLrS-dsu/view?usp=drive_link",
@@ -7442,7 +7442,7 @@ const AgricultureCourses = [
     },
     {
         "id": 145,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Fisheries & Aquaculture Development Programme",
         "slg": "fisheries-aquaculture-development-programme",
         "brochure": "https://drive.google.com/file/d/1hoLtPHFRPcoRPT3kvP7lQoRR2FNzSpRz/view?usp=drive_link",
@@ -7585,7 +7585,7 @@ const AgricultureCourses = [
     },
     {
         "id": 146,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Food Systems Transformation & Policy Design Programme",
         "slg": "food-systems-transformation-policy-design-programme",
         "brochure": "https://drive.google.com/file/d/1uL1r0Skc2qXezOTjEYJSWPN3tGPRWOaO/view?usp=drive_link",
@@ -7728,7 +7728,7 @@ const AgricultureCourses = [
     },
     {
         "id": 147,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Gender-Responsive Agriculture Programming Programme",
         "slg": "gender-responsive-agriculture-programming-programme",
         "brochure": "https://drive.google.com/file/d/1wi9sJuTe79jUtsWUEeZvWYMdxVC-0T--/view?usp=drive_link",
@@ -7871,7 +7871,7 @@ const AgricultureCourses = [
     },
     {
         "id": 148,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Livestock Systems, Animal Health & Pastoralism Programme",
         "slg": "livestock-systems-animal-health-pastoralism-programme",
         "brochure": "https://drive.google.com/file/d/1OcGF-jvnp_4HuGneKj3p-ilf1Xsp7W0w/view?usp=drive_link",
@@ -8014,7 +8014,7 @@ const AgricultureCourses = [
     },
     {
         "id": 149,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Market Intelligence & Agricultural Data Analysis Programme",
         "slg": "market-intelligence-agricultural-data-analysis-programme",
         "brochure": "https://drive.google.com/file/d/12qvbUzgsU6WzWd_2-gle57Lh2PiQrRAF/view?usp=drive_link",
@@ -8157,7 +8157,7 @@ const AgricultureCourses = [
     },
     {
         "id": 150,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Regenerative Agriculture & Soil Health Management Programme",
         "slg": "regenerative-agriculture-soil-health-management-programme",
         "brochure": "https://drive.google.com/file/d/1u7fUpbGOobT3pQ-dpXtod00h72fWHUSL/view?usp=drive_link",
@@ -8300,7 +8300,7 @@ const AgricultureCourses = [
     },
     {
         "id": 151,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Seed Systems, Crop Breeding & Biotechnology Basics Programme",
         "slg": "seed-systems-crop-breeding-biotechnology-basics-programme",
         "brochure": "https://drive.google.com/file/d/12R5jMkeHvAWgxc5EQy_NnTlsT9j0gGo3/view?usp=drive_link",
@@ -8443,7 +8443,7 @@ const AgricultureCourses = [
     },
     {
         "id": 152,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Urban Agriculture & Food Security Programmes",
         "slg": "urban-agriculture-food-security-programmes",
         "brochure": "https://drive.google.com/file/d/1pXkZXj8JaMbh_AavV226jXCeKlFhS1Hr/view?usp=drive_link",
@@ -8586,7 +8586,7 @@ const AgricultureCourses = [
     },
     {
         "id": 153,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Water–Energy–Food (WEF) Nexus Training Programme",
         "slg": "water-energy-food-wef-nexus-training-programme",
         "brochure": "https://drive.google.com/file/d/1B1hj6Phg4vRnUazaEcV9WgK_RzVbMAWA/view?usp=drive_link",
@@ -8729,7 +8729,7 @@ const AgricultureCourses = [
     },
     {
         "id": 154,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Women in Agribusiness Leadership Programme",
         "slg": "women-in-agribusiness-leadership-programme",
         "brochure": "https://drive.google.com/file/d/169S0AZaK15f4_FRUxrsDUl0O5NHtRPZY/view?usp=drive_link",
@@ -8872,7 +8872,7 @@ const AgricultureCourses = [
     },
     {
         "id": 155,
-        "type": "Agriculture & Food Security",
+        "type": "Agriculture-&-Food-Security",
         "title": "Youth Empowerment in Agribusiness & Green Jobs Programme",
         "slg": "youth-empowerment-in-agribusiness-green-jobs-programme",
         "brochure": "https://drive.google.com/file/d/1SKBQJIZF9sN0gx6dne5srxqGW23ZYdv0/view?usp=drive_link",
@@ -9018,7 +9018,7 @@ const AgricultureCourses = [
 const ClimateChangeCourses = [
     {
         "id": 156,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Biodiversity Conservation & Ecosystem Restoration Programme",
         "slg": "biodiversity-conservation-ecosystem-restoration-programme",
         "brochure": "https://drive.google.com/file/d/1YrgtejlqUF2lPlmUJIjWyXx7qiepcTmV/view?usp=drive_link",
@@ -9161,7 +9161,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 157,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Carbon Markets & Climate Policy Instruments Programme",
         "slg": "carbon-markets-climate-policy-instruments-programme",
         "brochure": "https://drive.google.com/file/d/1mVG1YYLorkFFDqwHdy1c8pYFZSVGHDKt/view?usp=drive_link",
@@ -9304,7 +9304,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 158,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Climate Finance & Proposal Development Programme",
         "slg": "climate-finance-proposal-development-programme",
         "brochure": "https://drive.google.com/file/d/1PDnwJysGP46S_nkCVsG19P0j7au2wTi1/view?usp=drive_link",
@@ -9446,7 +9446,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 159,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Climate Security & Environmental Peacebuilding Programme",
         "slg": "climate-security-environmental-peacebuilding-programme",
         "brochure": "https://drive.google.com/file/d/14s0CNI9inurfQ0nnfKtHBdApzbKP_Nap/view?usp=drive_link",
@@ -9589,7 +9589,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 160,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Climate-Smart Agriculture (CSA)",
         "slg": "climate-smart-agriculture-csa",
         "brochure": "https://drive.google.com/file/d/1XVwxi-k7MQswO1AgkJT5poiueLDgBXie/view?usp=drive_link",
@@ -9741,7 +9741,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 162,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Disaster Risk Reduction (DRR) & Early Warning Systems Programme",
         "slg": "disaster-risk-reduction-drr-early-warning-systems-programme",
         "brochure": "https://drive.google.com/file/d/11pGne6sGNNhR7A9h2E2-RdMoXqJ_w9Qi/view?usp=drive_link",
@@ -9884,7 +9884,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 163,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Environmental Governance & Policy Implementation Programme",
         "slg": "environmental-governance-policy-implementation-programme",
         "brochure": "https://drive.google.com/file/d/1EBFaARaYgZza4bZmKSDLX4RsbHI1dGmr/view?usp=drive_link",
@@ -10027,7 +10027,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 164,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Environmental Impact Assessment (EIA) & Strategic Environmental Assessment (SEA) Programme",
         "slg": "environmental-impact-assessment-eia-strategic-environmental-assessment-sea-programme",
         "brochure": "https://drive.google.com/file/d/1t6c4EivfdY-HjMSn-FxPrBbMYLm5rCa_/view?usp=drive_link",
@@ -10170,7 +10170,7 @@ const ClimateChangeCourses = [
     },
     {
         "id": 165,
-        "type": "Climate Change & Environment",
+        "type": "Climate-Change-&-Environment",
         "title": "Waste Management & Circular Economy Programme",
         "slg": "waste-management-circular-economy-programme",
         "brochure": "https://drive.google.com/file/d/1DO3POennr4wiALe76xd6Ftj_ABAxzn7l/view?usp=drive_link",
@@ -10316,7 +10316,7 @@ const ClimateChangeCourses = [
 const InternationalRelationsCourses = [
     {
         "id": 166,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "AU Institutions & Regional Integration",
         "slg": "au-institutions-regional-integration",
         "brochure": "https://drive.google.com/file/d/1_LRbLgn97M-YoQdiZuyGiC2BvP7SA7az/view?usp=sharing",
@@ -10455,7 +10455,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 167,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "African Diplomacy & Regional Integration",
         "slg": "african-diplomacy-regional-integration",
         "brochure": "https://drive.google.com/file/d/154xHfgkoxEaHOLlBvOfergtKC95GNPT3/view?usp=drive_link",
@@ -10586,7 +10586,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 168,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Climate Diplomacy & Environmental Governance",
         "slg": "climate-diplomacy-environmental-governance",
         "brochure": "https://drive.google.com/file/d/1oDDmVlS-neU2na_U6lNUq1jTAhgsdKZ_/view?usp=drive_link",
@@ -10734,7 +10734,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 169,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Conflict Analysis & Mediation",
         "slg": "conflict-analysis-mediation",
         "brochure": "https://drive.google.com/file/d/1WjrdQoGUiYoAlv7_00zyNpw-yQCUiilS/view?usp=drive_link",
@@ -10874,7 +10874,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 170,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Counterterrorism & Security Cooperation",
         "slg": "counterterrorism-security-cooperation",
         "brochure": "https://drive.google.com/file/d/16FrME6HwLbsQEj6WgM2JWhQv_6ERkHQP/view?usp=drive_link",
@@ -11018,7 +11018,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 171,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Crisis Communication & Public Diplomacy",
         "slg": "crisis-communication-public-diplomacy",
         "brochure": "https://drive.google.com/file/d/1zpMw4Xsc2PV6s52pz0MEinh8alE-Hu4s/view?usp=drive_link",
@@ -11159,7 +11159,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 172,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Economic Diplomacy & AfCFTA",
         "slg": "economic-diplomacy-afcfta",
         "brochure": "https://drive.google.com/file/d/1gBtCnpoFCpO_bKTlHFDM7BwFRENlaD93/view?usp=drive_link",
@@ -11306,7 +11306,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 173,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Election Observation & Democratic Governance",
         "slg": "election-observation-democratic-governance",
         "brochure": "https://drive.google.com/file/d/11EjL0OHPuEH3VETWLYlPpojBGQ6ZOblS/view?usp=drive_link",
@@ -11448,7 +11448,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 174,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Foreign Policy & Diplomatic Relations",
         "slg": "foreign-policy-diplomatic-relations",
         "brochure": "https://drive.google.com/file/d/1lM0SPTNr3Wdlk2kNTigq20hjYCnhzZP_/view?usp=drive_link",
@@ -11590,7 +11590,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 175,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Geopolitics & Global Power Dynamics",
         "slg": "geopolitics-global-power-dynamics",
         "brochure": "https://drive.google.com/file/d/1AFI_UfFO0fYVWIlBDfDkuv5eci55V6fk/view?usp=drive_link",
@@ -11734,7 +11734,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 176,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "International Law & Treaty Drafting",
         "slg": "international-law-treaty-drafting",
         "brochure": "https://drive.google.com/file/d/1pvZLueqk3IOjXBHPWEGi9r42oV816s6S/view?usp=drive_link",
@@ -11882,7 +11882,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 177,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "International Project Management for Diplomats",
         "slg": "international-project-management-for-diplomats",
         "brochure": "https://drive.google.com/file/d/1wN9e8ONQED6LO3CIaCb8ZGVBswK77U4v/view?usp=drive_link",
@@ -12023,7 +12023,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 178,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "International Trade Arbitration, Mediation & Dispute Resolution",
         "slg": "international-trade-arbitration-mediation-dispute-resolution",
         "brochure": "https://drive.google.com/file/d/1Razd4q0TYGdF3Megm71tEGcvTfLOwo7q/view?usp=drive_link",
@@ -12170,7 +12170,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 179,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Migration, Governance & Human Rights",
         "slg": "migration-governance-human-rights",
         "brochure": "https://drive.google.com/file/d/1Atn4dXDMbBgbr-caHvR91aXSrJFvuuqy/view?usp=drive_link",
@@ -12314,7 +12314,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 180,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Multilateral Negotiation Skills",
         "slg": "multilateral-negotiation-skills",
         "brochure": "https://drive.google.com/file/d/1B6PZ4wnSmvKebh_Ui0cEOxCtRUy5qF2J/view?usp=drive_link",
@@ -12457,7 +12457,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 181,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Peace & Security (APSA, CEWS, DDR, SSR) Program",
         "slg": "peace-security-apsa-cews-ddr-ssr-program",
         "brochure": "https://drive.google.com/file/d/1tqk5vj3qb72fmtUPX5G8G2gUupw95GEG/view?usp=drive_link",
@@ -12601,7 +12601,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 182,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Preventive Diplomacy",
         "slg": "preventive-diplomacy",
         "brochure": "https://drive.google.com/file/d/18kF3qFWDOT-Xz63HMgTiAy6FyuvWLOJ_/view?usp=drive_link",
@@ -12740,7 +12740,7 @@ const InternationalRelationsCourses = [
     },
     {
         "id": 183,
-        "type": "International Relations",
+        "type": "International-Relations",
         "title": "Strategic Communication & Digital Diplomacy",
         "slg": "strategic-communication-digital-diplomacy",
         "brochure": "https://drive.google.com/file/d/1oc8kUaKk1YDR9cx8HLGga8fQEBMQcVum/view?usp=drive_link",
@@ -12885,7 +12885,7 @@ const InternationalRelationsCourses = [
 const LeadershipManagementCourses = [
     {
         "id": 184,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Effective Monitoring and Evaluation in the Public Sector",
         "slg": "effective-monitoring-and-evaluation-in-the-public-sector",
         "brochure": "https://drive.google.com/file/d/1Fj_pYrd95b6O627_i5o9LmVEkDhhtT8i/view?usp=drive_link",
@@ -12986,7 +12986,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 185,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Emotional Intelligence (EQ) Training for Leaders and Managers",
         "slg": "emotional-intelligence-eq-training-for-leaders-and-managers",
         "brochure": "https://drive.google.com/file/d/1tZdhX-bX0Y2imNwX661fpQ5_LF-o88ob/view?usp=drive_link",
@@ -13086,7 +13086,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 186,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Management Programme for Corporate Legal Advisors and Company Secretaries",
         "slg": "management-programme-for-corporate-legal-advisors-and-company-secretaries",
         "brochure": "",
@@ -13186,7 +13186,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 187,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Managing Virtual and Remote Employees and Teams",
         "slg": "managing-virtual-and-remote-employees-and-teams",
         "brochure": "https://drive.google.com/file/d/16dygjV42gOYjn_EMN_Gg_xAYm7rcfMRm/view?usp=drive_link",
@@ -13286,7 +13286,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 188,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Stakeholder Management and Engagement Course",
         "slg": "stakeholder-management-and-engagement-course",
         "brochure": "https://drive.google.com/file/d/1WsJX115RsmBL7ciWkE3YOtUu0_n_qcX1/view?usp=drive_link",
@@ -13386,7 +13386,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 189,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Strategic Leadership and Change Management",
         "slg": "strategic-leadership-and-change-management",
         "brochure": "https://drive.google.com/file/d/1PIBEJymtnsu2pkuSPSRnJS7m12hotXYu/view?usp=drive_link",
@@ -13477,7 +13477,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 190,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Strategic Planning, Development and Implementation",
         "slg": "strategic-planning-development-and-implementation",
         "brochure": "https://drive.google.com/file/d/1Tg9Z-jypsWb0Iw1j8ZmVI4s_XNLbPQbk/view?usp=drive_link",
@@ -13569,7 +13569,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 191,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Strategic Skills for Executive and Administrative Professionals",
         "slg": "strategic-skills-for-executive-and-administrative-professionals",
         "brochure": "https://drive.google.com/file/d/1eiUabMfs4lzdPzpKHuQj7rrIi0vyTsKI/view?usp=drive_link",
@@ -13659,7 +13659,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 192,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Supervisory Skills Development Training Course",
         "slg": "supervisory-skills-development-training-course",
         "brochure": "https://drive.google.com/file/d/1l3UJs7PNgwDfONaNXeBLgIZ9qylLso2s/view?usp=drive_link",
@@ -13768,7 +13768,7 @@ const LeadershipManagementCourses = [
     },
     {
         "id": 193,
-        "type": "Leadership & Management",
+        "type": "Leadership-&-Management",
         "title": "Team Building and Team Development Training Course",
         "slg": "team-building-and-team-development-training-course",
         "brochure": "https://drive.google.com/file/d/1BwaeYlmKAmfy9agIeCCfEQM6eRU1RmQC/view?usp=drive_link",
@@ -13871,7 +13871,7 @@ const LeadershipManagementCourses = [
 const PersonalDevelopmentCourses = [
     {
         "id": 194,
-        "type": "Personal & Professional Development",
+        "type": "Personal-&-Professional-Development",
         "title": "Assertiveness Skills and Confidence Training",
         "slg": "assertiveness-skills-and-confidence-training",
         "brochure": "https://drive.google.com/file/d/1J9tqxtpOUBSTXKl0JV7dxoRmCm8HNpqe/view?usp=drive_link",
@@ -13971,7 +13971,7 @@ const PersonalDevelopmentCourses = [
     },
     {
         "id": 195,
-        "type": "Personal & Professional Development",
+        "type": "Personal-&-Professional-Development",
         "title": "Professional Business and Corporate Etiquette Training Course",
         "slg": "professional-business-and-corporate-etiquette-training-course",
         "brochure": "https://drive.google.com/file/d/1HDYW6llNVK99lalsl54UqCF7y2RtitI-/view?usp=drive_link",
@@ -14080,7 +14080,7 @@ const PersonalDevelopmentCourses = [
     },
     {
         "id": 196,
-        "type": "Personal & Professional Development",
+        "type": "Personal-&-Professional-Development",
         "title": "Stress Management and Stress Reduction Training",
         "slg": "stress-management-and-stress-reduction-training",
         "brochure": "https://drive.google.com/file/d/17PD3dYfhyY_c9bqQ7CExIHMf6xUVntC_/view?usp=drive_link",
@@ -14180,7 +14180,7 @@ const PersonalDevelopmentCourses = [
     },
     {
         "id": 197,
-        "type": "Personal & Professional Development",
+        "type": "Personal-&-Professional-Development",
         "title": "Time Management Skills Training Course",
         "slg": "time-management-skills-training-course",
         "brochure": "https://drive.google.com/file/d/1BHfpw37aKG4Uwtk2YklzeT6a9DloGVAL/view?usp=drive_link",
@@ -14280,7 +14280,7 @@ const PersonalDevelopmentCourses = [
     },
     {
         "id": 198,
-        "type": "Personal & Professional Development",
+        "type": "Personal-&-Professional-Development",
         "title": "Work–Life Balance Training Course",
         "slg": "work-life-balance-training-course",
         "brochure": "https://drive.google.com/file/d/1umkiSv6S7KnRpcjZupLumfvLNLhDTui_/view?usp=drive_link",
@@ -14383,7 +14383,7 @@ const PersonalDevelopmentCourses = [
 const ProjectManagementCourses = [
     {
         "id": 199,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Advanced Project Management (APM)",
         "slg": "advanced-project-management-apm",
         "brochure": "https://drive.google.com/file/d/1RfEbGc3gitp9Jtl9y-xzlQlo7E-tpmez/view?usp=drive_link",
@@ -14484,7 +14484,7 @@ const ProjectManagementCourses = [
     },
     {
         "id": 200,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Advanced Project Management for Donor Funded Projects",
         "slg": "advanced-project-management-for-donor-funded-projects",
         "brochure": "https://drive.google.com/file/d/1zU4llFte-Eprts4AAwhVmu1ttbhivsiI/view?usp=drive_link",
@@ -14592,7 +14592,7 @@ const ProjectManagementCourses = [
     },
     {
         "id": 202,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Monitoring and Evaluation of Development and Community Projects (MEPE)",
         "slg": "monitoring-and-evaluation-of-development-and-community-projects-mepe",
         "brochure": "https://drive.google.com/file/d/1_tlk1kfXUNmiUeDIDPI445HXRUPZB0Pm/view?usp=drive_link",
@@ -14698,7 +14698,7 @@ const ProjectManagementCourses = [
     },
     {
         "id": 203,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Project Analysis Management and Contract Management",
         "slg": "project-analysis-management-and-contract-management",
         "brochure": "https://drive.google.com/file/d/1alNc9atlc3WwstJRdNlAn2oxGQCt_hKo/view?usp=drive_link",
@@ -14794,7 +14794,7 @@ const ProjectManagementCourses = [
     },
     {
         "id": 204,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Project Risk Management and Compliance",
         "slg": "project-risk-management-and-compliance",
         "brochure": "https://drive.google.com/file/d/1EEPWRvjvNYFlvn9nY29_ME31eqdlYCHo/view?usp=drive_link",
@@ -14891,7 +14891,7 @@ const ProjectManagementCourses = [
     },
     {
         "id": 205,
-        "type": "Project Management",
+        "type": "Project-Management",
         "title": "Resource Mobilisation, Planning and Negotiation Strategies for programs",
         "slg": "resource-mobilisation-planning-and-negotiation-strategies-for-programs",
         "brochure": "https://drive.google.com/file/d/1Zsu5i6g32Th1Q7FRlxOmJyIAwuJEYitd/view?usp=drive_link",
@@ -15004,7 +15004,7 @@ const ProjectManagementCourses = [
 const PublicFinanceEconomicCourses = [
     {
         "id": 206,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "Advanced Public Sector Financial Management (APSF M)",
         "slg": "advanced-public-sector-financial-management-apsf-m",
         "brochure": "",
@@ -15112,7 +15112,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 207,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "Budgetary and Macroeconomic Analysis",
         "slg": "budgetary-and-macroeconomic-analysis",
         "brochure": "",
@@ -15237,7 +15237,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 208,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "International Trade Law and Policy for Africa’s Development",
         "slg": "international-trade-law-and-policy-for-africas-development",
         "brochure": "",
@@ -15326,7 +15326,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 209,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "International Trade Policy Development and Macroeconomic Analysis",
         "slg": "international-trade-policy-development-and-macroeconomic-analysis",
         "brochure": "",
@@ -15418,7 +15418,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 210,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "Management and Analysis of PPPs",
         "slg": "management-and-analysis-of-ppps",
         "brochure": "",
@@ -15523,7 +15523,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 211,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "Monetary and Fiscal Policy Analysis with DSGE Models (DSGE)",
         "slg": "monetary-and-fiscal-policy-analysis-with-dsge-models-dsge",
         "brochure": "",
@@ -15612,7 +15612,7 @@ const PublicFinanceEconomicCourses = [
     },
     {
         "id": 212,
-        "type": "Public Finance & Economic",
+        "type": "Public-Finance-&-Economic",
         "title": "Utility Regulation and Strategic Management",
         "slg": "utility-regulation-and-strategic-management",
         "brochure": "",
@@ -15708,7 +15708,7 @@ const PublicFinanceEconomicCourses = [
 const PublicPrivateCourses = [
     {
         "id": 213,
-        "type": "Public Private Partnership",
+        "type": "Public-Private-Partnership",
         "title": "Management and Analysis of PPPs",
         "slg": "management-and-analysis-of-ppps",
         "brochure": "https://drive.google.com/file/d/1bl5QEhoasjZC8ioZU3XpuMbnl9vd6rmG/view?usp=drive_link",
@@ -15813,7 +15813,7 @@ const PublicPrivateCourses = [
     },
     {
         "id": 214,
-        "type": "Public Private Partnership",
+        "type": "Public-Private-Partnership",
         "title": "Mastering PPP Projects Training Course",
         "slg": "mastering-ppp-projects-training-course",
         "brochure": "https://drive.google.com/file/d/12gAdvyJmlay6uE_r8kscVqTMn8yGonGj/view?usp=drive_link",
@@ -15919,7 +15919,7 @@ const PublicPrivateCourses = [
     },
     {
         "id": 215,
-        "type": "Public Private Partnership",
+        "type": "Public-Private-Partnership",
         "title": "Planning and Delivery of Public-Private Partnerships (PPP)",
         "slg": "planning-and-delivery-of-public-private-partnerships-ppp",
         "brochure": "https://drive.google.com/file/d/1Zq1E9VS3G2pRV1wkxfi_stU_8Aj3mErS/view?usp=drive_link",
@@ -16027,7 +16027,7 @@ const PublicPrivateCourses = [
     },
     {
         "id": 216,
-        "type": "Public Private Partnership",
+        "type": "Public-Private-Partnership",
         "title": "Public Private Partnership (PPP) Contract and Agreement",
         "slg": "public-private-partnership-ppp-contract-and-agreement",
         "brochure": "https://drive.google.com/file/d/1jU0vFxCz3nTstOBosf8NuN0uJktQCMTj/view?usp=drive_link",
@@ -16130,7 +16130,7 @@ const PublicPrivateCourses = [
     },
     {
         "id": 217,
-        "type": "Public Private Partnership",
+        "type": "Public-Private-Partnership",
         "title": "Public-Private Partnership (PPP) and Project Finance",
         "slg": "public-private-partnership-ppp-and-project-finance",
         "brochure": "https://drive.google.com/file/d/1o6eoO214R25F0LTd7J-Nw0Bvsur9pXfj/view?usp=drive_link",
@@ -16240,7 +16240,7 @@ const PublicPrivateCourses = [
 const StrategyStrategicCourses = [
     {
         "id": 218,
-        "type": "Strategy & Strategic Planning",
+        "type": "Strategy-&-Strategic-Planning",
         "title": "Advanced Strategic Management Course",
         "slg": "advanced-strategic-management-course",
         "brochure": "https://drive.google.com/file/d/1b8VsLNfDpfGmVk9qOd6ziV9VHGA__ZQ3/view?usp=drive_link",
@@ -16351,7 +16351,7 @@ const StrategyStrategicCourses = [
     },
     {
         "id": 219,
-        "type": "Strategy & Strategic Planning",
+        "type": "Strategy-&-Strategic-Planning",
         "title": "Board of Directors and Members Training Course",
         "slg": "board-of-directors-and-members-training-course",
         "brochure": "https://drive.google.com/file/d/1hrpnynVacDNM-Z-eY1-k-h7jREcCyWcU/view?usp=drive_link",
@@ -16464,7 +16464,7 @@ const StrategyStrategicCourses = [
     },
     {
         "id": 220,
-        "type": "Strategy & Strategic Planning",
+        "type": "Strategy-&-Strategic-Planning",
         "title": "Business Process Reengineering (BPR) Course",
         "slg": "business-process-reengineering-bpr-course",
         "brochure": "https://drive.google.com/file/d/11EwHoZnKRwE_Tf919VyFbQXIqwM7Hf0O/view?usp=drive_link",
@@ -16570,7 +16570,7 @@ const StrategyStrategicCourses = [
     },
     {
         "id": 221,
-        "type": "Strategy & Strategic Planning",
+        "type": "Strategy-&-Strategic-Planning",
         "title": "Corporate Resilience Training for Managers and Organisations",
         "slg": "corporate-resilience-training-for-managers-and-organisations",
         "brochure": "https://drive.google.com/file/d/12j9rux3YfMkrxztS9OLTlLD-eYNk_7xO/view?usp=drive_link",
@@ -16671,7 +16671,7 @@ const StrategyStrategicCourses = [
     },
     {
         "id": 222,
-        "type": "Strategy & Strategic Planning",
+        "type": "Strategy-&-Strategic-Planning",
         "title": "Strategic Partnerships, Joint Venture and Consortia Development Course",
         "slg": "strategic-partnerships-joint-venture-and-consortia-development-course",
         "brochure": "https://drive.google.com/file/d/15jfBHJJwcMrhgezmCZbYU59GczZOgE1C/view?usp=drive_link",
@@ -16781,7 +16781,7 @@ const StrategyStrategicCourses = [
 const TaxRevenueCourses = [
     {
         "id": 223,
-        "type": "Tax & Revenue",
+        "type": "Tax-&-Revenue",
         "title": "Masterclass in Tax Administration",
         "slg": "masterclass-in-tax-administration",
         "brochure": "https://drive.google.com/file/d/1kC4-0d8MwThDKpqQ0KP7XNqiJ-Y0MMTD/view?usp=drive_link",
@@ -16898,7 +16898,7 @@ const TaxRevenueCourses = [
     },
     {
         "id": 224,
-        "type": "Tax & Revenue",
+        "type": "Tax-&-Revenue",
         "title": "Tax Policy, Auditing and Debt Management",
         "slg": "tax-policy-auditing-and-debt-management",
         "brochure": "https://drive.google.com/file/d/1kHl7HpIYD3_L3fWlOQwmMJOAWonENlkc/view?usp=drive_link",
@@ -17015,7 +17015,7 @@ const TaxRevenueCourses = [
     },
     {
         "id": 225,
-        "type": "Tax & Revenue",
+        "type": "Tax-&-Revenue",
         "title": "Tax Policy, Fiscal Analysis and Revenue Forecasting",
         "slg": "tax-policy-fiscal-analysis-and-revenue-forecasting",
         "brochure": "https://drive.google.com/file/d/111C4zNuy8wrNGoNN6QTFCYi0zi9Hth8b/view?usp=drive_link",
@@ -17131,7 +17131,7 @@ const TaxRevenueCourses = [
     },
     {
         "id": 226,
-        "type": "Tax & Revenue",
+        "type": "Tax-&-Revenue",
         "title": "Taxation Principles and Practices to Combat Tax Evasion and Tax Avoidance",
         "slg": "taxation-principles-and-practices-to-combat-tax-evasion-and-tax-avoidance",
         "brochure": "https://drive.google.com/file/d/1_X9aRX5FkKr3dKDDohO8vB3w2qWOcLpt/view?usp=drive_link",
@@ -17248,7 +17248,7 @@ const TaxRevenueCourses = [
     },
     {
         "id": 227,
-        "type": "Tax & Revenue",
+        "type": "Tax-&-Revenue",
         "title": "Taxation and Audit of the Insurance Industry with IFRS 17",
         "slg": "taxation-and-audit-of-the-insurance-industry-with-ifrs-17",
         "brochure": "https://drive.google.com/file/d/1qDVCnGAzNJWKgz-16osxmHJUb-zLjAvB/view?usp=drive_link",
@@ -17364,7 +17364,7 @@ const TaxRevenueCourses = [
     },
     {
         id: 95,
-        type: "Tax & Revenue",
+        type: "Tax-Revenue",
         title: "Value Added Tax (VAT) Training",
         slg: "value-added-tax-vat-training",
         brochure: "https://drive.google.com/file/d/1OjDgZ6yQqWoGjyHPwPSKhymJ7SEi8YSa/view?usp=drive_link",
@@ -17491,7 +17491,7 @@ const TaxRevenueCourses = [
 const AiInBusinessCourses = [
     {
         "id": 230,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI Readiness, Maturity & Organisational Change Management",
         "slg": "ai-readiness-maturity-organisational-change-management",
         "duration": "5 Days",
@@ -17611,7 +17611,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 231,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI for Law Enforcement & Justice Systems",
         "slg": "ai-for-law-enforcement-justice-systems",
         "duration": "5 Days",
@@ -17731,7 +17731,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 232,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI for Project Management, Business Analysis & Decision Support",
         "slg": "ai-for-project-management-business-analysis-decision-support",
         "duration": "5 Days",
@@ -17851,7 +17851,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 233,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Artificial Intelligence for Public Sector Innovation & Service Delivery",
         "slg": "artificial-intelligence-for-public-sector-innovation-service-delivery",
         "duration": "5 Days",
@@ -17971,7 +17971,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 234,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Agriculture & Smart Farming",
         "slg": "ai-in-agriculture-smart-farming",
         "duration": "5 Days",
@@ -18091,7 +18091,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 235,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Education & Learning Technologies",
         "slg": "ai-in-education-learning-technologies",
         "duration": "5 Days",
@@ -18211,7 +18211,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 236,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Finance, Banking & Risk Management",
         "slg": "ai-in-finance-banking-risk-management",
         "duration": "5 Days",
@@ -18331,7 +18331,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 237,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Healthcare Operations & Diagnostics",
         "slg": "ai-in-healthcare-operations-diagnostics",
         "duration": "5 Days",
@@ -18451,7 +18451,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 238,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Mining, Energy & Utilities",
         "slg": "ai-in-mining-energy-utilities",
         "duration": "5 Days",
@@ -18571,7 +18571,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 239,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Real Estate & Smart Cities",
         "slg": "ai-in-real-estate-smart-cities",
         "duration": "5 Days",
@@ -18691,7 +18691,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 240,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI in Supply Chain, Logistics & Operations Optimisation",
         "slg": "ai-in-supply-chain-logistics-operations-optimisation",
         "duration": "5 Days",
@@ -18811,7 +18811,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 241,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "AI-Powered Customer Service, CRM & Contact Centre Optimisation",
         "slg": "ai-powered-customer-service-crm-contact-centre-optimisation",
         "duration": "5 Days",
@@ -18931,7 +18931,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 242,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Applied Artificial Intelligence for Business Leaders",
         "slg": "applied-artificial-intelligence-for-business-leaders",
         "duration": "5 Days",
@@ -19051,7 +19051,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 243,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Cybersecurity & AI Threat Intelligence",
         "slg": "cybersecurity-ai-threat-intelligence",
         "duration": "5 Days",
@@ -19171,7 +19171,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 244,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Data Science, Machine Learning & AI Bootcamp",
         "slg": "data-science-machine-learning-ai-bootcamp",
         "duration": "5 Days",
@@ -19291,7 +19291,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 245,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Executive Artificial Intelligence Strategy & Digital Transformation",
         "slg": "executive-artificial-intelligence-strategy-digital-transformation",
         "duration": "5 Days",
@@ -19411,7 +19411,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 246,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Generative AI Tools & Workflow Automation for Business Productivity",
         "slg": "generative-ai-tools-workflow-automation-for-business-productivity",
         "duration": "5 Days",
@@ -19531,7 +19531,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 247,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "HR Analytics & AI-Driven Talent Management",
         "slg": "hr-analytics-ai-driven-talent-management",
         "duration": "5 Days",
@@ -19651,7 +19651,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 248,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Machine Learning & Predictive Analytics for Business",
         "slg": "machine-learning-predictive-analytics-for-business",
         "duration": "5 Days",
@@ -19771,7 +19771,7 @@ const AiInBusinessCourses = [
     },
     {
         "id": 249,
-        "type": "AI in Business",
+        "type": "AI-in-Business",
         "title": "Responsible AI, Ethical Governance & Risk Management",
         "slg": "responsible-ai-ethical-governance-risk-management",
         "duration": "5 Days",
@@ -19894,7 +19894,7 @@ const AiInBusinessCourses = [
 const PensionsAdministrationSocialProtectionCourses = [
     {
         "id": 250,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Capital Markets Theory & Investments Programme",
         "slg": "capital-markets-theory-investments-programme",
         "duration": "5 Days",
@@ -20006,7 +20006,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 251,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Fiduciary Duties of Directors and Management in Pension Fund Schemes Programme",
         "slg": "fiduciary-duties-of-directors-and-management-in-pension-fund-schemes-programme",
         "duration": "5 Days",
@@ -20118,7 +20118,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 252,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Financial Markets Regulations Programme",
         "slg": "financial-markets-regulations-programme",
         "duration": "5 Days",
@@ -20230,7 +20230,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 253,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Fundamentals of Life Insurance & Retirement Savings Programme",
         "slg": "fundamentals-of-life-insurance-retirement-savings-programme",
         "duration": "5 Days",
@@ -20342,7 +20342,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 254,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Pension Fund Governance, Regulations & Best Practices Programme",
         "slg": "pension-fund-governance-regulations-best-practices-programme",
         "duration": "5 Days",
@@ -20454,7 +20454,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 255,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Retirement Planning & Post-Retirement Venture Skills Programme",
         "slg": "retirement-planning-post-retirement-venture-skills-programme",
         "duration": "5 Days",
@@ -20566,7 +20566,7 @@ const PensionsAdministrationSocialProtectionCourses = [
     },
     {
         "id": 256,
-        "type": "Pensions Administration Social Protection",
+        "type": "Pensions-Administration-Social-Protection",
         "title": "Valuation of Securities & Laws Relating to Securities Operations Programme",
         "slg": "valuation-of-securities-laws-relating-to-securities-operations-programme",
         "duration": "5 Days",
@@ -20681,7 +20681,7 @@ const PensionsAdministrationSocialProtectionCourses = [
 const RealEstateManagementCourses = [
     {
         "id": 257,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Real Estate Investment, Valuation & Financial Analysis Programme",
         "slg": "real-estate-investment-valuation-financial-analysis-programme",
         "duration": "5 Days",
@@ -20796,7 +20796,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 258,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Real Estate Marketing, Sales & Transaction Management Programme",
         "slg": "real-estate-marketing-sales-transaction-management-programme",
         "duration": "5 Days",
@@ -20908,7 +20908,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 259,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Real Estate Portfolio Strategy & Performance Management Programme",
         "slg": "real-estate-portfolio-strategy-performance-management-programme",
         "duration": "5 Days",
@@ -21020,7 +21020,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 260,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Real Estate Risk Management Programme",
         "slg": "real-estate-risk-management-programme",
         "duration": "5 Days",
@@ -21132,7 +21132,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 261,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Strategic Mortgage Finance & Housing Finance Systems Programme",
         "slg": "strategic-mortgage-finance-housing-finance-systems-programme",
         "duration": "5 Days",
@@ -21244,7 +21244,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 262,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Strategic Property Market Analysis & Forecasting Programme",
         "slg": "strategic-property-market-analysis-and-forecasting-programme",
         "duration": "5 Days",
@@ -21356,7 +21356,7 @@ const RealEstateManagementCourses = [
     },
     {
         "id": 263,
-        "type": "Real Estate Management",
+        "type": "Real-Estate-Management",
         "title": "Strategic Real Estate Management Programme",
         "slg": "strategic-real-estate-management-programme",
         "duration": "5 Days",
@@ -21492,3 +21492,5 @@ export const NewCourse = [
     ...AiInBusinessCourses,
     ...PensionsAdministrationSocialProtectionCourses
 ]
+
+

@@ -1,7 +1,7 @@
 export const AllCourseLists = [
   {
     id: 0,
-    type: "Inventory & Warehouse",
+    type: "Inventory-Warehouse",
     title: "Effective Inventory Planning and Stock control",
     duration: "5 Days",
     slg: "effective-inventory-planning-and-stock-control",
@@ -115,7 +115,7 @@ export const AllCourseLists = [
   },
   {
     id: 1,
-    type: "Inventory & Warehouse",
+    type: "Inventory-Warehouse",
     title: "Stock Management, Forecasting, and Demand Planning",
     duration: "5 Days",
     slg: "stock-management-forecasting-and-demand-planning",
@@ -222,7 +222,7 @@ export const AllCourseLists = [
   },
   {
     id: 2,
-    type: "Inventory & Warehouse",
+    type: "Inventory-Warehouse",
     title: "Warehouse Management for Best-in-class Performance",
     slg: "warehouse-management-for-best-in-class-performance",
     duration: "5 Days",
@@ -369,7 +369,7 @@ export const AllCourseLists = [
   },
   {
     id: 3,
-    type: "Inventory & Warehouse",
+    type: "Inventory-Warehouse",
     title: "Stores, Warehouse Management, and Inventory Control",
     slg: "stores-warehouse-management-and-inventory-control",
     duration: "5 Days",
@@ -501,7 +501,7 @@ export const AllCourseLists = [
   },
   {
     id: 4,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Advanced Principles in Ports & Marine Terminals Management",
     slg: "advanced-principles-in-ports-marine-terminals-management",
     duration: "5 Days",
@@ -630,7 +630,7 @@ export const AllCourseLists = [
   },
   {
     id: 47,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Dry Bulk Terminal Management",
     slg: "dry-bulk-terminal-management",
     duration: "5 Days",
@@ -755,7 +755,7 @@ export const AllCourseLists = [
   },
   {
     id: 6,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Container logistics management",
     slg: "container-logistics-management",
     duration: "3 Days",
@@ -869,7 +869,7 @@ export const AllCourseLists = [
   },
   {
     id: 7,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Customs Clearance and Freight Forwarding",
     slg: "customs-clearance-and-freight-forwarding",
     duration: "5 Days",
@@ -999,7 +999,7 @@ export const AllCourseLists = [
   },
   {
     id: 8,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Import and Export Management",
     slg: "import-and-export-management",
     duration: "3-5 Days",
@@ -1136,7 +1136,7 @@ export const AllCourseLists = [
   },
   {
     id: 9,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Liquid Bulk Terminal Management",
     slg: "liquid-bulk-terminal-management",
     duration: "3 Days",
@@ -1262,7 +1262,7 @@ export const AllCourseLists = [
   },
   {
     id: 10,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Maritime Logistics and Shipping",
     slg: "maritime-logistics-and-shipping",
     duration: "5 Days",
@@ -1393,7 +1393,7 @@ export const AllCourseLists = [
   },
   {
     id: 11,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Maritime Security Management and Control as per ISPS Code",
     slg: "maritime-security-management-and-control-as-per-isps-code",
     duration: "5 Days",
@@ -1536,7 +1536,7 @@ export const AllCourseLists = [
   },
   {
     id: 12,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Ports Management & Transshipment Operations",
     slg: "ports-management-and-transshipment-operations",
     duration: "5 Days",
@@ -1664,7 +1664,7 @@ export const AllCourseLists = [
   },
   {
     id: 13,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Sustainable Practices for a Blue and Circular Economy",
     slg: "sustainable-practices-for-a-blue-and-circular-economy",
     duration: "5 Days",
@@ -1802,7 +1802,7 @@ export const AllCourseLists = [
   },
   {
     id: 14,
-    type: "Transport & Distribution",
+    type: "Transport-Distribution",
     title: "Strategic Distribution Management Training",
     slg: "strategic-distribution-management-training",
     duration: "5 Days",
@@ -1934,7 +1934,7 @@ export const AllCourseLists = [
   },
   {
     id: 15,
-    type: "Transport & Distribution",
+    type: "Transport-Distribution",
     title: "Transport and fleet management",
     slg: "transport-and-fleet-management",
     duration: "5 Days",
@@ -4287,7 +4287,7 @@ export const AllCourseLists = [
   },
   {
     id: 43,
-    type: "Transport & Distribution",
+    type: "Transport-Distribution",
     imgSrc: "assets/images/trajlon-courses/image-43.webp",
     title: "Traffic Systems Analyst",
     slg: "traffic-systems-analyst",
@@ -4407,7 +4407,7 @@ export const AllCourseLists = [
   },
   {
     id: 34,
-    type: "Transport & Distribution",
+    type: "Transport-Distribution",
     imgSrc: "assets/images/trajlon-courses/image-34.webp",
     title: "Traffic Behaviour Analyst Training",
     slg: "traffic-behaviour-analyst-training",
@@ -5172,7 +5172,7 @@ export const AllCourseLists = [
   },
   {
     id: 40,
-    type: "Inventory & Warehouse",
+    type: "Inventory-Warehouse",
     imgSrc: "assets/images/trajlon-images/image-40.png",
     title: "Dispatch and Receiving Operations",
     slg: "dispatch-and-receiving-operations",
@@ -5284,7 +5284,7 @@ export const AllCourseLists = [
   },
   {
     id: 41,
-    type: "Airport & Rail",
+    type: "Airport-Rail",
     imgSrc: "assets/images/trajlon-course/image-41.png",
     title: "Airport Management Course",
     slg: "airport-management-course",
@@ -5423,7 +5423,7 @@ export const AllCourseLists = [
   },
   {
     id: 42,
-    type: "Airport & Rail",
+    type: "Airport-Rail",
     imgSrc: "assets/images/trajlon-courses/.webp",
     title: "Rail Training Fundamentals",
     slg: "rail-training-fundamentals",
@@ -5645,7 +5645,7 @@ export const AllCourseLists = [
   },
   {
     id: 46,
-    type: "Ports & Shipping",
+    type: "Ports-Shipping",
     title: "Principles of Dry Port Management",
     duration: "5 Days",
     slg: "principles-of-dry-port-management",
@@ -5766,7 +5766,7 @@ export const AllCourseLists = [
   },
   {
     id: 5,
-    type: "Transport & Distribution",
+    type: "Transport-Distribution",
     imgSrc: "assets/images/kb-17/about-img.jpg",
     title: "Cold Chain Logistics Management",
     duration: "3 Days",
@@ -5890,3 +5890,4 @@ export const AllCourseLists = [
     ],
   },
 ];
+
