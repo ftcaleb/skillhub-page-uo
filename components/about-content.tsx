@@ -32,9 +32,7 @@ function MissionVisionVoice() {
                   Our Mission
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  SkillHub International transforms lives through world-class, borderless education
-                  and skill development. We empower individuals and organisations with accessible,
-                  high-impact learning that creates real-world opportunity.
+                  Deliver world-class, borderless education that empowers real-world success.
                 </p>
               </div>
             </div>
@@ -52,8 +50,7 @@ function MissionVisionVoice() {
                   Our Vision
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  To be the world’s leading platform for skill transformation and professional growth.
-                  We envision a future where education knows no boundaries and talent thrives everywhere.
+                  Lead global skill transformation by unlocking talent everywhere.
                 </p>
               </div>
             </div>
@@ -71,9 +68,7 @@ function MissionVisionVoice() {
                   Our Voice
                 </h3>
                 <p className="mt-4 text-base leading-relaxed text-muted-foreground lg:text-lg lg:leading-relaxed">
-                  Professional, inspiring, and empowering—confident in expertise and human in tone.
-                  We communicate with clarity, inclusivity, and purpose to motivate learners at every
-                  stage.
+                  Professional, inspiring, and empowering—clear, inclusive, and purpose-driven.
                 </p>
               </div>
             </div>
