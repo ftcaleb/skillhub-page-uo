@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     const { category: rawCategory, page } = await params
     const category = decodeURIComponent(rawCategory)
     return {
-        title: `${category} Courses - Page ${page} | Ascend Institute`,
+        title: `${category} Courses - Page ${page} | SkillHub International`,
         description: `Browse page ${page} of our ${category} courses and training programs.`,
     }
 }

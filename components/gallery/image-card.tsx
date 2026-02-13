@@ -56,14 +56,6 @@ export function ImageCard({ item, onClick, priority = false }: ImageCardProps) {
                         </span>
                     </div>
 
-                    {/* Editorial Typography */}
-                    <div className="transform transition-all duration-700 delay-100 group-hover:-translate-y-3">
-                        <h3 className="text-2xl lg:text-3xl font-bold text-white tracking-tight leading-none mb-3">
-                            {item.title}
-                        </h3>
-
-                    </div>
-
                 </div>
             </div>
         </motion.div>
