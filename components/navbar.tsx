@@ -51,7 +51,7 @@ export function Navbar() {
         <Link href="/" className="group flex items-center gap-3">
           <div className="relative h-16 w-16 overflow-hidden rounded-lg">
             <Image
-              src="/asset/Logo.png"
+              src="/asset/Logo.webp"
               alt="SkillHub International Logo"
               fill
               className="object-contain"
