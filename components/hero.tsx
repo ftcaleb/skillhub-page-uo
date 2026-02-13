@@ -18,7 +18,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/asset/bgimg2.jpeg"
+          src="/asset/bgimg2.webp"
           alt="SkillHub International"
           fill
           className="object-cover"
