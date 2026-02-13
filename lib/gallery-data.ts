@@ -16,7 +16,7 @@ export const galleryItems: GalleryItem[] = [
     },
     {
         id: "2",
-        src: "/asset/img1.jpeg",
+        src: "/asset/img1.jpg",
         category: "Certified",
         span: "medium"
     },
@@ -28,7 +28,7 @@ export const galleryItems: GalleryItem[] = [
     },
     {
         id: "4",
-        src: "/asset/img11.jpeg",
+        src: "/asset/img11.jpg",
         category: "Certified",
         span: "small"
     },

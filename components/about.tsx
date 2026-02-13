@@ -21,7 +21,7 @@ export function About() {
           <MotionDiv variants={slideInLeft} className="relative">
             <div className="relative rounded-2xl overflow-hidden aspect-[4/3] shadow-2xl">
               <Image
-                src="/asset/img1.jpeg"
+                src="/asset/img1.jpg"
                 alt="Students collaborating in a modern study space"
                 fill
                 className="object-cover"
