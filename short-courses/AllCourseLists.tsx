@@ -8,11 +8,11 @@ export const AllCourseLists = [
     popular: true,
     seo: {
       seoTitle:
-        "Effective Inventory Management Course | Stock Control | Trajlon Group",
+        "Effective Inventory Management Course | Stock Control | SkillHub International",
       seoDescription:
-        "Master effective inventory planning and stock control techniques with Trajlon Group's 5-day course. Learn to optimize stock levels, reduce costs, and improve supply chain efficiency. Enquire now!",
+        "Master effective inventory planning and stock control techniques with SkillHub International's 5-day course. Learn to optimize stock levels, reduce costs, and improve supply chain efficiency. Enquire now!",
       seoKeywords:
-        "inventory management course South Africa, stock control training, inventory planning techniques, warehouse management course, supply chain inventory, inventory optimization, demand planning course, Trajlon Group inventory training",
+        "inventory management course South Africa, stock control training, inventory planning techniques, warehouse management course, supply chain inventory, inventory optimization, demand planning course, SkillHub International inventory training",
       seoHeading:
         "Effective Inventory Planning and Stock Control: Optimize Your Warehouse",
     },
@@ -228,11 +228,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Stock Management, Forecasting & Demand Planning Course | Trajlon Group",
+        "Stock Management, Forecasting & Demand Planning Course | SkillHub International",
       seoDescription:
-        "Enhance your supply chain with Trajlon Group's 5-day course on stock management, forecasting, and demand planning. Learn to optimize inventory and predict demand effectively. Enquire Now!",
+        "Enhance your supply chain with SkillHub International's 5-day course on stock management, forecasting, and demand planning. Learn to optimize inventory and predict demand effectively. Enquire Now!",
       seoKeywords:
-        "stock management course South Africa, demand planning training, inventory forecasting course, supply chain planning, stock control, forecasting methods, demand analysis, Trajlon Group supply chain",
+        "stock management course South Africa, demand planning training, inventory forecasting course, supply chain planning, stock control, forecasting methods, demand analysis, SkillHub International supply chain",
       seoHeading: "Master Stock Management, Forecasting, and Demand Planning",
     },
     brochure:
@@ -375,11 +375,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Stores, Warehouse Management & Inventory Control Course | Trajlon Group",
+        "Stores, Warehouse Management & Inventory Control Course | SkillHub International",
       seoDescription:
-        "Learn effective stores, warehouse management, and inventory control strategies with Trajlon Group's comprehensive 5-day course. Optimize your supply chain today! Enquire now.",
+        "Learn effective stores, warehouse management, and inventory control strategies with SkillHub International's comprehensive 5-day course. Optimize your supply chain today! Enquire now.",
       seoKeywords:
-        "warehouse management course South Africa, inventory control training, stores management course, logistics course, supply chain management training, stock management, warehouse optimization, Trajlon Group logistics",
+        "warehouse management course South Africa, inventory control training, stores management course, logistics course, supply chain management training, stock management, warehouse optimization, SkillHub International logistics",
       seoHeading: "Master Stores, Warehouse Management, and Inventory Control",
     },
     brochure:
@@ -508,11 +508,11 @@ export const AllCourseLists = [
     popular: true,
     seo: {
       seoTitle:
-        "Advanced Ports & Marine Terminals Management Course | Trajlon Group",
+        "Advanced Ports & Marine Terminals Management Course | SkillHub International",
       seoDescription:
-        "Master advanced port and marine terminal management principles with Trajlon Group's 5-day course. Learn operations, safety, and efficiency best practices. Enquire now!",
+        "Master advanced port and marine terminal management principles with SkillHub International's 5-day course. Learn operations, safety, and efficiency best practices. Enquire now!",
       seoKeywords:
-        "port management course South Africa, marine terminal management training, ports and shipping course, harbor management, terminal operations, port safety, maritime training South Africa, Trajlon Group ports",
+        "port management course South Africa, marine terminal management training, ports and shipping course, harbor management, terminal operations, port safety, maritime training South Africa, SkillHub International ports",
       seoHeading: "Advanced Principles in Ports & Marine Terminals Management",
     },
     brochure:
@@ -636,11 +636,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     popular: true,
     seo: {
-      seoTitle: "Dry Bulk Terminal Management Course | Trajlon Group",
+      seoTitle: "Dry Bulk Terminal Management Course | SkillHub International",
       seoDescription:
-        "Master dry bulk terminal operations with Trajlon Group's comprehensive course. Learn about infrastructure, handling, safety, and efficiency. Enquire now!",
+        "Master dry bulk terminal operations with SkillHub International's comprehensive course. Learn about infrastructure, handling, safety, and efficiency. Enquire now!",
       seoKeywords:
-        "dry bulk terminal management course South Africa, port terminal training, bulk cargo handling, terminal operations, port logistics, Trajlon Group maritime training",
+        "dry bulk terminal management course South Africa, port terminal training, bulk cargo handling, terminal operations, port logistics, SkillHub International maritime training",
       seoHeading: "Dry Bulk Terminal Management: Optimizing Operations",
     },
     brochure:
@@ -760,11 +760,11 @@ export const AllCourseLists = [
     slg: "container-logistics-management",
     duration: "3 Days",
     seo: {
-      seoTitle: "Container Logistics Management Course | Trajlon Group",
+      seoTitle: "Container Logistics Management Course | SkillHub International",
       seoDescription:
-        "Understand container logistics with Trajlon Group's 3-day course. Learn about shipping, terminals, intermodal transport, and optimization. Enquire now!",
+        "Understand container logistics with SkillHub International's 3-day course. Learn about shipping, terminals, intermodal transport, and optimization. Enquire now!",
       seoKeywords:
-        "container logistics course South Africa, container shipping management, port logistics training, intermodal transport course, freight forwarding, shipping industry course, Trajlon Group logistics",
+        "container logistics course South Africa, container shipping management, port logistics training, intermodal transport course, freight forwarding, shipping industry course, SkillHub International logistics",
       seoHeading: "Mastering Container Logistics Management",
     },
     brochure:
@@ -1005,11 +1005,11 @@ export const AllCourseLists = [
     duration: "3-5 Days",
     popular: true,
     seo: {
-      seoTitle: "Customs Clearance & Freight Forwarding Course | Trajlon Group",
+      seoTitle: "Customs Clearance & Freight Forwarding Course | SkillHub International",
       seoDescription:
-        "Master customs clearance and freight forwarding with Trajlon Group's 5-day course. Navigate global shipping, regulations, and documentation. Enquire now!",
+        "Master customs clearance and freight forwarding with SkillHub International's 5-day course. Navigate global shipping, regulations, and documentation. Enquire now!",
       seoKeywords:
-        "customs clearance course South Africa, freight forwarding training, import export course, logistics course, trade compliance, shipping documentation, customs broker training, Trajlon Group logistics",
+        "customs clearance course South Africa, freight forwarding training, import export course, logistics course, trade compliance, shipping documentation, customs broker training, SkillHub International logistics",
       seoHeading: "Comprehensive Customs Clearance and Freight Forwarding",
     },
     brochure:
@@ -1141,11 +1141,11 @@ export const AllCourseLists = [
     slg: "liquid-bulk-terminal-management",
     duration: "3 Days",
     seo: {
-      seoTitle: "Liquid Bulk Terminal Management Course | Trajlon Group",
+      seoTitle: "Liquid Bulk Terminal Management Course | SkillHub International",
       seoDescription:
-        "Gain expertise in liquid bulk terminal management with Trajlon Group's 3-day course. Learn operations, safety, regulations, and optimization. Enquire now!",
+        "Gain expertise in liquid bulk terminal management with SkillHub International's 3-day course. Learn operations, safety, regulations, and optimization. Enquire now!",
       seoKeywords:
-        "liquid bulk terminal management course South Africa, oil and gas terminal training, chemical terminal operations, port terminal management, maritime logistics course, tank farm management, Trajlon Group ports",
+        "liquid bulk terminal management course South Africa, oil and gas terminal training, chemical terminal operations, port terminal management, maritime logistics course, tank farm management, SkillHub International ports",
       seoHeading: "Mastering Liquid Bulk Terminal Management",
     },
     brochure:
@@ -1267,11 +1267,11 @@ export const AllCourseLists = [
     slg: "maritime-logistics-and-shipping",
     duration: "5 Days",
     seo: {
-      seoTitle: "Maritime Logistics and Shipping Course | Trajlon Group",
+      seoTitle: "Maritime Logistics and Shipping Course | SkillHub International",
       seoDescription:
-        "Explore maritime logistics and shipping with Trajlon Group's 5-day course. Learn about port operations, cargo handling, shipping economics, and regulations. Enquire now!",
+        "Explore maritime logistics and shipping with SkillHub International's 5-day course. Learn about port operations, cargo handling, shipping economics, and regulations. Enquire now!",
       seoKeywords:
-        "maritime logistics course South Africa, shipping course, port operations training, maritime transport, logistics and shipping, international trade logistics, Trajlon Group maritime",
+        "maritime logistics course South Africa, shipping course, port operations training, maritime transport, logistics and shipping, international trade logistics, SkillHub International maritime",
       seoHeading: "Comprehensive Maritime Logistics and Shipping",
     },
     brochure:
@@ -1399,11 +1399,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "ISPS Code Maritime Security Management & Control Course | Trajlon Group",
+        "ISPS Code Maritime Security Management & Control Course | SkillHub International",
       seoDescription:
-        "Master maritime security as per the ISPS Code with Trajlon Group's 5-day course. Learn threat assessment, security planning, and compliance. Enquire now!",
+        "Master maritime security as per the ISPS Code with SkillHub International's 5-day course. Learn threat assessment, security planning, and compliance. Enquire now!",
       seoKeywords:
-        "ISPS Code training South Africa, maritime security course, port security management, ship security officer course, PFSO training, maritime security audit, Trajlon Group maritime security",
+        "ISPS Code training South Africa, maritime security course, port security management, ship security officer course, PFSO training, maritime security audit, SkillHub International maritime security",
       seoHeading: "Maritime Security Management and Control as per ISPS Code",
     },
     brochure:
@@ -1543,11 +1543,11 @@ export const AllCourseLists = [
     popular: true,
     seo: {
       seoTitle:
-        "Ports Management & Transshipment Operations Course | Trajlon Group",
+        "Ports Management & Transshipment Operations Course | SkillHub International",
       seoDescription:
-        "Enhance your understanding of ports and transshipment with Trajlon Group's 5-day course. Learn operations, strategies, and efficiency in global trade. Enquire now!",
+        "Enhance your understanding of ports and transshipment with SkillHub International's 5-day course. Learn operations, strategies, and efficiency in global trade. Enquire now!",
       seoKeywords:
-        "ports management course South Africa, transshipment operations training, port logistics, maritime operations, terminal management, cargo handling, port efficiency, Trajlon Group ports",
+        "ports management course South Africa, transshipment operations training, port logistics, maritime operations, terminal management, cargo handling, port efficiency, SkillHub International ports",
       seoHeading: "Mastering Ports Management & Transshipment Operations",
     },
     brochure:
@@ -1670,11 +1670,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Sustainable Blue and Circular Economy Practices Course | Trajlon Group",
+        "Sustainable Blue and Circular Economy Practices Course | SkillHub International",
       seoDescription:
-        "Explore sustainable practices for a blue and circular economy with Trajlon Group's 5-day course. Learn principles, tools, and applications for marine and resource management. Enquire now!",
+        "Explore sustainable practices for a blue and circular economy with SkillHub International's 5-day course. Learn principles, tools, and applications for marine and resource management. Enquire now!",
       seoKeywords:
-        "sustainable blue economy course South Africa, circular economy training, marine sustainability, ocean conservation, resource management, green shipping, sustainable tourism, Trajlon Group sustainability",
+        "sustainable blue economy course South Africa, circular economy training, marine sustainability, ocean conservation, resource management, green shipping, sustainable tourism, SkillHub International sustainability",
       seoHeading: "Sustainable Practices for a Blue and Circular Economy",
     },
     brochure:
@@ -1807,11 +1807,11 @@ export const AllCourseLists = [
     slg: "strategic-distribution-management-training",
     duration: "5 Days",
     seo: {
-      seoTitle: "Strategic Distribution Management Training | Trajlon Group",
+      seoTitle: "Strategic Distribution Management Training | SkillHub International",
       seoDescription:
-        "Learn strategic distribution management with Trajlon Group's 5-day course. Design effective logistics systems, optimize processes, and reduce costs. Enquire now!",
+        "Learn strategic distribution management with SkillHub International's 5-day course. Design effective logistics systems, optimize processes, and reduce costs. Enquire now!",
       seoKeywords:
-        "strategic distribution management course South Africa, logistics training, supply chain management, warehouse management, transportation planning, distribution network design, Trajlon Group logistics",
+        "strategic distribution management course South Africa, logistics training, supply chain management, warehouse management, transportation planning, distribution network design, SkillHub International logistics",
       seoHeading: "Mastering Strategic Distribution Management",
     },
     brochure:
@@ -1939,11 +1939,11 @@ export const AllCourseLists = [
     slg: "transport-and-fleet-management",
     duration: "5 Days",
     seo: {
-      seoTitle: "Transport and Fleet Management Training | Trajlon Group",
+      seoTitle: "Transport and Fleet Management Training | SkillHub International",
       seoDescription:
-        "Optimize your transport operations and manage your fleet effectively with Trajlon Group's 5-day course. Learn planning, maintenance, safety, and compliance. Enquire now!",
+        "Optimize your transport operations and manage your fleet effectively with SkillHub International's 5-day course. Learn planning, maintenance, safety, and compliance. Enquire now!",
       seoKeywords:
-        "transport management course South Africa, fleet management training, logistics management, vehicle maintenance, route optimization, driver management, transport compliance, Trajlon Group transport",
+        "transport management course South Africa, fleet management training, logistics management, vehicle maintenance, route optimization, driver management, transport compliance, SkillHub International transport",
       seoHeading: "Optimizing Transport and Fleet Management",
     },
     brochure:
@@ -2075,11 +2075,11 @@ export const AllCourseLists = [
     duration: "3-5 Days",
     seo: {
       seoTitle:
-        "Advanced Negotiation Training: Mastering Complex Deals | Trajlon Group",
+        "Advanced Negotiation Training: Mastering Complex Deals | SkillHub International",
       seoDescription:
-        "Elevate your negotiation skills with Trajlon Group's advanced course. Master complex techniques, strategy, and high-stakes scenarios. Enquire now!",
+        "Elevate your negotiation skills with SkillHub International's advanced course. Master complex techniques, strategy, and high-stakes scenarios. Enquire now!",
       seoKeywords:
-        "advanced negotiation training South Africa, complex negotiation skills, high-stakes negotiation, strategic negotiation, negotiation techniques, procurement negotiation, sales negotiation, Trajlon Group negotiation",
+        "advanced negotiation training South Africa, complex negotiation skills, high-stakes negotiation, strategic negotiation, negotiation techniques, procurement negotiation, sales negotiation, SkillHub International negotiation",
       seoHeading: "Mastering Complex and High-Stakes Negotiations",
     },
     brochure:
@@ -2192,11 +2192,11 @@ export const AllCourseLists = [
     duration: "3 Days",
     seo: {
       seoTitle:
-        "Combatting Procurement Fraud & Corruption Training | Trajlon Group",
+        "Combatting Procurement Fraud & Corruption Training | SkillHub International",
       seoDescription:
-        "Equip your team to identify, prevent, and detect procurement fraud with Trajlon Group's 3-day course. Learn risk assessment and control implementation. Enquire now!",
+        "Equip your team to identify, prevent, and detect procurement fraud with SkillHub International's 3-day course. Learn risk assessment and control implementation. Enquire now!",
       seoKeywords:
-        "procurement fraud training South Africa, corruption prevention course, fraud detection in procurement, internal controls, ethics in procurement, anti-bribery training, Trajlon Group procurement",
+        "procurement fraud training South Africa, corruption prevention course, fraud detection in procurement, internal controls, ethics in procurement, anti-bribery training, SkillHub International procurement",
       seoHeading: "Combatting Procurement Fraud and Corruption",
     },
     brochure:
@@ -2321,11 +2321,11 @@ export const AllCourseLists = [
     slg: "contract-management-service-level-agreements-and-kpis",
     duration: "5 Days",
     seo: {
-      seoTitle: "Contract Management, SLAs & KPIs Training | Trajlon Group",
+      seoTitle: "Contract Management, SLAs & KPIs Training | SkillHub International",
       seoDescription:
-        "Master contract management, SLAs, and KPIs with Trajlon Group's 5-day course. Learn development, negotiation, implementation, and performance monitoring. Enquire now!",
+        "Master contract management, SLAs, and KPIs with SkillHub International's 5-day course. Learn development, negotiation, implementation, and performance monitoring. Enquire now!",
       seoKeywords:
-        "contract management training South Africa, service level agreements course, KPIs in procurement, supplier relationship management, contract negotiation, performance monitoring, Trajlon Group procurement",
+        "contract management training South Africa, service level agreements course, KPIs in procurement, supplier relationship management, contract negotiation, performance monitoring, SkillHub International procurement",
       seoHeading:
         "Effective Contract Management, Service Level Agreements and KPIs",
     },
@@ -2427,11 +2427,11 @@ export const AllCourseLists = [
     slg: "effective-specifications-writing",
     duration: "3 Days",
     seo: {
-      seoTitle: "Effective Specifications Writing Training | Trajlon Group",
+      seoTitle: "Effective Specifications Writing Training | SkillHub International",
       seoDescription:
-        "Master the art of writing clear and precise specifications with Trajlon Group's 3-day course. Learn to define accurate requirements for successful procurement. Enquire now!",
+        "Master the art of writing clear and precise specifications with SkillHub International's 3-day course. Learn to define accurate requirements for successful procurement. Enquire now!",
       seoKeywords:
-        "specification writing training South Africa, procurement specifications, technical writing for procurement, requirements definition, tender specifications, effective communication in procurement, Trajlon Group procurement",
+        "specification writing training South Africa, procurement specifications, technical writing for procurement, requirements definition, tender specifications, effective communication in procurement, SkillHub International procurement",
       seoHeading: "Mastering Effective Specifications Writing",
     },
     brochure:
@@ -2556,11 +2556,11 @@ export const AllCourseLists = [
     slg: "environmental-social-and-governance-in-supply-chains",
     duration: "5 Days",
     seo: {
-      seoTitle: "ESG in Supply Chains Training | Trajlon Group",
+      seoTitle: "ESG in Supply Chains Training | SkillHub International",
       seoDescription:
-        "Learn how to integrate Environmental, Social, and Governance (ESG) principles into your supply chain with Trajlon Group's 5-day course. Build sustainable and ethical practices. Enquire now!",
+        "Learn how to integrate Environmental, Social, and Governance (ESG) principles into your supply chain with SkillHub International's 5-day course. Build sustainable and ethical practices. Enquire now!",
       seoKeywords:
-        "ESG supply chain training South Africa, sustainable procurement, ethical sourcing, supply chain sustainability, environmental governance, social responsibility, ESG risk management, Trajlon Group sustainability",
+        "ESG supply chain training South Africa, sustainable procurement, ethical sourcing, supply chain sustainability, environmental governance, social responsibility, ESG risk management, SkillHub International sustainability",
       seoHeading:
         "Embedding Environmental, Social, and Governance in Supply Chains",
     },
@@ -2691,11 +2691,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "International PPP Projects & Infrastructure Management | Trajlon Group",
+        "International PPP Projects & Infrastructure Management | SkillHub International",
       seoDescription:
         "Gain expertise in international Public-Private Partnership (PPP) projects and infrastructure management. Covers the entire project lifecycle. Enquire now!",
       seoKeywords:
-        "international PPP training, infrastructure management course, public private partnerships, PPP project lifecycle, infrastructure finance, PPP contracts, risk management in PPP, Trajlon Group infrastructure",
+        "international PPP training, infrastructure management course, public private partnerships, PPP project lifecycle, infrastructure finance, PPP contracts, risk management in PPP, SkillHub International infrastructure",
       seoHeading:
         "Mastering International PPP Projects and Infrastructure Management",
     },
@@ -2807,11 +2807,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Supplier Qualification, Performance & Contract Compliance | Trajlon Group",
+        "Supplier Qualification, Performance & Contract Compliance | SkillHub International",
       seoDescription:
-        "Enhance your vendor management skills with Trajlon Group's 5-day course. Learn supplier qualification, performance monitoring, and contract compliance. Enquire now!",
+        "Enhance your vendor management skills with SkillHub International's 5-day course. Learn supplier qualification, performance monitoring, and contract compliance. Enquire now!",
       seoKeywords:
-        "supplier qualification training South Africa, vendor performance management, contract compliance course, supplier risk management, vendor relationship management, procurement performance, Trajlon Group procurement",
+        "supplier qualification training South Africa, vendor performance management, contract compliance course, supplier risk management, vendor relationship management, procurement performance, SkillHub International procurement",
       seoHeading:
         "Mastering Supplier Qualification, Performance & Contract Compliance",
     },
@@ -2941,11 +2941,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     popular: true,
     seo: {
-      seoTitle: "Principles of Procurement Training Course | Trajlon Group",
+      seoTitle: "Principles of Procurement Training Course | SkillHub International",
       seoDescription:
-        "Master the fundamentals of procurement with Trajlon Group's popular 5-day course. Learn sourcing, negotiation, supplier management, and ethical practices. Enquire now!",
+        "Master the fundamentals of procurement with SkillHub International's popular 5-day course. Learn sourcing, negotiation, supplier management, and ethical practices. Enquire now!",
       seoKeywords:
-        "procurement principles course South Africa, supply chain fundamentals, purchasing training, strategic sourcing, supplier selection, procurement negotiation, ethical procurement, Trajlon Group procurement",
+        "procurement principles course South Africa, supply chain fundamentals, purchasing training, strategic sourcing, supplier selection, procurement negotiation, ethical procurement, SkillHub International procurement",
       seoHeading: "Mastering the Principles of Procurement",
     },
     brochure:
@@ -3047,11 +3047,11 @@ export const AllCourseLists = [
     duration: "5-10 Days",
     popular: true,
     seo: {
-      seoTitle: "Procurement Analytics Training Course | Trajlon Group",
+      seoTitle: "Procurement Analytics Training Course | SkillHub International",
       seoDescription:
-        "Unlock the power of data in procurement with Trajlon Group's popular analytics training. Gain actionable insights for cost optimization and strategic sourcing. Enquire now!",
+        "Unlock the power of data in procurement with SkillHub International's popular analytics training. Gain actionable insights for cost optimization and strategic sourcing. Enquire now!",
       seoKeywords:
-        "procurement analytics training South Africa, spend analysis course, supplier performance evaluation, procurement dashboards, predictive analytics in procurement, strategic sourcing analytics, Trajlon Group procurement",
+        "procurement analytics training South Africa, spend analysis course, supplier performance evaluation, procurement dashboards, predictive analytics in procurement, strategic sourcing analytics, SkillHub International procurement",
       seoHeading:
         "Harnessing Data for Strategic Procurement: Analytics Training",
     },
@@ -3216,11 +3216,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "World Bank Funded Projects Procurement Training | Trajlon Group",
+        "World Bank Funded Projects Procurement Training | SkillHub International",
       seoDescription:
-        "Master procurement for World Bank funded projects with Trajlon Group's 5-day course. Learn policies, procedures, and best practices for donor-funded procurement. Enquire now!",
+        "Master procurement for World Bank funded projects with SkillHub International's 5-day course. Learn policies, procedures, and best practices for donor-funded procurement. Enquire now!",
       seoKeywords:
-        "World Bank procurement training South Africa, donor funded procurement, international development procurement, procurement policies, World Bank NPF, project procurement management, Trajlon Group procurement",
+        "World Bank procurement training South Africa, donor funded procurement, international development procurement, procurement policies, World Bank NPF, project procurement management, SkillHub International procurement",
       seoHeading: "Procurement Management for World Bank Funded Projects",
     },
     brochure:
@@ -3341,11 +3341,11 @@ export const AllCourseLists = [
     slg: "project-management",
     duration: "5 Days",
     seo: {
-      seoTitle: "Project Management Training Course | Trajlon Group",
+      seoTitle: "Project Management Training Course | SkillHub International",
       seoDescription:
-        "Gain practical project management skills with Trajlon Group's 5-day course. Learn project lifecycle, planning, execution, monitoring, and closure. Enquire now!",
+        "Gain practical project management skills with SkillHub International's 5-day course. Learn project lifecycle, planning, execution, monitoring, and closure. Enquire now!",
       seoKeywords:
-        "project management training South Africa, project management fundamentals, project planning, project execution, risk management, stakeholder management, PMBOK, Agile, Trajlon Group project management",
+        "project management training South Africa, project management fundamentals, project planning, project execution, risk management, stakeholder management, PMBOK, Agile, SkillHub International project management",
       seoHeading:
         "Mastering the Principles and Tools of Effective Project Management",
     },
@@ -3478,11 +3478,11 @@ export const AllCourseLists = [
     slg: "risk-management-in-supply-chain-and-procurement",
     duration: "3 Days",
     seo: {
-      seoTitle: "Risk Management in Supply Chain & Procurement | Trajlon Group",
+      seoTitle: "Risk Management in Supply Chain & Procurement | SkillHub International",
       seoDescription:
-        "Equip your team to proactively manage risks in supply chain and procurement with Trajlon Group's 3-day course. Learn identification, assessment, and mitigation strategies. Enquire now!",
+        "Equip your team to proactively manage risks in supply chain and procurement with SkillHub International's 3-day course. Learn identification, assessment, and mitigation strategies. Enquire now!",
       seoKeywords:
-        "supply chain risk management training South Africa, procurement risk management, risk assessment in procurement, risk mitigation strategies, supply chain resilience, contract risk management, Trajlon Group risk management",
+        "supply chain risk management training South Africa, procurement risk management, risk assessment in procurement, risk mitigation strategies, supply chain resilience, contract risk management, TSkillHub International risk management",
       seoHeading: "Proactive Risk Management in Supply Chain and Procurement",
     },
     brochure:
@@ -3587,11 +3587,11 @@ export const AllCourseLists = [
     slg: "strategic-procurement-planning",
     duration: "5 Days",
     seo: {
-      seoTitle: "Strategic Procurement Planning Training | Trajlon Group",
+      seoTitle: "Strategic Procurement Planning Training | SkillHub International",
       seoDescription:
-        "Develop effective strategic procurement plans with Trajlon Group's 5-day course. Learn spend analysis, category management, risk assessment, and stakeholder engagement. Enquire now!",
+        "Develop effective strategic procurement plans with SkillHub International's 5-day course. Learn spend analysis, category management, risk assessment, and stakeholder engagement. Enquire now!",
       seoKeywords:
-        "strategic procurement planning training South Africa, procurement strategy development, spend analysis, category management, procurement risk assessment, stakeholder engagement in procurement, sustainable procurement, Trajlon Group procurement",
+        "strategic procurement planning training South Africa, procurement strategy development, spend analysis, category management, procurement risk assessment, stakeholder engagement in procurement, sustainable procurement, SkillHub International procurement",
       seoHeading: "Developing and Implementing Strategic Procurement Plans",
     },
     brochure:
@@ -3708,11 +3708,11 @@ export const AllCourseLists = [
     slg: "tendering-world-best-practices",
     duration: "5 Days",
     seo: {
-      seoTitle: "Tendering World Best Practices Training | Trajlon Group",
+      seoTitle: "Tendering World Best Practices Training | SkillHub International",
       seoDescription:
-        "Learn international best practices in tendering with Trajlon Group's 5-day course. Master end-to-end processes from preparation to contract award. Enquire now!",
+        "Learn international best practices in tendering with SkillHub International's 5-day course. Master end-to-end processes from preparation to contract award. Enquire now!",
       seoKeywords:
-        "tendering best practices training South Africa, international tendering standards, bid evaluation process, tender management, e-procurement, ethical tendering, contract award, Trajlon Group tendering",
+        "tendering best practices training South Africa, international tendering standards, bid evaluation process, tender management, e-procurement, ethical tendering, contract award, SkillHub International tendering",
       seoHeading: "Implementing World Best Practices in Tendering",
     },
     brochure:
@@ -3848,11 +3848,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Advanced Supervisory Management Skills Training | Trajlon Group",
+        "Advanced Supervisory Management Skills Training | SkillHub International",
       seoDescription:
         "Empower your supervisors with advanced management skills. Our 5-day course covers leadership, motivation, delegation, and problem-solving for impactful results.",
       seoKeywords:
-        "supervisory management skills training South Africa, advanced supervision course, team leadership skills, employee motivation techniques, effective delegation, problem-solving for supervisors, Trajlon Group leadership",
+        "supervisory management skills training South Africa, advanced supervision course, team leadership skills, employee motivation techniques, effective delegation, problem-solving for supervisors, SkillHub International leadership",
       seoHeading:
         "Elevating Leadership: Advanced Supervisory Management Skills",
     },
@@ -4014,11 +4014,11 @@ export const AllCourseLists = [
     popular: true,
     seo: {
       seoTitle:
-        "AI and Data Analytics in Supply Chain Management | Trajlon Group",
+        "AI and Data Analytics in Supply Chain Management | SkillHub International",
       seoDescription:
         "Explore the power of AI and data analytics in supply chain management. Our 5-day course covers machine learning, predictive analytics, and AI applications for a resilient and efficient supply chain.",
       seoKeywords:
-        "AI in supply chain training South Africa, data analytics for supply chain, machine learning in logistics, predictive analytics supply chain, supply chain optimization AI, AI in procurement, Trajlon Group supply chain",
+        "AI in supply chain training South Africa, data analytics for supply chain, machine learning in logistics, predictive analytics supply chain, supply chain optimization AI, AI in procurement, SkillHub International supply chain",
       seoHeading:
         "Revolutionizing Supply Chains: AI and Data Analytics Integration",
     },
@@ -4142,11 +4142,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     popular: true,
     seo: {
-      seoTitle: "Total Quality Control Management Training | Trajlon Group",
+      seoTitle: "Total Quality Control Management Training | SkillHub International",
       seoDescription:
-        "Master total quality control management with Trajlon Group's comprehensive 5-day course. Learn defect identification, variability reduction, and exceeding customer expectations.",
+        "Master total quality control management with SkillHub International's comprehensive 5-day course. Learn defect identification, variability reduction, and exceeding customer expectations.",
       seoKeywords:
-        "total quality control training South Africa, quality assurance course, statistical process control, Six Sigma training, Lean management, continuous improvement, quality management systems, Trajlon Group quality control",
+        "total quality control training South Africa, quality assurance course, statistical process control, Six Sigma training, Lean management, continuous improvement, quality management systems, SkillHub International quality control",
       seoHeading:
         "Ensuring Excellence: Total Quality Control Management Training",
     },
@@ -4293,11 +4293,11 @@ export const AllCourseLists = [
     slg: "traffic-systems-analyst",
     duration: "5 Days",
     seo: {
-      seoTitle: "Traffic Systems Analyst Training Course | Trajlon Group",
+      seoTitle: "Traffic Systems Analyst Training Course | SkillHub International",
       seoDescription:
-        "Become a Traffic Systems Analyst with Trajlon Group's 5-day course. Learn to analyze, optimize, and manage complex traffic systems using data and modern tools. Enquire now!",
+        "Become a Traffic Systems Analyst with SkillHub International's 5-day course. Learn to analyze, optimize, and manage complex traffic systems using data and modern tools. Enquire now!",
       seoKeywords:
-        "traffic systems analyst training South Africa, transportation analysis course, traffic engineering, urban mobility, intelligent transportation systems, traffic simulation, transport planning, Trajlon Group transport",
+        "traffic systems analyst training South Africa, transportation analysis course, traffic engineering, urban mobility, intelligent transportation systems, traffic simulation, transport planning, SkillHub International transport",
       seoHeading: "Becoming a Skilled Traffic Systems Analyst",
     },
     brochure:
@@ -4413,11 +4413,11 @@ export const AllCourseLists = [
     slg: "traffic-behaviour-analyst-training",
     duration: "5 Days",
     seo: {
-      seoTitle: "Traffic Behaviour Analyst Training | Trajlon Group",
+      seoTitle: "Traffic Behaviour Analyst Training | SkillHub International",
       seoDescription:
-        "Understand human behaviour in traffic systems with Trajlon Group's 5-day course. Learn to analyze, interpret, and influence driver behaviour for safer roads. Enquire now!",
+        "Understand human behaviour in traffic systems with SkillHub International's 5-day course. Learn to analyze, interpret, and influence driver behaviour for safer roads. Enquire now!",
       seoKeywords:
-        "traffic behaviour analyst training South Africa, traffic psychology course, human factors in road safety, risky driving behaviour analysis, traffic incident analysis, behavioural traffic interventions, Trajlon Group transport",
+        "traffic behaviour analyst training South Africa, traffic psychology course, human factors in road safety, risky driving behaviour analysis, traffic incident analysis, behavioural traffic interventions, SkillHub International transport",
       seoHeading: "Understanding Human Factors in Traffic Systems",
     },
     brochure:
@@ -4562,11 +4562,11 @@ export const AllCourseLists = [
     slg: "rigging-and-lifting-training",
     duration: "5 Days",
     seo: {
-      seoTitle: "Rigging and Lifting Training Course | Trajlon Group",
+      seoTitle: "Rigging and Lifting Training Course | SkillHub International",
       seoDescription:
-        "Ensure safety in lifting operations with Trajlon Group's 5-day Rigging and Lifting training. Learn equipment selection, inspection, safe techniques, and regulatory compliance.",
+        "Ensure safety in lifting operations with SkillHub International's 5-day Rigging and Lifting training. Learn equipment selection, inspection, safe techniques, and regulatory compliance.",
       seoKeywords:
-        "rigging and lifting training South Africa, crane operation safety, lifting equipment inspection, load weight calculation, rigging techniques, lifting safety standards, Trajlon Group safety training",
+        "rigging and lifting training South Africa, crane operation safety, lifting equipment inspection, load weight calculation, rigging techniques, lifting safety standards, SkillHub International safety training",
       seoHeading:
         "Ensuring Safety and Efficiency in Rigging and Lifting Operations",
     },
@@ -4697,11 +4697,11 @@ export const AllCourseLists = [
     slg: "managing-organizational-change",
     duration: "3 Days",
     seo: {
-      seoTitle: "Managing Organizational Change Training | Trajlon Group",
+      seoTitle: "Managing Organizational Change Training | SkillHub International",
       seoDescription:
-        "Learn to navigate organizational change effectively with Trajlon Group's 3-day course. Master change management theories, strategies, stakeholder engagement, and communication planning.",
+        "Learn to navigate organizational change effectively with SkillHub International's 3-day course. Master change management theories, strategies, stakeholder engagement, and communication planning.",
       seoKeywords:
-        "managing organizational change training South Africa, change management models, resistance to change, stakeholder engagement, change communication, leadership in change, Trajlon Group change management",
+        "managing organizational change training South Africa, change management models, resistance to change, stakeholder engagement, change communication, leadership in change, SkillHub International change management",
       seoHeading:
         "Leading Through Transformation: Managing Organizational Change",
     },
@@ -4816,11 +4816,11 @@ export const AllCourseLists = [
     duration: "3 Days",
     seo: {
       seoTitle:
-        "Leading Diversity and Inclusion in the Workplace | Trajlon Group",
+        "Leading Diversity and Inclusion in the Workplace | SkillHub International",
       seoDescription:
-        "Equip leaders to foster diverse and inclusive workplaces with Trajlon Group's 3-day course. Learn about unconscious bias, inclusive leadership, and D&I strategies.",
+        "Equip leaders to foster diverse and inclusive workplaces with SkillHub International's 3-day course. Learn about unconscious bias, inclusive leadership, and D&I strategies.",
       seoKeywords:
-        "diversity and inclusion training South Africa, inclusive leadership skills, unconscious bias training, building inclusive workplace culture, diversity equity belonging, D&I strategies, Trajlon Group HR",
+        "diversity and inclusion training South Africa, inclusive leadership skills, unconscious bias training, building inclusive workplace culture, diversity equity belonging, D&I strategies, SkillHub International HR",
       seoHeading:
         "Creating Inclusive Workplaces: Leading and Managing Diversity",
     },
@@ -4931,11 +4931,11 @@ export const AllCourseLists = [
     slg: "fundamentals-of-a-banksman",
     duration: "3 Days",
     seo: {
-      seoTitle: "Fundamentals of a Banksman Training | Trajlon Group",
+      seoTitle: "Fundamentals of a Banksman Training | SkillHub International",
       seoDescription:
-        "Learn essential banksman skills with Trajlon Group's 3-day course. Master hand and radio signals for safe vehicle and lifting operations. Enquire now!",
+        "Learn essential banksman skills with SkillHub International's 3-day course. Master hand and radio signals for safe vehicle and lifting operations. Enquire now!",
       seoKeywords:
-        "banksman training South Africa, signaller course, vehicle marshalling, safe lifting operations, construction site safety, hand signals for banksman, radio communication banksman, Trajlon Group safety training",
+        "banksman training South Africa, signaller course, vehicle marshalling, safe lifting operations, construction site safety, hand signals for banksman, radio communication banksman, SkillHub International safety training",
       seoHeading: "Ensuring Safe Operations: Fundamentals of a Banksman",
     },
     brochure:
@@ -5041,11 +5041,11 @@ export const AllCourseLists = [
     duration: "5 Days",
     seo: {
       seoTitle:
-        "Equipment & Maintenance in Manufacturing Training | Trajlon Group",
+        "Equipment & Maintenance in Manufacturing Training | SkillHub International",
       seoDescription:
-        "Maximize manufacturing efficiency with Trajlon Group's 5-day course on equipment and maintenance. Learn preventive, predictive, and condition-based strategies. Enquire now!",
+        "Maximize manufacturing efficiency with SkillHub International's 5-day course on equipment and maintenance. Learn preventive, predictive, and condition-based strategies. Enquire now!",
       seoKeywords:
-        "manufacturing equipment maintenance training South Africa, industrial maintenance course, preventive maintenance, predictive maintenance, CMMS, TPM, equipment reliability, Trajlon Group manufacturing",
+        "manufacturing equipment maintenance training South Africa, industrial maintenance course, preventive maintenance, predictive maintenance, CMMS, TPM, equipment reliability, SkillHub International manufacturing",
       seoHeading:
         "Optimizing Manufacturing Performance Through Effective Equipment and Maintenance",
     },
@@ -5178,11 +5178,11 @@ export const AllCourseLists = [
     slg: "dispatch-and-receiving-operations",
     duration: "5 Days",
     seo: {
-      seoTitle: "Dispatch and Receiving Operations Training | Trajlon Group",
+      seoTitle: "Dispatch and Receiving Operations Training | SkillHub International",
       seoDescription:
-        "Master dispatch and receiving best practices with Trajlon Group's 5-day course. Learn documentation, software use, safety, and coordination in logistics and warehousing.",
+        "Master dispatch and receiving best practices with SkillHub International's 5-day course. Learn documentation, software use, safety, and coordination in logistics and warehousing.",
       seoKeywords:
-        "dispatch operations training South Africa, receiving operations course, warehouse management, logistics training, shipping and receiving documentation, inventory control, WMS, TMS, Trajlon Group logistics",
+        "dispatch operations training South Africa, receiving operations course, warehouse management, logistics training, shipping and receiving documentation, inventory control, WMS, TMS, SkillHub International logistics",
       seoHeading:
         "Optimizing Warehouse Flow: Efficient Dispatch and Receiving Operations",
     },
@@ -5290,11 +5290,11 @@ export const AllCourseLists = [
     slg: "airport-management-course",
     duration: "5 Days",
     seo: {
-      seoTitle: "Airport Management Training Course | Trajlon Group",
+      seoTitle: "Airport Management Training Course | SkillHub International",
       seoDescription:
-        "Gain expertise in airport management with Trajlon Group's 5-day course. Learn operations, safety, finance, planning, and enhance passenger experience. Enquire now!",
+        "Gain expertise in airport management with SkillHub International's 5-day course. Learn operations, safety, finance, planning, and enhance passenger experience. Enquire now!",
       seoKeywords:
-        "airport management training South Africa, aviation management course, airport operations, airport safety and security, airport planning and development, aviation law, airport finance, Trajlon Group aviation",
+        "airport management training South Africa, aviation management course, airport operations, airport safety and security, airport planning and development, aviation law, airport finance, SkillHub International aviation",
       seoHeading: "Mastering Airport Operations and Management",
     },
     brochure:
@@ -5429,11 +5429,11 @@ export const AllCourseLists = [
     slg: "rail-training-fundamentals",
     duration: "5 Days",
     seo: {
-      seoTitle: "Rail Training Fundamentals Course | Trajlon Group",
+      seoTitle: "Rail Training Fundamentals Course | SkillHub International",
       seoDescription:
-        "Get a solid foundation in rail systems with Trajlon Group's 5-day Rail Training Fundamentals course. Learn about tracks, rolling stock, signaling, safety, and regulations.",
+        "Get a solid foundation in rail systems with SkillHub International's 5-day Rail Training Fundamentals course. Learn about tracks, rolling stock, signaling, safety, and regulations.",
       seoKeywords:
-        "rail training fundamentals South Africa, railway basics course, rail infrastructure, rolling stock, railway signalling, rail safety training, railway regulations, Trajlon Group rail",
+        "rail training fundamentals South Africa, railway basics course, rail infrastructure, rolling stock, railway signalling, rail safety training, railway regulations, SkillHub International rail",
       seoHeading: "Building a Foundation in Rail Systems",
     },
     brochure:
@@ -5544,11 +5544,11 @@ export const AllCourseLists = [
     popular: false,
     seo: {
       seoTitle:
-        "Procurement Training for Non-Procurement Professionals | Trajlon Group",
+        "Procurement Training for Non-Procurement Professionals | SkillHub International",
       seoDescription:
-        "Gain essential procurement knowledge and skills as a non-procurement professional with Trajlon Group’s 5-day course. Learn procurement principles, collaborate with teams, and manage vendor interactions effectively.",
+        "Gain essential procurement knowledge and skills as a non-procurement professional with SkillHub International’s 5-day course. Learn procurement principles, collaborate with teams, and manage vendor interactions effectively.",
       seoKeywords:
-        "procurement training South Africa, procurement for non-procurement staff, basic procurement course, vendor management training, purchasing process training, procurement best practices, Trajlon Group training",
+        "procurement training South Africa, procurement for non-procurement staff, basic procurement course, vendor management training, purchasing process training, procurement best practices, SkillHub International training",
       seoHeading:
         "Procurement Essentials for Non-Procurement Professionals: Learn to Navigate the Process",
     },
@@ -5652,11 +5652,11 @@ export const AllCourseLists = [
     popular: false,
     seo: {
       seoTitle:
-        "Dry Port Management Training | Inland Port Operations | Trajlon Group",
+        "Dry Port Management Training | Inland Port Operations | SkillHub International",
       seoDescription:
-        "Master dry port operations and logistics with Trajlon Group’s 5-day training. Learn infrastructure planning, multimodal integration, customs compliance, and sustainability practices.",
+        "Master dry port operations and logistics with SkillHub International’s 5-day training. Learn infrastructure planning, multimodal integration, customs compliance, and sustainability practices.",
       seoKeywords:
-        "dry port management course, inland container depot training, ICD logistics course, port operations training, dry port infrastructure planning, multimodal transport training, customs clearance training, Trajlon Group logistics training",
+        "dry port management course, inland container depot training, ICD logistics course, port operations training, dry port infrastructure planning, multimodal transport training, customs clearance training, SkillHub International logistics training",
       seoHeading:
         "Principles of Dry Port Management: Optimize Inland Port Operations",
     },

@@ -7,11 +7,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1EtJSO0M49vFVxwqJH5LDd1wHkiNi8c8j/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Credit Management, AP & AR Course | Trajlon Group",
+            seoTitle: "Credit Management, AP & AR Course | SkillHub International",
             seoDescription:
                 "Master credit risk, streamline Accounts Payable (AP) and Accounts Receivable (AR) processes, and optimize cash flow with this 5-day financial management course. Enquire now!",
             seoKeywords:
-                "credit management course South Africa, accounts payable training, accounts receivable course, cash flow management, working capital optimization, financial efficiency training, AP AR automation, Trajlon Group finance",
+                "credit management course South Africa, accounts payable training, accounts receivable course, cash flow management, working capital optimization, financial efficiency training, AP AR automation, SkillHub International finance",
             seoHeading: "Credit, Accounts Payable, and Accounts Receivable Mastery",
         },
         shortDesc:
@@ -110,11 +110,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1sFWPtZvV3oVfRz-LRTvANRTsus7EVFJN/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Financial Analysis, Modelling & Forecasting Course | Trajlon Group",
+            seoTitle: "Financial Analysis, Modelling & Forecasting Course | SkillHub International",
             seoDescription:
                 "Equip yourself with technical skills to build dynamic financial models, conduct accurate forecasting, and perform valuation analysis for strategic decision-making in this intensive 5-day course.",
             seoKeywords:
-                "financial analysis training South Africa, financial modelling course, forecasting techniques, valuation analysis, DCF modelling, strategic growth scenarios, corporate strategy, Trajlon Group finance",
+                "financial analysis training South Africa, financial modelling course, forecasting techniques, valuation analysis, DCF modelling, strategic growth scenarios, corporate strategy, SkillHub International finance",
             seoHeading: "Mastering Financial Analysis, Modelling, and Forecasting",
         },
         shortDesc:
@@ -213,11 +213,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1Cwo6BM-TLB4bGgfvV945jx4tJP5YxjLq/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Financial Crime & Fraud Risk Management Course | Trajlon Group",
+            seoTitle: "Financial Crime & Fraud Risk Management Course | SkillHub International",
             seoDescription:
                 "An advanced 5-day course on identifying, assessing, investigating, and preventing financial crimes, including AML/CFT, corruption, and cybercrime. Strengthen governance and compliance.",
             seoKeywords:
-                "financial crime training South Africa, fraud risk management course, AML CFT frameworks, economic crime prevention, forensic auditing, procurement fraud training, corporate governance, Trajlon Group",
+                "financial crime training South Africa, fraud risk management course, AML CFT frameworks, economic crime prevention, forensic auditing, procurement fraud training, corporate governance, SkillHub International",
             seoHeading: "Mastering Financial Crime and Fraud Risk Prevention",
         },
         shortDesc:
@@ -321,11 +321,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1KSSmC0OM8Ca3XoZ_MmPKUe9bhPiU8Kj-/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Donor-Funded Project Financial Management & Auditing Course | Trajlon Group",
+            seoTitle: "Donor-Funded Project Financial Management & Auditing Course | SkillHub International",
             seoDescription:
                 "Master financial management, budgeting, and auditing for donor-funded projects (World Bank, USAID, EU). Ensure compliance, transparency, and value for money in project delivery.",
             seoKeywords:
-                "donor-funded project finance course South Africa, NGO financial management, project budgeting training, donor compliance, IPSAS IFRS reporting, project auditing, grants management, Trajlon Group",
+                "donor-funded project finance course South Africa, NGO financial management, project budgeting training, donor compliance, IPSAS IFRS reporting, project auditing, grants management, SkillHub International",
             seoHeading: "Effective Financial Management for Donor-Funded Projects",
         },
         shortDesc:
@@ -442,11 +442,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1pB3HKpMl3xNG-c7XMzrRk_0rGgCDMkQs/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Public Sector Forecasting, Budgeting & Financial Analysis Course | Trajlon Group",
+            seoTitle: "Public Sector Forecasting, Budgeting & Financial Analysis Course | SkillHub International",
             seoDescription:
                 "Improve public sector financial forecasting, budget formulation, execution, and financial statement analysis. Align with IPSAS and international Public Financial Management (PFM) standards.",
             seoKeywords:
-                "public sector financial management course South Africa, government budgeting training, PFM principles, IPSAS accounting, fiscal forecasting, budget analysis, public sector financial statement analysis, Trajlon Group",
+                "public sector financial management course South Africa, government budgeting training, PFM principles, IPSAS accounting, fiscal forecasting, budget analysis, public sector financial statement analysis, SkillHub International",
             seoHeading: "Forecasting, Budgeting, and Financial Statement Analysis in Government",
         },
         shortDesc:
@@ -564,11 +564,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1WoT_Dpwm7VetG_6kTRMWa_fxW_P-FtTL/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "GRAP Standards Financial Reporting Course South Africa | Trajlon Group",
+            seoTitle: "GRAP Standards Financial Reporting Course South Africa | SkillHub International",
             seoDescription:
                 "Master the Generally Recognised Accounting Practice (GRAP) framework for public sector financial reporting in South Africa. Cover conceptual frameworks, asset accounting, and compliance for audit readiness.",
             seoKeywords:
-                "GRAP standards training South Africa, public sector accounting GRAP, GRAP 17, GRAP 23, ASB compliance, PFMA MFMA reporting, GRAP vs IPSAS, public finance audit readiness, Trajlon Group",
+                "GRAP standards training South Africa, public sector accounting GRAP, GRAP 17, GRAP 23, ASB compliance, PFMA MFMA reporting, GRAP vs IPSAS, public finance audit readiness, SkillHub International",
             seoHeading: "Mastering GRAP Standards for Public Sector Financial Reporting",
         },
         shortDesc:
@@ -679,11 +679,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1_8oPQ_Feb3JmYS2pypHjZOoWAmgjDdNa/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Advanced Public Financial Management, Reporting & Audit Course | Trajlon Group",
+            seoTitle: "Advanced Public Financial Management, Reporting & Audit Course | SkillHub International",
             seoDescription:
                 "Gain advanced skills in PFM, IPSAS reporting, internal controls, and public sector auditing (ISSAI/INTOSAI). Strengthen accountability, governance, and the reliability of public financial statements.",
             seoKeywords:
-                "advanced PFM course South Africa, public sector financial reporting, IPSAS training, ISSAI audit standards, INTOSAI principles, fiscal governance, public sector audit follow-up, Trajlon Group",
+                "advanced PFM course South Africa, public sector financial reporting, IPSAS training, ISSAI audit standards, INTOSAI principles, fiscal governance, public sector audit follow-up, SkillHub International",
             seoHeading: "Advanced PFM: Reporting, Audit, and Accountability Mastery",
         },
         shortDesc:
@@ -775,11 +775,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1mStE--Hwc4CrH82aAvhrss97IwZuriuo/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "IPSAS, Financial Statement Fraud & Governance Course | Trajlon Group",
+            seoTitle: "IPSAS, Financial Statement Fraud & Governance Course | SkillHub International",
             seoDescription:
                 "A deep dive into IPSAS implementation, accrual accounting transition, financial statement fraud detection, and strengthening governance for transparency and accountability in the public sector.",
             seoKeywords:
-                "IPSAS training South Africa, public sector accrual accounting, financial statement fraud detection, IPSAS governance, public financial accountability, IPSAS vs IFRS, government financial statements, Trajlon Group",
+                "IPSAS training South Africa, public sector accrual accounting, financial statement fraud detection, IPSAS governance, public financial accountability, IPSAS vs IFRS, government financial statements, SkillHub International",
             seoHeading: "Mastering IPSAS, Fraud Prevention, and Public Sector Governance",
         },
         shortDesc:
@@ -896,11 +896,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1tUHWr6n8Vz3JW6WD_gVlsV_pLnlqcoUK/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Investment Analysis & Fund Manager Performance Evaluation Course | Trajlon Group",
+            seoTitle: "Investment Analysis & Fund Manager Performance Evaluation Course | SkillHub International",
             seoDescription:
                 "Master investment analysis, portfolio construction, and quantitative performance evaluation (Sharpe, Alpha, Information Ratio) for institutional investment and pension fund oversight.",
             seoKeywords:
-                "investment analysis course South Africa, fund manager performance evaluation, portfolio construction training, Sharpe Ratio, Jensen's Alpha, asset allocation, pension fund governance, Trajlon Group",
+                "investment analysis course South Africa, fund manager performance evaluation, portfolio construction training, Sharpe Ratio, Jensen's Alpha, asset allocation, pension fund governance, SkillHub International",
             seoHeading: "Investment Analysis and Fund Manager Oversight",
         },
         shortDesc:
@@ -1018,11 +1018,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1sVi6XlF3Q0W9j9USxvooMB-Zl6nqpwbA/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Payroll Management & Administration Course | Trajlon Group",
+            seoTitle: "Payroll Management & Administration Course | SkillHub International",
             seoDescription:
                 "Master payroll systems, statutory compliance, tax regulations (PAYE, UIF), and employee benefits. Design and operate an accurate, transparent, and compliant payroll system.",
             seoKeywords:
-                "payroll management course South Africa, payroll administration training, PAYE UIF calculation, statutory compliance, payroll audit, HR payroll integration, payroll software, Trajlon Group finance",
+                "payroll management course South Africa, payroll administration training, PAYE UIF calculation, statutory compliance, payroll audit, HR payroll integration, payroll software, SkillHub International finance",
             seoHeading: "Mastering Payroll Management and Administration",
         },
         shortDesc:
@@ -1125,11 +1125,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1bfiuyhZLCvXHUh89A32T3VvOmYWk0gJD/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Pension Fund & Investment Management Course | Trajlon Group",
+            seoTitle: "Pension Fund & Investment Management Course | SkillHub International",
             seoDescription:
                 "Advanced course on pension fund governance, portfolio management, actuarial concepts, and investment strategies (LDI, ESG integration) for optimal returns and long-term sustainability.",
             seoKeywords:
-                "pension fund management course South Africa, pension fund trustee training, defined benefit vs defined contribution, LDI strategies, pension fund actuarial valuation, ESG investing, Trajlon Group",
+                "pension fund management course South Africa, pension fund trustee training, defined benefit vs defined contribution, LDI strategies, pension fund actuarial valuation, ESG investing, SkillHub International",
             seoHeading: "Advanced Pension Fund and Investment Management",
         },
         shortDesc:
@@ -1228,11 +1228,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1EmHhESg_3wmhOrXOyb67-B2bBpPc-kcK/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Financial Statement & Annual Report Preparation Course | Trajlon Group",
+            seoTitle: "Financial Statement & Annual Report Preparation Course | SkillHub International",
             seoDescription:
                 "Master the preparation of compliant financial statements and annual reports (IFRS/GRAP). Learn core accounting principles, comprehensive disclosures, narrative reporting, and audit readiness.",
             seoKeywords:
-                "financial statement preparation course South Africa, annual report writing training, IFRS GRAP compliance, notes to financial statements, integrated reporting, audit readiness, Trajlon Group finance",
+                "financial statement preparation course South Africa, annual report writing training, IFRS GRAP compliance, notes to financial statements, integrated reporting, audit readiness, SkillHub International finance",
             seoHeading: "Mastering Financial Statement and Annual Report Preparation",
         },
         shortDesc:
@@ -1346,11 +1346,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1jfqxeZr9P21TsUWccumtHIirt33LyC_O/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Provident Fund Management Best Practices Course | Trajlon Group",
+            seoTitle: "Provident Fund Management Best Practices Course | SkillHub International",
             seoDescription:
                 "In-depth course on provident fund governance, investment, administration, and compliance. Learn best practices for trustee fiduciary duties, risk management, and member communication.",
             seoKeywords:
-                "provident fund management course South Africa, pension fund trustee training, provident fund governance, retirement fund compliance, member communication strategies, fund administration best practices, Trajlon Group",
+                "provident fund management course South Africa, pension fund trustee training, provident fund governance, retirement fund compliance, member communication strategies, fund administration best practices, SkillHub International",
             seoHeading: "Provident Fund Management and Governance Best Practices",
         },
         shortDesc:
@@ -1462,11 +1462,11 @@ const financialManagement = [
         brochure: "https://drive.google.com/file/d/1JFH69G0ub_Qd8L244CkIlRdeON_Sa06A/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Public Sector Budgeting, Accounting & Internal Auditing Course | Trajlon Group",
+            seoTitle: "Public Sector Budgeting, Accounting & Internal Auditing Course | SkillHub International",
             seoDescription:
                 "Comprehensive PFM training covering the budget cycle, IPSAS accounting standards, internal control systems, and ISSAI/INTOSAI auditing frameworks for enhanced public sector accountability.",
             seoKeywords:
-                "public sector PFM course, government budgeting training, IPSAS accounting standards, internal auditing ISSAI, fiscal discipline, public finance governance, MTEF training, Trajlon Group",
+                "public sector PFM course, government budgeting training, IPSAS accounting standards, internal auditing ISSAI, fiscal discipline, public finance governance, MTEF training, SkillHub International",
             seoHeading: "Integrated PFM: Budgeting, Accounting, and Internal Auditing",
         },
         shortDesc:
@@ -1570,11 +1570,11 @@ const adminAssistance = [
         brochure: "https://drive.google.com/file/d/15ZPWbu9_v55DmAMFX29yTLvZNzvFKAiz/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Advanced Management Programme for Executive Secretaries & PAs | Trajlon Group",
+            seoTitle: "Advanced Management Programme for Executive Secretaries & PAs | SkillHub International",
             seoDescription:
                 "Transform into a strategic executive partner. Advanced training in leadership, strategic communication, emotional intelligence, governance, and digital transformation for senior PAs and Executive Secretaries.",
             seoKeywords:
-                "Executive Secretary training South Africa, Personal Assistant management course, strategic PA development, executive office management, corporate governance for PAs, executive support, Trajlon Group",
+                "Executive Secretary training South Africa, Personal Assistant management course, strategic PA development, executive office management, corporate governance for PAs, executive support, SkillHub International",
             seoHeading: "Advanced Management Development for Executive Support",
         },
         shortDesc:
@@ -1704,11 +1704,11 @@ const adminAssistance = [
         brochure: "https://drive.google.com/file/d/1b5HXPcoik2w8KKO1g9Kyk4walvEp4uJq/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Report Writing, Minute Taking & Presentation Skills Course | Trajlon Group",
+            seoTitle: "Report Writing, Minute Taking & Presentation Skills Course | SkillHub International",
             seoDescription:
                 "Practical training to master clear, concise report writing, accurate minute taking for meetings, and confident, impactful presentation delivery in a professional setting.",
             seoKeywords:
-                "report writing course South Africa, professional minute taking training, business presentation skills, executive communication training, professional documentation, Trajlon Group",
+                "report writing course South Africa, professional minute taking training, business presentation skills, executive communication training, professional documentation, SkillHub International",
             seoHeading: "Mastering Professional Communication: Reports, Minutes, and Presentations",
         },
         shortDesc:
@@ -1836,11 +1836,11 @@ const adminAssistance = [
         brochure: "https://drive.google.com/file/d/1-0Ugsk56GAnfRIeFHA3gkGymKPyuNaDH/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Essential Skills for Executive Secretaries & PAs Course | Trajlon Group",
+            seoTitle: "Essential Skills for Executive Secretaries & PAs Course | SkillHub International",
             seoDescription:
                 "Core training for Executive Secretaries and PAs covering modern administrative skills, digital tools, time management, emotional intelligence, and professional communication.",
             seoKeywords:
-                "Executive Secretary skills course South Africa, modern PA training, administrative officer essential skills, time management for PAs, executive support technology, Trajlon Group",
+                "Executive Secretary skills course South Africa, modern PA training, administrative officer essential skills, time management for PAs, executive support technology, SkillHub International",
             seoHeading: "Essential Skills for Modern Executive Support",
         },
         shortDesc:
@@ -1968,11 +1968,11 @@ const adminAssistance = [
         brochure: "https://drive.google.com/file/d/1Zv_RQgbcOWT4Bi9XyP0-8hvZugdFprc4/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Public Administration, PR & Events Management Course | Trajlon Group",
+            seoTitle: "Public Administration, PR & Events Management Course | SkillHub International",
             seoDescription:
                 "Training for public sector professionals covering core administration, governance, effective stakeholder relations, media management, and the planning and execution of official events and protocol.",
             seoKeywords:
-                "Public Administration course South Africa, government relations management, public sector event planning, media relations for government, public service ethics, protocol officer training, Trajlon Group",
+                "Public Administration course South Africa, government relations management, public sector event planning, media relations for government, public service ethics, protocol officer training, SkillHub International",
             seoHeading: "Integrated Public Administration, Relations, and Event Management",
         },
         shortDesc:
@@ -2104,11 +2104,11 @@ const assetFacilityManagement = [
         brochure: "https://drive.google.com/file/d/1QXHRV3C63lRx_aySpvXay-KOM_Lr5h6Z/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Advanced Facilities Management (FM) Course | Trajlon Group",
+            seoTitle: "Advanced Facilities Management (FM) Course | SkillHub International",
             seoDescription:
                 "Strategic FM training covering ISO 41001, maintenance strategy (CMMS/Predictive), lifecycle costing, sustainability, and digital transformation (BIM, IoT) for senior facilities managers.",
             seoKeywords:
-                "Advanced Facilities Management course South Africa, ISO 41001 training, lifecycle costing FM, BIM digital twins facility management, predictive maintenance course, facilities sustainability, Trajlon Group",
+                "Advanced Facilities Management course South Africa, ISO 41001 training, lifecycle costing FM, BIM digital twins facility management, predictive maintenance course, facilities sustainability, SkillHub International",
             seoHeading: "Strategic and Advanced Facilities Management",
         },
         shortDesc:
@@ -2231,11 +2231,11 @@ const assetFacilityManagement = [
         brochure: "https://drive.google.com/file/d/1RPWc6UasBdvnPM6cLLB5QT32A-LkqbYY/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Asset Management Training Programme (ISO 55000) | Trajlon Group",
+            seoTitle: "Asset Management Training Programme (ISO 55000) | SkillHub International",
             seoDescription:
                 "Master strategic asset management, ISO 55000 compliance, lifecycle costing, risk assessment, and maintenance optimization. Essential for infrastructure and corporate asset professionals.",
             seoKeywords:
-                "Asset Management training South Africa, ISO 55000 certification course, asset lifecycle management, maintenance strategy optimization, risk-based asset management, asset valuation, Trajlon Group",
+                "Asset Management training South Africa, ISO 55000 certification course, asset lifecycle management, maintenance strategy optimization, risk-based asset management, asset valuation, SkillHub International",
             seoHeading: "Strategic Asset Management: Lifecycle, Risk, and ISO 55000",
         },
         shortDesc:
@@ -2361,11 +2361,11 @@ const assetFacilityManagement = [
         brochure: "https://drive.google.com/file/d/1ynXLnhwwukhJoqXf7IDbJ5xTSploL0yz/view?usp=sharing",
         duration: "5 Days",
         seo: {
-            seoTitle: "Facilities Management & Maintenance Operations Course | Trajlon Group",
+            seoTitle: "Facilities Management & Maintenance Operations Course | SkillHub International",
             seoDescription:
                 "Practical FM training covering maintenance strategies (Preventive, Predictive, RCM), lifecycle costing, CMMS use, safety compliance, and energy management for building and infrastructure assets.",
             seoKeywords:
-                "Facilities Management course, Maintenance operations training, CMMS course, Predictive Maintenance strategies, ISO 41001 maintenance, building engineers training, facility safety and risk management, Trajlon Group",
+                "Facilities Management course, Maintenance operations training, CMMS course, Predictive Maintenance strategies, ISO 41001 maintenance, building engineers training, facility safety and risk management, SkillHub International",
             seoHeading: "Facilities Management and Core Maintenance Operations",
         },
         shortDesc:
@@ -2497,11 +2497,11 @@ const assetFacilityManagement = [
         brochure: "https://drive.google.com/file/d/1GS8FaHXfD3XeJYJgiBg_qjyYs1IcASJa/view?usp=sharing",
         duration: "5 Days",
         seo: {
-            seoTitle: "Infrastructure Asset Management & ISO 55000 Training | Trajlon Group",
+            seoTitle: "Infrastructure Asset Management & ISO 55000 Training | SkillHub International",
             seoDescription:
                 "In-depth training on implementing an Infrastructure Asset Management System (AMS) compliant with ISO 55000 standards. Covers lifecycle costing, risk management, GIS, and strategic planning.",
             seoKeywords:
-                "Infrastructure Asset Management course South Africa, ISO 55000 compliance training, municipal asset management, utility asset management, PAS 55 standards, asset governance, Trajlon Group",
+                "Infrastructure Asset Management course South Africa, ISO 55000 compliance training, municipal asset management, utility asset management, PAS 55 standards, asset governance, SkillHub International",
             seoHeading: "Infrastructure Asset Management and ISO 55000 Series Compliance",
         },
         shortDesc:
@@ -2642,11 +2642,11 @@ const communicationAndWriting = [
         brochure: "https://drive.google.com/file/d/1jOwdCzJPqk46uEKFrXPpTR3YTZ0rd0NG/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Effective Communication Skills Training Course | Trajlon Group",
+            seoTitle: "Effective Communication Skills Training Course | SkillHub International",
             seoDescription:
                 "3-day training to master clear, confident, and persuasive communication. Focuses on verbal, non-verbal, active listening, emotional intelligence, and conflict resolution in the workplace.",
             seoKeywords:
-                "Effective Communication Skills course South Africa, workplace communication training, active listening skills, emotional intelligence communication, assertiveness training, Trajlon Group",
+                "Effective Communication Skills course South Africa, workplace communication training, active listening skills, emotional intelligence communication, assertiveness training, SkillHub International",
             seoHeading: "Mastering Effective Communication for Workplace Success",
         },
         shortDesc:
@@ -2768,11 +2768,11 @@ const communicationAndWriting = [
         brochure: "https://drive.google.com/file/d/1GxUPBYDbGo3HzKBCuK3MrrYrS-iYNCSM/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Professional Business Writing Skills Course | Trajlon Group",
+            seoTitle: "Professional Business Writing Skills Course | SkillHub International",
             seoDescription:
                 "3-day course to master professional business writing, focusing on the 7 Cs of writing, clear structure, tone, grammar, and crafting effective emails, reports, and proposals.",
             seoKeywords:
-                "Professional Business Writing course South Africa, effective email writing training, report writing skills, 7 Cs of communication, grammar for business, writing proposals training, Trajlon Group",
+                "Professional Business Writing course South Africa, effective email writing training, report writing skills, 7 Cs of communication, grammar for business, writing proposals training, SkillHub International",
             seoHeading: "Mastering Clarity and Professionalism in Business Writing",
         },
         shortDesc:
@@ -2898,11 +2898,11 @@ const communicationAndWriting = [
         brochure: "https://drive.google.com/file/d/1YSVDlvbr1Esmga9gWn-s9o7KNjM8zZ6Z/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Public Speaking & Presentation Skills Course | Trajlon Group",
+            seoTitle: "Public Speaking & Presentation Skills Course | SkillHub International",
             seoDescription:
                 "Dynamic 3-day course to master public speaking, covering message crafting, delivery techniques, managing stage fright, audience engagement, and handling Q&A sessions professionally.",
             seoKeywords:
-                "Public Speaking training South Africa, presentation skills course, overcome stage fright, effective presentation delivery, audience engagement techniques, virtual presentation skills, Trajlon Group",
+                "Public Speaking training South Africa, presentation skills course, overcome stage fright, effective presentation delivery, audience engagement techniques, virtual presentation skills, SkillHub International",
             seoHeading: "Mastering Public Speaking and High-Impact Presentations",
         },
         shortDesc:
@@ -3024,11 +3024,11 @@ const corporateAndLeadership = [
         brochure: "https://drive.google.com/file/d/1c_52-Y5R9RX0Yc_IoycfOUqSveKLLORa/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Audit Committee Oversight & Corporate Governance Course | Trajlon Group",
+            seoTitle: "Audit Committee Oversight & Corporate Governance Course | SkillHub International",
             seoDescription:
                 "Training for Audit Committee members and Directors on best practices for financial reporting oversight, internal controls, risk management, and compliance aligned with King IV and international standards.",
             seoKeywords:
-                "Audit Committee training South Africa, Corporate Governance King IV, financial reporting oversight course, board member risk management, internal controls governance, Trajlon Group",
+                "Audit Committee training South Africa, Corporate Governance King IV, financial reporting oversight course, board member risk management, internal controls governance, SkillHub International",
             seoHeading: "Effective Audit Committee Oversight in Corporate Governance",
         },
         shortDesc:
@@ -3129,11 +3129,11 @@ const corporateAndLeadership = [
         brochure: "https://drive.google.com/file/d/1rbsoWgSZmHtjwlgLK1zR_rVyLjOGeh9m/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Local Government Service Delivery & Governance Course | Trajlon Group",
+            seoTitle: "Local Government Service Delivery & Governance Course | SkillHub International",
             seoDescription:
                 "3-day training for municipal officials on strengthening capacity for efficient, transparent, and citizen-focused service delivery, covering IDP, performance management, and financial sustainability.",
             seoKeywords:
-                "Local Government service delivery training South Africa, municipal governance course, integrated development planning IDP, citizen-focused public services, local authority performance management, Trajlon Group",
+                "Local Government service delivery training South Africa, municipal governance course, integrated development planning IDP, citizen-focused public services, local authority performance management, SkillHub International",
             seoHeading: "Enhancing Local Government Service Delivery and Governance",
         },
         shortDesc:
@@ -3234,11 +3234,11 @@ const corporateAndLeadership = [
         brochure: "https://drive.google.com/file/d/1qeX9_8HCsUTUp47o8w1KVZ80MethVEEV/view?usp=drive_link",
         duration: "3 Days",
         seo: {
-            seoTitle: "Internal Audit, Governance & Fraudulent Reporting Course | Trajlon Group",
+            seoTitle: "Internal Audit, Governance & Fraudulent Reporting Course | SkillHub International",
             seoDescription:
                 "3-day course on integrating Internal Audit, Oversight Boards, and accountability systems to strengthen governance, detect fraudulent reporting, and manage risk using global standards (COSO, IIA).",
             seoKeywords:
-                "Internal Audit governance training South Africa, Oversight Board training, fraudulent reporting detection, risk management integration COSO, three lines of defense model, accountability in governance, Trajlon Group",
+                "Internal Audit governance training South Africa, Oversight Board training, fraudulent reporting detection, risk management integration COSO, three lines of defense model, accountability in governance, SkillHub International",
             seoHeading: "Internal Audit, Governance, and Fraud Risk Integration",
         },
         shortDesc:
@@ -3331,11 +3331,11 @@ const corporateAndLeadership = [
         brochure: "https://drive.google.com/file/d/1nxSBdcVSEQuYxFZEaIlF8pj2ZSoG8rQP/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Strategic Women Leadership Development Programme | Trajlon Group",
+            seoTitle: "Strategic Women Leadership Development Programme | SkillHub International",
             seoDescription:
                 "5-day program to empower women leaders with strategic thinking, executive presence, influence, resilience, and skills to navigate gender dynamics and drive organizational transformation.",
             seoKeywords:
-                "Women in leadership training South Africa, executive presence for women, strategic thinking women leaders, emotional intelligence for female leaders, overcoming imposter syndrome, Trajlon Group",
+                "Women in leadership training South Africa, executive presence for women, strategic thinking women leaders, emotional intelligence for female leaders, overcoming imposter syndrome, SkillHub International",
             seoHeading: "Strategic Leadership and Empowerment for Women Leaders",
         },
         shortDesc:
@@ -3439,11 +3439,11 @@ const customerServices = [
         brochure: "https://drive.google.com/file/d/1HwSTKXvIkWvgRAZyXQPG7xQ9eFBanguz/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Call Centre Agent Training Course (5 Days) | Trajlon Group",
+            seoTitle: "Call Centre Agent Training Course (5 Days) | SkillHub International",
             seoDescription:
                 "5-day program equipping call centre agents with essential skills for professional, efficient, and empathetic service via phone, chat, and email, focusing on call control, handling complaints, and KPIs.",
             seoKeywords:
-                "Call Centre Agents training South Africa, customer support representative course, call handling techniques, first call resolution FCR training, handling difficult customers call centre, Trajlon Group",
+                "Call Centre Agents training South Africa, customer support representative course, call handling techniques, first call resolution FCR training, handling difficult customers call centre, SkillHub International",
             seoHeading: "Essential Skills for Professional Call Centre Agents",
         },
         shortDesc:
@@ -3566,11 +3566,11 @@ const customerServices = [
         brochure: "https://drive.google.com/file/d/1z2T-OZ9hrucUqirdEo6ymxu0d8a_kyqE/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "CRM Training Course (5 Days): Strategy, Data & Technology | Trajlon Group",
+            seoTitle: "CRM Training Course (5 Days): Strategy, Data & Technology | SkillHub International",
             seoDescription:
                 "5-day practical training on CRM concepts, strategies, and technologies to manage customer interactions, improve retention, and boost profitability through data-driven insights and personalized engagement.",
             seoKeywords:
-                "CRM training course South Africa, Customer Relationship Management strategy, analytical CRM, customer journey mapping, CRM implementation course, Trajlon Group",
+                "CRM training course South Africa, Customer Relationship Management strategy, analytical CRM, customer journey mapping, CRM implementation course, SkillHub International",
             seoHeading: "Strategic Customer Relationship Management (CRM)",
         },
         shortDesc:
@@ -3681,11 +3681,11 @@ const customerServices = [
         brochure: "https://drive.google.com/file/d/16NqQpDKVsj6PBxycFQ1ZLybJpPtWlVTJ/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Customer Service Excellence Training Course | Trajlon Group",
+            seoTitle: "Customer Service Excellence Training Course | SkillHub International",
             seoDescription:
                 "5-day program to master the mindset, communication, and problem-solving skills for delivering world-class customer service. Focuses on service recovery, emotional intelligence, and building loyalty.",
             seoKeywords:
-                "Customer Service Excellence training South Africa, world-class service delivery, service recovery techniques, emotional intelligence customer service, handling difficult customer complaints, Trajlon Group",
+                "Customer Service Excellence training South Africa, world-class service delivery, service recovery techniques, emotional intelligence customer service, handling difficult customer complaints, SkillHub International",
             seoHeading: "Mastering the Mindset and Skills for Service Excellence",
         },
         shortDesc:
@@ -3807,11 +3807,11 @@ const customerServices = [
         brochure: "https://drive.google.com/file/d/1bMYNqcA24FvQnLsLGwapvOtR20YvmQBu/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Customer Service Professional Training Program | Trajlon Group",
+            seoTitle: "Customer Service Professional Training Program | SkillHub International",
             seoDescription:
                 "5-day foundational program covering essential skills for customer service professionals: communication, emotional intelligence, complaint handling, service recovery, and upholding organizational standards.",
             seoKeywords:
-                "Customer Service Professional training South Africa, frontline service skills, customer complaint handling course, service standards training, professional image customer service, Trajlon Group",
+                "Customer Service Professional training South Africa, frontline service skills, customer complaint handling course, service standards training, professional image customer service, SkillHub International",
             seoHeading: "Essential Training for the Customer Service Professional",
         },
         shortDesc:
@@ -3923,11 +3923,11 @@ const customerServices = [
         brochure: "https://drive.google.com/file/d/1FGPCdh071nSV0rp3F2_g07riSJMezR-Y/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Retail Customer Service Skills Training Program | Trajlon Group",
+            seoTitle: "Retail Customer Service Skills Training Program | SkillHub International",
             seoDescription:
                 "5-day retail-specific training focused on sales floor excellence, communication, product knowledge, upselling, complaint handling, and building brand loyalty through professional service.",
             seoKeywords:
-                "retail customer service training South Africa, sales floor service skills, upselling cross-selling retail, product knowledge training, retail customer complaint handling, Trajlon Group",
+                "retail customer service training South Africa, sales floor service skills, upselling cross-selling retail, product knowledge training, retail customer complaint handling, SkillHub International",
             seoHeading: "Essential Customer Service Skills for the Retail Environment",
         },
         shortDesc:
@@ -4042,11 +4042,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/1rzNFfdZhaf3WIs8YXHSr5WPhpr__3VTS/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "ISO 14001 EMS Implementation Training Course | Trajlon Group",
+            seoTitle: "ISO 14001 EMS Implementation Training Course | SkillHub International",
             seoDescription:
                 "5-day course on designing, developing, implementing, and maintaining an Environmental Management System (EMS) aligned with ISO 14001:2015, focusing on planning, performance evaluation, and continual improvement.",
             seoKeywords:
-                "ISO 14001 EMS training South Africa, Environmental Management System implementation, environmental aspect impact assessment, ISO 14001 certification course, QHSE professional training, Trajlon Group",
+                "ISO 14001 EMS training South Africa, Environmental Management System implementation, environmental aspect impact assessment, ISO 14001 certification course, QHSE professional training, SkillHub International",
             seoHeading: "Developing and Implementing ISO 14001 Environmental Management Systems",
         },
         shortDesc:
@@ -4143,11 +4143,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/1V8JOmaj8pTEPOuQsz8zN5N4wpP0mglb3/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Disaster Preparedness & Management Training Course | Trajlon Group",
+            seoTitle: "Disaster Preparedness & Management Training Course | SkillHub International",
             seoDescription:
                 "5-day training on disaster risk reduction, emergency planning, crisis coordination, and post-disaster recovery, focusing on the Disaster Management Cycle and building institutional and community resilience.",
             seoKeywords:
-                "Disaster Management training South Africa, emergency planning course, Incident Command System ICS, disaster risk reduction DRR, business continuity BCP, community resilience training, Trajlon Group",
+                "Disaster Management training South Africa, emergency planning course, Incident Command System ICS, disaster risk reduction DRR, business continuity BCP, community resilience training, SkillHub International",
             seoHeading: "Comprehensive Disaster Preparedness and Management",
         },
         shortDesc:
@@ -4262,11 +4262,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/1PsvFIrs76XEeG65newhrNoISmRk3SLgF/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Ecosystem & Biodiversity Management Training Course | Trajlon Group",
+            seoTitle: "Ecosystem & Biodiversity Management Training Course | SkillHub International",
             seoDescription:
                 "5-day training on conserving biodiversity and managing ecosystems sustainably. Covers ecosystem services, assessment methods (GIS), conservation planning, and climate change adaptation policy.",
             seoKeywords:
-                "Ecosystem and Biodiversity Management course South Africa, conservation planning training, ecosystem services valuation, biodiversity assessment methods, CBNRM, climate adaptation nature-based solutions, Trajlon Group",
+                "Ecosystem and Biodiversity Management course South Africa, conservation planning training, ecosystem services valuation, biodiversity assessment methods, CBNRM, climate adaptation nature-based solutions, SkillHub International",
             seoHeading: "Ecosystem and Biodiversity Management for Sustainability",
         },
         shortDesc:
@@ -4378,11 +4378,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/1sYZycPSQjsS6wmHElPicjp8WBUJ6g5b2/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "EIA and Environmental Management Training (ISO 14001) | Trajlon Group",
+            seoTitle: "EIA and Environmental Management Training (ISO 14001) | SkillHub International",
             seoDescription:
                 "5-day training on the full EIA process, from scoping and impact prediction to designing Environmental Management Plans (EMPs) and implementing ISO 14001-aligned systems for effective project governance.",
             seoKeywords:
-                "Environmental Impact Assessment EIA training South Africa, Environmental Management Plan EMP development, ISO 14001 integration, EIA process steps, environmental auditing and reporting, Trajlon Group",
+                "Environmental Impact Assessment EIA training South Africa, Environmental Management Plan EMP development, ISO 14001 integration, EIA process steps, environmental auditing and reporting, SkillHub International",
             seoHeading: "Mastering Environmental Impact Assessment (EIA) and Management",
         },
         shortDesc:
@@ -4494,11 +4494,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/16VdNzgy7pEJctagQt6KJAhUGuNVW9l7A/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Renewable Energy & Sustainable Resource Management Course | Trajlon Group",
+            seoTitle: "Renewable Energy & Sustainable Resource Management Course | SkillHub International",
             seoDescription:
                 "5-day training on renewable energy technologies (Solar, Wind, Bioenergy), energy efficiency, resource utilization, and policy frameworks (Carbon Markets, Financing) for sustainable development.",
             seoKeywords:
-                "Renewable Energy training South Africa, sustainable resource management course, solar wind bioenergy technologies, energy efficiency auditing, water energy food nexus, climate change mitigation, Trajlon Group",
+                "Renewable Energy training South Africa, sustainable resource management course, solar wind bioenergy technologies, energy efficiency auditing, water energy food nexus, climate change mitigation, SkillHub International",
             seoHeading: "Renewable Energy and Sustainable Resource Management",
         },
         shortDesc:
@@ -4609,11 +4609,11 @@ const environmentalUrbanRegional = [
         brochure: "https://drive.google.com/file/d/1Zyvr2ibhcoAgO2iRzLnfSxcOwel3u51_/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Urban Energy & Water Supply Management Course | Trajlon Group",
+            seoTitle: "Urban Energy & Water Supply Management Course | SkillHub International",
             seoDescription:
                 "5-day training on managing urban energy and water supply systems. Covers smart grids, resource efficiency, non-revenue water (NRW) reduction, and integrated urban resilience strategies.",
             seoKeywords:
-                "Urban Energy Management course, Water Supply Management training, smart water networks, urban resource efficiency, non-revenue water NRW reduction, integrated urban planning, Trajlon Group",
+                "Urban Energy Management course, Water Supply Management training, smart water networks, urban resource efficiency, non-revenue water NRW reduction, integrated urban planning, SkillHub International",
             seoHeading: "Integrated Urban Energy and Water Supply Management",
         },
         shortDesc:
@@ -4727,11 +4727,11 @@ const healthManagement = [
         brochure: "https://drive.google.com/file/d/1cnAjwzM_JUbsePx-vmkBLzgRcaEHMzmE/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Advanced Leadership Strategies for Health Care Executives Course | Trajlon Group",
+            seoTitle: "Advanced Leadership Strategies for Health Care Executives Course | SkillHub International",
             seoDescription:
                 "5-day executive course equipping senior health professionals with advanced tools for strategic leadership, change management, emotional intelligence, and performance excellence in modern health care delivery.",
             seoKeywords:
-                "Health care executive leadership training South Africa, strategic planning health systems, emotional intelligence health care, balanced scorecard healthcare, change management health sector, Trajlon Group",
+                "Health care executive leadership training South Africa, strategic planning health systems, emotional intelligence health care, balanced scorecard healthcare, change management health sector, SkillHub International",
             seoHeading: "Advanced Leadership for Visionary Health Care Executives",
         },
         shortDesc:
@@ -4842,11 +4842,11 @@ const healthManagement = [
         brochure: "https://drive.google.com/file/d/1VH9ut-f6tnqRYOHKHPFEHX1Sy4RqUHp2/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Healthcare Financial Accounting Systems Training Course | Trajlon Group",
+            seoTitle: "Healthcare Financial Accounting Systems Training Course | SkillHub International",
             seoDescription:
                 "5-day comprehensive course on financial accounting principles, system design, budgeting, and reporting (IFRS/IPSAS) specific to the healthcare industry. Focuses on transparency and financial decision-making.",
             seoKeywords:
-                "Healthcare financial accounting training South Africa, hospital finance management, IFRS IPSAS healthcare, healthcare budgeting and auditing, financial data analysis healthcare, Trajlon Group",
+                "Healthcare financial accounting training South Africa, hospital finance management, IFRS IPSAS healthcare, healthcare budgeting and auditing, financial data analysis healthcare, SkillHub International",
             seoHeading: "Designing and Managing Healthcare Financial Accounting Systems",
         },
         shortDesc:
@@ -4958,11 +4958,11 @@ const healthManagement = [
         brochure: "https://drive.google.com/file/d/1NpmuarHcyahLecQicdkUOlrCumDhjyBI/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "HRH Management and Development Training Course | Trajlon Group",
+            seoTitle: "HRH Management and Development Training Course | SkillHub International",
             seoDescription:
                 "5-day course on strategic HRH planning, workforce development, retention strategies, performance management, and using HR information systems (HRIS) to optimize health system personnel.",
             seoKeywords:
-                "Human Resources for Health HRH training South Africa, health workforce planning, healthcare recruitment retention, HRH information systems HRIS, WHO HRH Action Framework, Trajlon Group",
+                "Human Resources for Health HRH training South Africa, health workforce planning, healthcare recruitment retention, HRH information systems HRIS, WHO HRH Action Framework, SkillHub International",
             seoHeading: "Strategic Management and Development of the Health Workforce",
         },
         shortDesc:
@@ -5073,11 +5073,11 @@ const healthManagement = [
         brochure: "https://drive.google.com/file/d/1185v0rLEOjLyy9TVbCI5kPMpkEqtvxXZ/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Public Health Service Management and Administration Training | Trajlon Group",
+            seoTitle: "Public Health Service Management and Administration Training | SkillHub International",
             seoDescription:
                 "5-day course to strengthen leadership, management, and administrative capacities in public health. Covers strategic planning, program management, health financing, M&E, and governance frameworks.",
             seoKeywords:
-                "Public Health Service Management training South Africa, health administration course, public health strategic planning, health program management cycle, health system governance, Trajlon Group",
+                "Public Health Service Management training South Africa, health administration course, public health strategic planning, health program management cycle, health system governance, SkillHub International",
             seoHeading: "Effective Management and Administration of Public Health Services",
         },
         shortDesc:
@@ -5187,11 +5187,11 @@ const healthManagement = [
         brochure: "https://drive.google.com/file/d/1NYTRjG0RjOAMhDsmW2bLy5Fi-zOq3r_p/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Research, M&E of HIV/AIDS Programme Training Course | Trajlon Group",
+            seoTitle: "Research, M&E of HIV/AIDS Programme Training Course | SkillHub International",
             seoDescription:
                 "5-day course on designing, implementing, and evaluating HIV/AIDS programs using M&E frameworks, data collection (DHIS2, OpenMRS), and analytical tools tailored for the 95-95-95 targets.",
             seoKeywords:
-                "HIV AIDS M&E training South Africa, HIV program evaluation, UNAIDS 95-95-95 targets, DHIS2 OpenMRS for HIV, health research methods HIV, Trajlon Group",
+                "HIV AIDS M&E training South Africa, HIV program evaluation, UNAIDS 95-95-95 targets, DHIS2 OpenMRS for HIV, health research methods HIV, SkillHub International",
             seoHeading: "Research, Monitoring and Evaluation of HIV/AIDS Programmes",
         },
         shortDesc:
@@ -5307,11 +5307,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1vMxqMLqWSVw07hvGKyb-1kRc1MyE-snM/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "HRIS Training in Data Management and Report Making (5 Days) | Trajlon Group",
+            seoTitle: "HRIS Training in Data Management and Report Making (5 Days) | SkillHub International",
             seoDescription:
                 "5-day hands-on course on managing HR data using HRIS. Covers data validation, strategic reporting, HR analytics, KPIs, and compliance (GDPR/POPIA) for evidence-based HR management.",
             seoKeywords:
-                "HRIS training data management South Africa, HR analytics and reporting, HR KPIs and metrics, GDPR POPIA compliance HR, workforce trends analysis, Trajlon Group",
+                "HRIS training data management South Africa, HR analytics and reporting, HR KPIs and metrics, GDPR POPIA compliance HR, workforce trends analysis, SkillHub International",
             seoHeading: "Mastering HRIS for Data Management and Strategic Reporting",
         },
         shortDesc:
@@ -5426,11 +5426,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1b26nYp0U5CUTFNAlcPrSIest2ONELQ1Z/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Job Analysis, Evaluation, and Salary Structure Design Course | Trajlon Group",
+            seoTitle: "Job Analysis, Evaluation, and Salary Structure Design Course | SkillHub International",
             seoDescription:
                 "5-day course equipping HR and compensation professionals with tools for systematic job analysis, job evaluation (point-factor method), and designing equitable, market-competitive salary structures.",
             seoKeywords:
-                "Job analysis training South Africa, job evaluation methods, salary structure design course, compensation and benefits, pay equity analysis, point factor method training, Trajlon Group",
+                "Job analysis training South Africa, job evaluation methods, salary structure design course, compensation and benefits, pay equity analysis, point factor method training, SkillHub International",
             seoHeading: "Job Analysis, Evaluation, and Compensation Structure Design",
         },
         shortDesc:
@@ -5523,11 +5523,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1arHhxFN32KyZWSbo9tFooS6X7_EfCZAU/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Pension Fund Governance, Investment, and Strategy Course | Trajlon Group",
+            seoTitle: "Pension Fund Governance, Investment, and Strategy Course | SkillHub International",
             seoDescription:
                 "5-day deep dive into pension fund management, covering governance structure, fiduciary duties, regulatory compliance (local/international), strategic asset allocation, and risk management.",
             seoKeywords:
-                "Pension fund management training South Africa, pension fund governance structure, strategic asset allocation pension, fiduciary responsibility trustees, retirement fund investment, Trajlon Group",
+                "Pension fund management training South Africa, pension fund governance structure, strategic asset allocation pension, fiduciary responsibility trustees, retirement fund investment, SkillHub International",
             seoHeading: "Pension Fund Strategies, Governance, Regulation and Investment",
         },
         shortDesc:
@@ -5644,11 +5644,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1LSmEqsLrvNUibof9E0-zOd5-WHjPZgg4/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Performance Management and Appraisal Training for Managers | Trajlon Group",
+            seoTitle: "Performance Management and Appraisal Training for Managers | SkillHub International",
             seoDescription:
                 "5-day practical course on performance management for managers. Covers setting SMART goals, continuous feedback, conducting objective appraisals, managing underperformance, and linking performance to development.",
             seoKeywords:
-                "Performance management training South Africa, performance appraisal skills, setting SMART goals, managing underperformance, continuous feedback coaching, Trajlon Group",
+                "Performance management training South Africa, performance appraisal skills, setting SMART goals, managing underperformance, continuous feedback coaching, SkillHub International",
             seoHeading: "Effective Performance Management and Appraisal for Managers",
         },
         shortDesc:
@@ -5757,11 +5757,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1bQv7QrNcc19V8aE7zzsv4iM3k1eKeBe1/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Retirement Planning Course for Public and Civil Service | Trajlon Group",
+            seoTitle: "Retirement Planning Course for Public and Civil Service | SkillHub International",
             seoDescription:
                 "5-day comprehensive course for civil servants on retirement planning. Covers financial security, pension benefits, health and wellness, legal preparedness, and post-retirement lifestyle management.",
             seoKeywords:
-                "Retirement planning for civil service South Africa, public sector pension management, pre-retirement course, financial planning for retirement, post-retirement lifestyle planning, Trajlon Group",
+                "Retirement planning for civil service South Africa, public sector pension management, pre-retirement course, financial planning for retirement, post-retirement lifestyle planning, SkillHub International",
             seoHeading: "Effective Retirement Planning for Public and Civil Servants",
         },
         shortDesc:
@@ -5873,11 +5873,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1IslucqJjbuLA1uYX83C8vz7YK4eWw-Cb/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Skills Auditing and TNA Training Course | Trajlon Group",
+            seoTitle: "Skills Auditing and TNA Training Course | SkillHub International",
             seoDescription:
                 "5-day course on conducting systematic skills audits and Training Needs Analysis (TNA). Covers competency profiling, skills matrix design, data-driven prioritization, and the Kirkpatrick Model for evaluating training ROI.",
             seoKeywords:
-                "Skills auditing training South Africa, training needs analysis TNA, competency profiling, skills matrix design, Kirkpatrick Model training, workforce planning HR, Trajlon Group",
+                "Skills auditing training South Africa, training needs analysis TNA, competency profiling, skills matrix design, Kirkpatrick Model training, workforce planning HR, SkillHub International",
             seoHeading: "Skills Auditing and Training Needs Analysis (TNA)",
         },
         shortDesc:
@@ -5974,11 +5974,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1289b02jucFqsOeirihlglTT_an3iXt0n/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Strategic HR Business Partner Masterclass Course | Trajlon Group",
+            seoTitle: "Strategic HR Business Partner Masterclass Course | SkillHub International",
             seoDescription:
                 "5-day masterclass for HR professionals to transition into strategic partners. Covers business acumen, people analytics, workforce planning, change leadership (Kotter Model), and driving organizational performance.",
             seoKeywords:
-                "Strategic HR Business Partner training South Africa, HRBP masterclass, Ulrich Model HR, HR business acumen course, people analytics for HRBP, strategic change leadership HR, Trajlon Group",
+                "Strategic HR Business Partner training South Africa, HRBP masterclass, Ulrich Model HR, HR business acumen course, people analytics for HRBP, strategic change leadership HR, SkillHub International",
             seoHeading: "Strategic HR Business Partner Masterclass",
         },
         shortDesc:
@@ -6089,11 +6089,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1D4bqd9nyDKljakGW0GTcxV9IbTegQY0-/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Succession Planning & Strategic HRD Training Course | Trajlon Group",
+            seoTitle: "Succession Planning & Strategic HRD Training Course | SkillHub International",
             seoDescription:
                 "5-day strategic course on designing and implementing succession planning and HR development (HRD) strategies. Covers talent identification, 9-Box Grid, leadership pipeline building, and organizational sustainability.",
             seoKeywords:
-                "Succession Planning training South Africa, Strategic HRD course, 9-Box Grid talent assessment, leadership pipeline development, competency frameworks HR, organizational sustainability HR, Trajlon Group",
+                "Succession Planning training South Africa, Strategic HRD course, 9-Box Grid talent assessment, leadership pipeline development, competency frameworks HR, organizational sustainability HR, SkillHub International",
             seoHeading: "Succession Planning and Strategic Human Resources Development",
         },
         shortDesc:
@@ -6202,11 +6202,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1Q6mExTOVCOxWLlRH-b6iUBP6_Tj9CeIg/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "The 5-Day MBA in HR Masterclass for Strategic Leaders | Trajlon Group",
+            seoTitle: "The 5-Day MBA in HR Masterclass for Strategic Leaders | SkillHub International",
             seoDescription:
                 "Intensive 5-day program covering strategic management, HR analytics, finance, organizational behavior, talent management, and change leadership, designed to transform HR practitioners into strategic business leaders.",
             seoKeywords:
-                "5-Day MBA HR masterclass South Africa, strategic HR leadership, HR business acumen course, HR analytics and finance, organizational strategy HR, CHRO training, Trajlon Group",
+                "5-Day MBA HR masterclass South Africa, strategic HR leadership, HR business acumen course, HR analytics and finance, organizational strategy HR, CHRO training, SkillHub International",
             seoHeading: "The 5-Day MBA in HR: From Practitioner to Strategic Business Leader",
         },
         shortDesc:
@@ -6294,11 +6294,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1ZHDB_G43tgrlQ1ulxosurozfKRDPAFHa/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Shop Steward and Trade Union Leadership Training Course | Trajlon Group",
+            seoTitle: "Shop Steward and Trade Union Leadership Training Course | SkillHub International",
             seoDescription:
                 "5-day training for shop stewards and worker leaders covering labour law, grievance handling, collective bargaining strategies, negotiation, conflict resolution, and effective union leadership practices.",
             seoKeywords:
-                "Shop steward training South Africa, trade union leadership course, labour relations and bargaining, grievance handling procedure, CCMA rulings and labour law, Trajlon Group",
+                "Shop steward training South Africa, trade union leadership course, labour relations and bargaining, grievance handling procedure, CCMA rulings and labour law, SkillHub International",
             seoHeading: "Trade Union Shop Steward and Leadership Training",
         },
         shortDesc:
@@ -6405,11 +6405,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1VyDZBlEYJ17agbRUc-RbzemB_LadJ8oS/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Psychology, Guidance, and Counselling Techniques Training | Trajlon Group",
+            seoTitle: "Psychology, Guidance, and Counselling Techniques Training | SkillHub International",
             seoDescription:
                 "5-day foundation course on psychological principles, guidance strategies, and counselling methods. Covers person-centred therapy, behavioural assessment, crisis intervention, and ethical practice for workplace/educational support.",
             seoKeywords:
-                "Counselling techniques training South Africa, workplace guidance and counselling, person-centred therapy, managing workplace stress and burnout, psychological principles in HR, Trajlon Group",
+                "Counselling techniques training South Africa, workplace guidance and counselling, person-centred therapy, managing workplace stress and burnout, psychological principles in HR, SkillHub International",
             seoHeading: "Training in Psychology, Guidance and Counselling Techniques",
         },
         shortDesc:
@@ -6510,11 +6510,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1iBxUKbU873kCvWwvEw9ithKPwB2LImvP/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Labour Law and Employee Relations Training for Managers & Legal Advisers | Trajlon Group",
+            seoTitle: "Labour Law and Employee Relations Training for Managers & Legal Advisers | SkillHub International",
             seoDescription:
                 "5-day advanced course on mastering labour legislation, employment contracts, disciplinary fairness, dismissals, equity law, and collective bargaining to mitigate legal risk in the workplace.",
             seoKeywords:
-                "Labour law training South Africa, employee relations management, disciplinary procedures law, unfair dismissal law, CCMA dispute resolution, collective bargaining law, Trajlon Group",
+                "Labour law training South Africa, employee relations management, disciplinary procedures law, unfair dismissal law, CCMA dispute resolution, collective bargaining law, SkillHub International",
             seoHeading: "Understanding Labour Laws & Employee Relations",
         },
         shortDesc:
@@ -6622,11 +6622,11 @@ const humanResourcesManagement = [
         brochure: "https://drive.google.com/file/d/1O2o-c-hUXCHiKCvC20pY4Kl1_7uN0iKJ/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Writing and Implementing HR Policies and Procedures Course | Trajlon Group",
+            seoTitle: "Writing and Implementing HR Policies and Procedures Course | SkillHub International",
             seoDescription:
                 "5-day practical course on designing, writing, and implementing compliant HR policies and procedures. Focuses on strategic alignment, legal compliance, communication, enforcement, and continuous review.",
             seoKeywords:
-                "HR policy writing course South Africa, HR procedure development training, employee handbook drafting, HR policy legal compliance, strategic HR policy alignment, Trajlon Group",
+                "HR policy writing course South Africa, HR procedure development training, employee handbook drafting, HR policy legal compliance, strategic HR policy alignment, SkillHub International",
             seoHeading: "Writing and Implementing HR Policies and Procedures",
         },
         shortDesc:
@@ -6732,7 +6732,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1ve_ScK-5kW2WotPeRJCVrnurDcanPNoX/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Agriculture & Data-Driven Farming (AgTech) Programme | Trajlon Group",
+            "seoTitle": "AI in Agriculture & Data-Driven Farming (AgTech) Programme | SkillHub International",
             "seoDescription": "The AI in Agriculture & Data-Driven Farming (AgTech) Programme equips participants with the strategic, technical, and applied skills required to use artificial intelligence (AI), advanced analytics, and digital technologies to transform agricultural production and value chains.",
             "seoKeywords": "AI in Agriculture course, Data-Driven Farming training, AgTech programme, precision agriculture, machine learning in farming",
             "seoHeading": "Master AI and Data-Driven Farming (AgTech)"
@@ -6876,7 +6876,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/18xsCcZ4_CuE6XW-Ikjog642-9c2W5qGE/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Agribusiness Management & Market Linkages Programme | Trajlon Group",
+            "seoTitle": "Agribusiness Management & Market Linkages Programme | SkillHub International",
             "seoDescription": "The Agribusiness Management & Market Linkages Programme equips participants with the managerial, financial, and market-oriented skills required to transform agriculture from subsistence to competitive, market-driven enterprises.",
             "seoKeywords": "Agribusiness Management course, Market Linkages Programme, agricultural value chains, AfCFTA training, agribusiness finance",
             "seoHeading": "Master Agribusiness Management and Market Linkages"
@@ -7019,7 +7019,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1jt9mRXEyn6k5fDxS_c7TLjg64z_C5_Vq/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Agricultural Extension & Advisory Systems Modernisation Course | Trajlon Group",
+            "seoTitle": "Agricultural Extension & Advisory Systems Modernisation Course | SkillHub International",
             "seoDescription": "Transform traditional agricultural extension services into modern, demand-driven advisory systems. This 5-day programme covers digital tools, climate-smart approaches, pluralistic models, and performance management for extension modernization.",
             "seoKeywords": "agricultural extension modernization, advisory systems training, digital agriculture extension, climate-smart advisory services, extension performance management",
             "seoHeading": "Modernising Agricultural Extension & Advisory Systems"
@@ -7162,7 +7162,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/19AV_7GOME6fbjiDpVPvMipwMtR--y80z/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Agroecology & Sustainable Land Management Programme | Trajlon Group",
+            "seoTitle": "Agroecology & Sustainable Land Management Programme | SkillHub International",
             "seoDescription": "The Agroecology & Sustainable Land Management Programme equips participants with the ecological, social, and practical skills required to design resilient farming systems that work with nature while sustaining productivity and livelihoods.",
             "seoKeywords": "agroecology course, sustainable land management training, resilient farming systems, land degradation solutions, climate-smart agriculture",
             "seoHeading": "Agroecology & Sustainable Land Management Programme"
@@ -7305,7 +7305,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/17CLxVL38boZ8khfPFb-GQMEkCLrS-dsu/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Contract Farming & Inclusive Agribusiness Models Programme | Trajlon Group",
+            "seoTitle": "Contract Farming & Inclusive Agribusiness Models Programme | SkillHub International",
             "seoDescription": "Equip participants with the legal, commercial, and operational skills required to design, negotiate, implement, and manage contract farming arrangements and inclusive business models.",
             "seoKeywords": "contract farming course, inclusive agribusiness models, agricultural commercialisation, farmer inclusion, agribusiness management",
             "seoHeading": "Master Contract Farming and Inclusive Agribusiness Models"
@@ -7448,9 +7448,9 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1hoLtPHFRPcoRPT3kvP7lQoRR2FNzSpRz/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Fisheries & Aquaculture Development Programme | Trajlon Group",
+            "seoTitle": "Fisheries & Aquaculture Development Programme | SkillHub International",
             "seoDescription": "The Fisheries & Aquaculture Development Programme equips participants with the technical, managerial, and policy skills required to develop sustainable, productive, and resilient fisheries and aquaculture systems that support food security, livelihoods, and economic growth.",
-            "seoKeywords": "fisheries development, aquaculture systems, sustainable fisheries management, blue economy, aquatic food systems, Trajlon Group",
+            "seoKeywords": "fisheries development, aquaculture systems, sustainable fisheries management, blue economy, aquatic food systems, SkillHub International",
             "seoHeading": "Fisheries & Aquaculture Development Programme"
         },
         "popular": false,
@@ -7591,7 +7591,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1uL1r0Skc2qXezOTjEYJSWPN3tGPRWOaO/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Food Systems Transformation & Policy Design Programme | Trajlon Group",
+            "seoTitle": "Food Systems Transformation & Policy Design Programme | SkillHub International",
             "seoDescription": "The Food Systems Transformation & Policy Design Programme equips participants with the analytical, strategic, and policy-design skills required to transform food systems to be more sustainable, resilient, inclusive, and nutrition-sensitive.",
             "seoKeywords": "food systems transformation course, policy design programme, sustainable food systems, nutrition-sensitive policy, food security Africa",
             "seoHeading": "Mastering Food Systems Transformation and Policy Design"
@@ -7734,7 +7734,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1wi9sJuTe79jUtsWUEeZvWYMdxVC-0T--/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Gender-Responsive Agriculture Programming Programme | Trajlon Group",
+            "seoTitle": "Gender-Responsive Agriculture Programming Programme | SkillHub International",
             "seoDescription": "The Gender-Responsive Agriculture Programming Programme equips participants with the analytical, practical, and institutional skills required to design, implement, and evaluate agricultural programmes that promote gender equality and women’s economic empowerment.",
             "seoKeywords": "gender-responsive agriculture programming, women's economic empowerment, gender analysis in agriculture, inclusive value-chain development, agricultural policy",
             "seoHeading": "Mastering Gender-Responsive Agriculture Programming and Policy"
@@ -7877,7 +7877,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1OcGF-jvnp_4HuGneKj3p-ilf1Xsp7W0w/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Livestock Systems, Animal Health & Pastoralism Programme | Trajlon Group",
+            "seoTitle": "Livestock Systems, Animal Health & Pastoralism Programme | SkillHub International",
             "seoDescription": "Equip participants with technical, managerial, and policy skills to strengthen livestock productivity, improve animal health, and enhance the resilience of pastoral and agro-pastoral systems against climate variability and disease.",
             "seoKeywords": "livestock systems, animal health course, pastoralism programme, rangeland management, veterinary public health, climate-smart livestock practices",
             "seoHeading": "Strengthening Livestock Productivity, Animal Health & Pastoral Resilience"
@@ -8020,7 +8020,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/12qvbUzgsU6WzWd_2-gle57Lh2PiQrRAF/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Market Intelligence & Agricultural Data Analysis Programme | Trajlon Group",
+            "seoTitle": "Market Intelligence & Agricultural Data Analysis Programme | SkillHub International",
             "seoDescription": "The Market Intelligence & Agricultural Data Analysis Programme equips participants with the analytical, technical, and strategic skills required to collect, analyse, interpret, and use agricultural market data to support evidence-based decision-making.",
             "seoKeywords": "agricultural data analysis, market intelligence programme, farm profitability, value-chain efficiency, agricultural economics course",
             "seoHeading": "Master Market Intelligence and Data Analysis for Agricultural Decision-Making"
@@ -8163,7 +8163,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1u7fUpbGOobT3pQ-dpXtod00h72fWHUSL/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Regenerative Agriculture & Soil Health Management Programme | Trajlon Group",
+            "seoTitle": "Regenerative Agriculture & Soil Health Management Programme | SkillHub International",
             "seoDescription": "The Regenerative Agriculture & Soil Health Management Programme equips participants with the scientific, practical, and systems-level skills required to restore soil health, regenerate ecosystems, and build resilient, productive agricultural systems.",
             "seoKeywords": "regenerative agriculture course, soil health management, climate-smart agriculture, ecosystem restoration, soil carbon sequestration",
             "seoHeading": "Master Regenerative Agriculture and Soil Health Management"
@@ -8306,9 +8306,9 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/12R5jMkeHvAWgxc5EQy_NnTlsT9j0gGo3/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Seed Systems, Crop Breeding & Biotechnology Basics Programme | Trajlon Group",
+            "seoTitle": "Seed Systems, Crop Breeding & Biotechnology Basics Programme | SkillHub International",
             "seoDescription": "Equip yourself with the scientific, regulatory, and practical knowledge required to develop, manage, and strengthen seed systems, improve crop productivity, and enhance resilience through modern breeding and biotechnology approaches.",
-            "seoKeywords": "Seed Systems course, Crop Breeding training, Agricultural Biotechnology basics, seed value chain, biosafety regulation, Trajlon Group",
+            "seoKeywords": "Seed Systems course, Crop Breeding training, Agricultural Biotechnology basics, seed value chain, biosafety regulation, SkillHub International",
             "seoHeading": "Master Seed Systems, Crop Breeding, and Agricultural Biotechnology Basics"
         },
         "popular": false,
@@ -8449,7 +8449,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1pXkZXj8JaMbh_AavV226jXCeKlFhS1Hr/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Urban Agriculture & Food Security Programmes | Trajlon Group",
+            "seoTitle": "Urban Agriculture & Food Security Programmes | SkillHub International",
             "seoDescription": "This course equips participants with the strategic, technical, and policy skills required to design, implement, and scale urban and peri-urban agriculture initiatives that enhance food security, nutrition, livelihoods, and climate resilience.",
             "seoKeywords": "urban agriculture course, food security programmes, sustainable urban food systems, climate resilience agriculture, urban planning food security",
             "seoHeading": "Master Urban Agriculture and Food Security Programme Design"
@@ -8592,7 +8592,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1B1hj6Phg4vRnUazaEcV9WgK_RzVbMAWA/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Water–Energy–Food (WEF) Nexus Training Programme | Trajlon Group",
+            "seoTitle": "Water–Energy–Food (WEF) Nexus Training Programme | SkillHub International",
             "seoDescription": "The Water–Energy–Food (WEF) Nexus Training Programme equips participants with the analytical, planning, and coordination skills required to manage trade-offs and synergies between water, energy, and food systems in a resource-constrained and climate-uncertain world.",
             "seoKeywords": "WEF Nexus training, Water Energy Food Nexus course, integrated resource management, policy coherence, sustainable development goals",
             "seoHeading": "Master the Water–Energy–Food (WEF) Nexus for Sustainable Development"
@@ -8735,9 +8735,9 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/169S0AZaK15f4_FRUxrsDUl0O5NHtRPZY/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Women in Agribusiness Leadership Programme | Trajlon Group",
+            "seoTitle": "Women in Agribusiness Leadership Programme | SkillHub International",
             "seoDescription": "The Women in Agribusiness Leadership Programme equips women professionals, entrepreneurs, and emerging leaders with the strategic, managerial, and leadership skills required to lead, scale, and influence agribusinesses and agricultural value chains.",
-            "seoKeywords": "Women in Agribusiness Leadership, Agribusiness Management Course, Female Leadership in Agriculture, Agribusiness Strategy, Trajlon Group",
+            "seoKeywords": "Women in Agribusiness Leadership, Agribusiness Management Course, Female Leadership in Agriculture, Agribusiness Strategy, SkillHub International",
             "seoHeading": "Women in Agribusiness Leadership Programme"
         },
         "popular": false,
@@ -8878,7 +8878,7 @@ const AgricultureCourses = [
         "brochure": "https://drive.google.com/file/d/1SKBQJIZF9sN0gx6dne5srxqGW23ZYdv0/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Youth Empowerment in Agribusiness & Green Jobs Programme | Trajlon Group",
+            "seoTitle": "Youth Empowerment in Agribusiness & Green Jobs Programme | SkillHub International",
             "seoDescription": "The Youth Empowerment in Agribusiness & Green Jobs Programme equips young people and youth-focused stakeholders with the entrepreneurial, technical, and employability skills required to access decent work, create enterprises, and lead innovation in agribusiness and the green economy.",
             "seoKeywords": "Youth Empowerment Agribusiness, Green Jobs Programme, Agripreneurship training, Youth employment skills, Green economy training",
             "seoHeading": "Youth Empowerment in Agribusiness & Green Jobs Programme"
@@ -9024,7 +9024,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1YrgtejlqUF2lPlmUJIjWyXx7qiepcTmV/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Biodiversity Conservation & Ecosystem Restoration Programme | Trajlon Group",
+            "seoTitle": "Biodiversity Conservation & Ecosystem Restoration Programme | SkillHub International",
             "seoDescription": "The Biodiversity Conservation & Ecosystem Restoration Programme equips participants with the scientific, policy, and practical skills required to protect biodiversity, restore degraded ecosystems, and strengthen ecological resilience.",
             "seoKeywords": "biodiversity conservation course, ecosystem restoration training, environmental governance, nature-based solutions, CBD, UN Decade on Ecosystem Restoration",
             "seoHeading": "Mastering Biodiversity Conservation and Ecosystem Restoration"
@@ -9167,7 +9167,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1mVG1YYLorkFFDqwHdy1c8pYFZSVGHDKt/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Carbon Markets & Climate Policy Instruments Programme | Trajlon Group",
+            "seoTitle": "Carbon Markets & Climate Policy Instruments Programme | SkillHub International",
             "seoDescription": "Equip yourself with the skills to design, evaluate, and implement carbon pricing mechanisms and climate policy instruments. Learn about ETS, Article 6, MRV, and just transition impacts in this 5-day course.",
             "seoKeywords": "carbon markets course, climate policy instruments, carbon pricing mechanisms, emissions trading systems, Article 6 Paris Agreement, MRV systems, climate finance",
             "seoHeading": "Mastering Carbon Markets and Climate Policy Instruments"
@@ -9310,7 +9310,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1PDnwJysGP46S_nkCVsG19P0j7au2wTi1/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Climate Finance & Proposal Development Programme | Trajlon Group",
+            "seoTitle": "Climate Finance & Proposal Development Programme | SkillHub International",
             "seoDescription": "Equip yourself with the strategic and technical skills to access, structure, and manage climate finance. Learn hands-on proposal development aligned to major funding sources like the GCF, GEF, and Adaptation Fund.",
             "seoKeywords": "climate finance course, proposal development, GCF funding, GEF, adaptation finance, mitigation projects, bankable climate proposals",
             "seoHeading": "Master Climate Finance Access and Bankable Proposal Development"
@@ -9452,7 +9452,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/14s0CNI9inurfQ0nnfKtHBdApzbKP_Nap/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Climate Security & Environmental Peacebuilding Programme | Trajlon Group",
+            "seoTitle": "Climate Security & Environmental Peacebuilding Programme | SkillHub International",
             "seoDescription": "Equip yourself with the skills to understand, prevent, and manage climate-related security risks and use environmental cooperation for peacebuilding. This 5-day programme integrates climate science, security analysis, and governance.",
             "seoKeywords": "climate security course, environmental peacebuilding, climate risk management, conflict prevention, climate change threat multiplier",
             "seoHeading": "Mastering Climate Security and Environmental Peacebuilding"
@@ -9595,7 +9595,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1XVwxi-k7MQswO1AgkJT5poiueLDgBXie/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Climate-Smart Agriculture (CSA) Course | Trajlon Group",
+            "seoTitle": "Climate-Smart Agriculture (CSA) Course | SkillHub International",
             "seoDescription": "This 5-day Climate-Smart Agriculture (CSA) Programme equips participants with the knowledge, tools, and practical techniques required to increase agricultural productivity, enhance resilience to climate change, and reduce greenhouse gas emissions.",
             "seoKeywords": "Climate-Smart Agriculture course, CSA training, climate resilience agriculture, sustainable land management, agricultural productivity Africa",
             "seoHeading": "Mastering Climate-Smart Agriculture for Resilience and Productivity"
@@ -9747,7 +9747,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/11pGne6sGNNhR7A9h2E2-RdMoXqJ_w9Qi/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Disaster Risk Reduction (DRR) & Early Warning Systems Programme | Trajlon Group",
+            "seoTitle": "Disaster Risk Reduction (DRR) & Early Warning Systems Programme | SkillHub International",
             "seoDescription": "The Disaster Risk Reduction (DRR) & Early Warning Systems Programme equips participants with the strategic, technical, and institutional skills required to anticipate, prevent, and reduce disaster risks, and to design and operate effective early warning systems.",
             "seoKeywords": "Disaster Risk Reduction course, DRR training, Early Warning Systems, Sendai Framework, risk assessment, vulnerability analysis, emergency preparedness",
             "seoHeading": "Master Disaster Risk Reduction (DRR) & Early Warning Systems"
@@ -9890,7 +9890,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1EBFaARaYgZza4bZmKSDLX4RsbHI1dGmr/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Environmental Governance & Policy Implementation Programme | Trajlon Group",
+            "seoTitle": "Environmental Governance & Policy Implementation Programme | SkillHub International",
             "seoDescription": "The Environmental Governance & Policy Implementation Programme equips participants with the strategic, legal, and institutional skills required to design, implement, and enforce effective environmental policies and governance frameworks.",
             "seoKeywords": "environmental governance course, policy implementation training, MEAs, NDCs, environmental law, Africa environmental policy",
             "seoHeading": "Master Environmental Governance and Policy Implementation"
@@ -10033,7 +10033,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1t6c4EivfdY-HjMSn-FxPrBbMYLm5rCa_/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Environmental Impact Assessment (EIA) & Strategic Environmental Assessment (SEA) Programme | Trajlon Group",
+            "seoTitle": "Environmental Impact Assessment (EIA) & Strategic Environmental Assessment (SEA) Programme | SkillHub International",
             "seoDescription": "The Environmental Impact Assessment (EIA) & Strategic Environmental Assessment (SEA) Programme equips participants with the technical, legal, and institutional skills required to assess, manage, and mitigate environmental and social impacts of projects, plans, and policies.",
             "seoKeywords": "EIA course, SEA training, Environmental Impact Assessment, Strategic Environmental Assessment, environmental management, sustainability appraisal",
             "seoHeading": "Mastering EIA and SEA for Sustainable Development"
@@ -10176,7 +10176,7 @@ const ClimateChangeCourses = [
         "brochure": "https://drive.google.com/file/d/1DO3POennr4wiALe76xd6Ftj_ABAxzn7l/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Waste Management & Circular Economy Programme | Trajlon Group",
+            "seoTitle": "Waste Management & Circular Economy Programme | SkillHub International",
             "seoDescription": "The Waste Management & Circular Economy Programme equips participants with the strategic, technical, and policy skills required to transition from linear “take–make–dispose” models to circular, resource-efficient systems.",
             "seoKeywords": "waste management course, circular economy training, hazardous waste management, e-waste, resource recovery, sustainable development goals",
             "seoHeading": "Mastering Waste Management and Circular Economy Strategies"
@@ -10322,7 +10322,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1_LRbLgn97M-YoQdiZuyGiC2BvP7SA7az/view?usp=sharing",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AU Institutions & Regional Integration | Trajlon Group",
+            "seoTitle": "AU Institutions & Regional Integration | SkillHub International",
             "seoDescription": "Gain a comprehensive understanding of the African Union (AU) structures, mandates, and functions, focusing on continental governance, policy harmonisation, and Agenda 2063 frameworks.",
             "seoKeywords": "African Union course, AU institutions training, regional integration Africa, Agenda 2063 training, continental governance course",
             "seoHeading": "Mastering AU Institutions and Africa's Regional Integration Agenda"
@@ -10461,7 +10461,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/154xHfgkoxEaHOLlBvOfergtKC95GNPT3/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "African Diplomacy & Regional Integration Course | Trajlon Group",
+            "seoTitle": "African Diplomacy & Regional Integration Course | SkillHub International",
             "seoDescription": "The African Diplomacy & Regional Integration Programme equips participants with the strategic, analytical, and diplomatic competencies required to advance continental cooperation, strengthen regional institutions, and support Africa’s integration agenda.",
             "seoKeywords": "African Diplomacy course, Regional Integration training, African Union governance, Pan-African diplomacy, Agenda 2063",
             "seoHeading": "African Diplomacy & Regional Integration"
@@ -10592,7 +10592,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1oDDmVlS-neU2na_U6lNUq1jTAhgsdKZ_/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Climate Diplomacy & Environmental Governance Course | Trajlon Group",
+            "seoTitle": "Climate Diplomacy & Environmental Governance Course | SkillHub International",
             "seoDescription": "The Climate Diplomacy & Environmental Governance Programme equips participants with the knowledge and skills needed to engage effectively in international climate negotiations, advance national and continental climate priorities, and strengthen Africa’s environmental governance systems.",
             "seoKeywords": "climate diplomacy course, environmental governance Africa, international climate negotiations, UNFCCC training, COP negotiation skills",
             "seoHeading": "Master Climate Diplomacy and Strengthen Environmental Governance in Africa"
@@ -10740,7 +10740,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1WjrdQoGUiYoAlv7_00zyNpw-yQCUiilS/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Conflict Analysis & Mediation Course | Trajlon Group",
+            "seoTitle": "Conflict Analysis & Mediation Course | SkillHub International",
             "seoDescription": "The Conflict Analysis & Mediation Programme is designed to equip participants with advanced analytical, diplomatic, and mediation skills required to prevent, manage, and resolve conflicts within the African context.",
             "seoKeywords": "Conflict Analysis, Mediation, African Union Peace and Security Architecture, APSA, conflict resolution training, diplomatic skills",
             "seoHeading": "Advanced Conflict Analysis & Mediation Programme"
@@ -10880,7 +10880,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/16FrME6HwLbsQEj6WgM2JWhQv_6ERkHQP/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Counterterrorism & Security Cooperation | Trajlon Group",
+            "seoTitle": "Counterterrorism & Security Cooperation | SkillHub International",
             "seoDescription": "Address terrorism, violent extremism, and transnational security threats in Africa. Learn threat assessment, intelligence analysis, inter-agency coordination, and human rights integration in counterterrorism operations.",
             "seoKeywords": "counterterrorism course Africa, security cooperation training, violent extremism prevention, AU counterterrorism architecture, transnational security threats",
             "seoHeading": "Master Counterterrorism Strategies and Regional Security Cooperation"
@@ -11024,7 +11024,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1zpMw4Xsc2PV6s52pz0MEinh8alE-Hu4s/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Crisis Communication & Public Diplomacy Course | Trajlon Group",
+            "seoTitle": "Crisis Communication & Public Diplomacy Course | SkillHub International",
             "seoDescription": "The Crisis Communication & Public Diplomacy Programme equips participants with the strategic, analytical, and communication skills required to manage high-stakes information environments and promote institutional credibility during crises.",
             "seoKeywords": "crisis communication course, public diplomacy training, governmental communication, AU REC crisis management, strategic narrative building",
             "seoHeading": "Mastering Crisis Communication and Public Diplomacy"
@@ -11165,7 +11165,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1gBtCnpoFCpO_bKTlHFDM7BwFRENlaD93/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Economic Diplomacy & AfCFTA | Trajlon Group",
+            "seoTitle": "Economic Diplomacy & AfCFTA | SkillHub International",
             "seoDescription": "Equip participants with the strategic, analytical, and negotiation skills required to advance Africa’s economic interests within bilateral, regional, and global arenas, focusing heavily on AfCFTA operations and trade policy.",
             "seoKeywords": "Economic Diplomacy course, AfCFTA training, Africa trade negotiation, regional economic integration, investment promotion Africa",
             "seoHeading": "Mastering Economic Diplomacy and AfCFTA Implementation"
@@ -11312,7 +11312,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/11EjL0OHPuEH3VETWLYlPpojBGQ6ZOblS/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Election Observation & Democratic Governance | Trajlon Group",
+            "seoTitle": "Election Observation & Democratic Governance | SkillHub International",
             "seoDescription": "The Election Observation & Democratic Governance Programme equips participants with the skills, tools, and institutional understanding required to support credible elections, democratic processes, and good governance across Africa.",
             "seoKeywords": "election observation course, democratic governance training, AU election observation, electoral risk analysis, electoral cycle management",
             "seoHeading": "Mastering Election Observation and Democratic Governance in Africa"
@@ -11454,7 +11454,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1lM0SPTNr3Wdlk2kNTigq20hjYCnhzZP_/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Foreign Policy & Diplomatic Relations | Trajlon Group",
+            "seoTitle": "Foreign Policy & Diplomatic Relations | SkillHub International",
             "seoDescription": "The Foreign Policy & Diplomatic Relations Programme equips participants with the analytical, strategic, and practical skills required to formulate, implement, and evaluate foreign policy within African, regional, and global contexts.",
             "seoKeywords": "foreign policy course, diplomatic relations training, African foreign policy, global governance, diplomatic protocol, crisis diplomacy",
             "seoHeading": "Mastering Foreign Policy and Diplomatic Relations"
@@ -11596,7 +11596,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1AFI_UfFO0fYVWIlBDfDkuv5eci55V6fk/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Geopolitics & Global Power Dynamics | Trajlon Group",
+            "seoTitle": "Geopolitics & Global Power Dynamics | SkillHub International",
             "seoDescription": "The Geopolitics & Global Power Dynamics Programme provides participants with a deep understanding of the shifting global order, major power rivalries, and Africa’s strategic position within an evolving multipolar world.",
             "seoKeywords": "geopolitics course, global power dynamics, Africa strategic position, foreign policy strategies, geopolitical risk analysis",
             "seoHeading": "Mastering Geopolitics and Global Power Dynamics"
@@ -11740,7 +11740,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1pvZLueqk3IOjXBHPWEGi9r42oV816s6S/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "International Law & Treaty Drafting | Trajlon Group",
+            "seoTitle": "International Law & Treaty Drafting | SkillHub International",
             "seoDescription": "Comprehensive course on legal frameworks, principles, and mechanisms governing relations between states, focusing on the African Union legal order and practical treaty drafting skills.",
             "seoKeywords": "International Law course, Treaty Drafting training, African Union legal order, VCLT, diplomatic negotiation, legal harmonization",
             "seoHeading": "Master International Law and Practical Treaty Drafting"
@@ -11888,7 +11888,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1wN9e8ONQED6LO3CIaCb8ZGVBswK77U4v/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "International Project Management for Diplomats | Trajlon Group",
+            "seoTitle": "International Project Management for Diplomats | SkillHub International",
             "seoDescription": "The International Project Management for Diplomats Programme equips participants with the strategic, technical, and diplomatic skills required to design, implement, monitor, and evaluate cross-border and multilateral projects.",
             "seoKeywords": "international project management, diplomatic project management, results-based management, RBM, AU project management, REC project coordination",
             "seoHeading": "Mastering International Project Management and Diplomatic Coordination"
@@ -12029,7 +12029,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1Razd4q0TYGdF3Megm71tEGcvTfLOwo7q/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "International Trade Arbitration, Mediation & Dispute Resolution | Trajlon Group",
+            "seoTitle": "International Trade Arbitration, Mediation & Dispute Resolution | SkillHub International",
             "seoDescription": "The International Trade Arbitration, Mediation & Dispute Resolution Programme equips participants with the legal, procedural, and practical skills required to manage and resolve trade-related disputes within regional, continental, and global frameworks.",
             "seoKeywords": "International Trade Arbitration, Trade Mediation, Dispute Resolution, AfCFTA Dispute Settlement, New York Convention, WTO DSU",
             "seoHeading": "Mastering International Trade Arbitration, Mediation & Dispute Resolution"
@@ -12176,7 +12176,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1Atn4dXDMbBgbr-caHvR91aXSrJFvuuqy/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Migration, Governance & Human Rights Course | Trajlon Group",
+            "seoTitle": "Migration, Governance & Human Rights Course | SkillHub International",
             "seoDescription": "The Migration, Governance & Human Rights Programme equips participants with the knowledge, frameworks, and practical skills required to manage migration effectively, protect migrants’ rights, and strengthen governance systems across Africa.",
             "seoKeywords": "migration governance course, human rights training Africa, AU migration policies, border governance, refugee protection standards",
             "seoHeading": "Master Migration Management, Governance, and Human Rights in Africa"
@@ -12320,7 +12320,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1B6PZ4wnSmvKebh_Ui0cEOxCtRUy5qF2J/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Multilateral Negotiation Skills | Trajlon Group",
+            "seoTitle": "Multilateral Negotiation Skills | SkillHub International",
             "seoDescription": "Strengthen your ability to negotiate effectively in complex, multi-stakeholder environments like the AU, UN, and WTO. Master coalition-building and diplomatic drafting.",
             "seoKeywords": "multilateral negotiation skills, diplomatic negotiation course, AU negotiation training, UN negotiation strategies, international relations course",
             "seoHeading": "Master Multilateral Negotiation Skills for Global Forums"
@@ -12463,7 +12463,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1tqk5vj3qb72fmtUPX5G8G2gUupw95GEG/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Peace & Security (APSA, CEWS, DDR, SSR) Program | Trajlon Group",
+            "seoTitle": "Peace & Security (APSA, CEWS, DDR, SSR) Program | SkillHub International",
             "seoDescription": "Master the African Peace and Security Architecture (APSA), including CEWS, DDR, and SSR. This 5-day course covers conflict prevention, early warning analysis, peace support operations, and security governance strategies for African practitioners.",
             "seoKeywords": "APSA course, African Peace and Security Architecture training, CEWS analysis, DDR training, SSR fundamentals, conflict prevention Africa, peace support operations",
             "seoHeading": "Mastering African Peace and Security Architecture (APSA, CEWS, DDR, SSR)"
@@ -12607,7 +12607,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/18kF3qFWDOT-Xz63HMgTiAy6FyuvWLOJ_/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Preventive Diplomacy | Trajlon Group",
+            "seoTitle": "Preventive Diplomacy | SkillHub International",
             "seoDescription": "The Preventive Diplomacy Programme is designed to equip participants with the strategic, analytical, and diplomatic capabilities required to detect, prevent, and de-escalate conflicts before they escalate into violence.",
             "seoKeywords": "preventive diplomacy course, conflict prevention training, AU Peace and Security Architecture, early warning systems, crisis negotiation",
             "seoHeading": "Master Strategic Preventive Diplomacy and Conflict De-escalation"
@@ -12746,7 +12746,7 @@ const InternationalRelationsCourses = [
         "brochure": "https://drive.google.com/file/d/1oc8kUaKk1YDR9cx8HLGga8fQEBMQcVum/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Communication & Digital Diplomacy Course | Trajlon Group",
+            "seoTitle": "Strategic Communication & Digital Diplomacy Course | SkillHub International",
             "seoDescription": "Equip yourself with the communication, analytical, and digital engagement skills required to shape narratives and advance institutional objectives in the modern information environment.",
             "seoKeywords": "strategic communication course, digital diplomacy training, crisis communication, public diplomacy, AU communication training, government communication strategy",
             "seoHeading": "Master Strategic Communication and Digital Diplomacy"
@@ -12891,7 +12891,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1Fj_pYrd95b6O627_i5o9LmVEkDhhtT8i/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Effective Monitoring and Evaluation in the Public Sector | Trajlon Group",
+            "seoTitle": "Effective Monitoring and Evaluation in the Public Sector | SkillHub International",
             "seoDescription": "This course provides participants with the knowledge, tools, and practical skills required to design, implement, and manage effective monitoring and evaluation (M&E) systems within the public sector.",
             "seoKeywords": "monitoring and evaluation public sector, M&E systems government, results-based management course, public sector performance evaluation",
             "seoHeading": "Effective Monitoring and Evaluation in the Public Sector"
@@ -12992,9 +12992,9 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1tZdhX-bX0Y2imNwX661fpQ5_LF-o88ob/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Emotional Intelligence (EQ) Training for Leaders and Managers | Trajlon Group",
+            "seoTitle": "Emotional Intelligence (EQ) Training for Leaders and Managers | SkillHub International",
             "seoDescription": "This 5-day course helps leaders and managers develop the emotional intelligence competencies needed to build stronger teams, enhance communication, and drive organizational performance.",
-            "seoKeywords": "emotional intelligence training, EQ course for leaders, leadership emotional intelligence, managing conflict with EQ, Trajlon Group",
+            "seoKeywords": "emotional intelligence training, EQ course for leaders, leadership emotional intelligence, managing conflict with EQ, SkillHub International",
             "seoHeading": "Mastering Emotional Intelligence for Effective Leadership"
         },
         "popular": false,
@@ -13092,7 +13092,7 @@ const LeadershipManagementCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Management Programme for Corporate Legal Advisors and Company Secretaries | Trajlon Group",
+            "seoTitle": "Management Programme for Corporate Legal Advisors and Company Secretaries | SkillHub International",
             "seoDescription": "Enhance the strategic, legal, and managerial competencies of corporate legal advisors and company secretaries. This 5-day program focuses on governance, compliance, risk management, and strategic leadership.",
             "seoKeywords": "corporate legal advisors training, company secretaries management program, corporate governance course, legal risk management, board advisory skills",
             "seoHeading": "Management Programme for Corporate Legal Advisors and Company Secretaries"
@@ -13192,7 +13192,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/16dygjV42gOYjn_EMN_Gg_xAYm7rcfMRm/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Managing Virtual and Remote Employees and Teams | Trajlon Group",
+            "seoTitle": "Managing Virtual and Remote Employees and Teams | SkillHub International",
             "seoDescription": "This 5-day course equips leaders and managers with the skills to effectively manage, engage, and develop virtual and remote teams, focusing on trust-building, communication, and performance management in geographically dispersed environments.",
             "seoKeywords": "managing remote teams, virtual employee management, hybrid team leadership, remote performance management, virtual collaboration tools",
             "seoHeading": "Mastering Leadership and Performance Management for Virtual and Remote Teams"
@@ -13292,7 +13292,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1WsJX115RsmBL7ciWkE3YOtUu0_n_qcX1/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Stakeholder Management and Engagement Course | Trajlon Group",
+            "seoTitle": "Stakeholder Management and Engagement Course | SkillHub International",
             "seoDescription": "This course provides practical frameworks and tools for identifying, analysing, and engaging stakeholders effectively throughout the project or organizational lifecycle.",
             "seoKeywords": "stakeholder management course, stakeholder engagement strategies, conflict management, corporate affairs training",
             "seoHeading": "Master Stakeholder Management and Effective Engagement"
@@ -13392,7 +13392,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1PIBEJymtnsu2pkuSPSRnJS7m12hotXYu/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Leadership and Change Management | Trajlon Group",
+            "seoTitle": "Strategic Leadership and Change Management | SkillHub International",
             "seoDescription": "This course equips participants with the knowledge and skills to lead strategically and manage organizational change effectively. It focuses on leadership styles, strategic thinking, innovation, and change implementation processes.",
             "seoKeywords": "strategic leadership course, change management training, organizational transformation, strategic thinking, leadership competencies",
             "seoHeading": "Strategic Leadership and Change Management"
@@ -13483,7 +13483,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1Tg9Z-jypsWb0Iw1j8ZmVI4s_XNLbPQbk/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Planning, Development and Implementation | Trajlon Group",
+            "seoTitle": "Strategic Planning, Development and Implementation | SkillHub International",
             "seoDescription": "This course provides participants with practical tools and frameworks to design, develop, and implement effective strategic plans that align with organizational goals. It focuses on the entire strategic management process.",
             "seoKeywords": "strategic planning course, strategy implementation training, organizational development, strategic management process, vision formulation",
             "seoHeading": "Master Strategic Planning, Development, and Implementation"
@@ -13575,7 +13575,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1eiUabMfs4lzdPzpKHuQj7rrIi0vyTsKI/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Skills for Executive and Administrative Professionals | Trajlon Group",
+            "seoTitle": "Strategic Skills for Executive and Administrative Professionals | SkillHub International",
             "seoDescription": "This 5-day program empowers executive and administrative professionals with advanced strategic, communication, and organizational skills, transforming support roles into strategic partnership positions.",
             "seoKeywords": "executive administrative skills course, strategic administrative professional training, office management strategic skills, executive assistant training",
             "seoHeading": "Master Strategic Skills for Executive and Administrative Professionals"
@@ -13665,9 +13665,9 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1l3UJs7PNgwDfONaNXeBLgIZ9qylLso2s/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Supervisory Skills Development Training Course | Trajlon Group",
+            "seoTitle": "Supervisory Skills Development Training Course | SkillHub International",
             "seoDescription": "Equip new and experienced supervisors with essential skills in leadership, communication, motivation, performance management, and problem-solving to enhance productivity and workplace harmony.",
-            "seoKeywords": "supervisory skills training, leadership development course, performance management for supervisors, conflict resolution training, effective delegation, Trajlon Group",
+            "seoKeywords": "supervisory skills training, leadership development course, performance management for supervisors, conflict resolution training, effective delegation, SkillHub International",
             "seoHeading": "Master Essential Supervisory Skills and Team Leadership"
         },
         "popular": false,
@@ -13774,7 +13774,7 @@ const LeadershipManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1BwaeYlmKAmfy9agIeCCfEQM6eRU1RmQC/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Team Building and Team Development Training Course | Trajlon Group",
+            "seoTitle": "Team Building and Team Development Training Course | SkillHub International",
             "seoDescription": "This course is designed to enhance the effectiveness of teams by improving communication, collaboration, trust, and problem-solving abilities among team members.",
             "seoKeywords": "team building course, team development training, conflict resolution, high-performing teams, organizational development",
             "seoHeading": "Mastering Team Dynamics and Building High-Performing Teams"
@@ -13877,7 +13877,7 @@ const PersonalDevelopmentCourses = [
         "brochure": "https://drive.google.com/file/d/1J9tqxtpOUBSTXKl0JV7dxoRmCm8HNpqe/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Assertiveness Skills and Confidence Training | Trajlon Group",
+            "seoTitle": "Assertiveness Skills and Confidence Training | SkillHub International",
             "seoDescription": "This course is designed to help participants communicate more effectively, express themselves with confidence, and build assertiveness in professional and personal interactions.",
             "seoKeywords": "assertiveness training, confidence building course, communication skills, conflict management, professional development",
             "seoHeading": "Master Assertiveness Skills and Build Professional Confidence"
@@ -13977,7 +13977,7 @@ const PersonalDevelopmentCourses = [
         "brochure": "https://drive.google.com/file/d/1HDYW6llNVK99lalsl54UqCF7y2RtitI-/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Professional Business and Corporate Etiquette Training Course | Trajlon Group",
+            "seoTitle": "Professional Business and Corporate Etiquette Training Course | SkillHub International",
             "seoDescription": "Develop the social, communication, and behavioural skills necessary to conduct yourself with confidence and professionalism. Master workplace etiquette, cultural awareness, and corporate protocol for career success.",
             "seoKeywords": "business etiquette course, corporate protocol training, professional image development, workplace conduct training, cross-cultural etiquette",
             "seoHeading": "Master Professional Business and Corporate Etiquette"
@@ -14086,7 +14086,7 @@ const PersonalDevelopmentCourses = [
         "brochure": "https://drive.google.com/file/d/17PD3dYfhyY_c9bqQ7CExIHMf6xUVntC_/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Stress Management and Stress Reduction Training | Trajlon Group",
+            "seoTitle": "Stress Management and Stress Reduction Training | SkillHub International",
             "seoDescription": "This course equips participants with practical tools and techniques to recognize, manage, and reduce stress in both personal and professional contexts. Build emotional resilience, improve focus, and enhance overall well-being.",
             "seoKeywords": "stress management training, stress reduction course, emotional resilience training, workplace stress prevention, mental well-being course",
             "seoHeading": "Master Stress Management and Build Emotional Resilience"
@@ -14186,7 +14186,7 @@ const PersonalDevelopmentCourses = [
         "brochure": "https://drive.google.com/file/d/1BHfpw37aKG4Uwtk2YklzeT6a9DloGVAL/view?usp=drive_link",
         "duration": "3 Days",
         "seo": {
-            "seoTitle": "Time Management Skills Training Course | Trajlon Group",
+            "seoTitle": "Time Management Skills Training Course | SkillHub International",
             "seoDescription": "Develop practical strategies for managing time effectively, prioritizing tasks, and increasing personal and team productivity. Learn goal setting, planning, and overcoming procrastination.",
             "seoKeywords": "time management course, productivity training, prioritization skills, overcoming procrastination, work-life balance training, professional development",
             "seoHeading": "Master Time Management Skills and Boost Productivity"
@@ -14286,7 +14286,7 @@ const PersonalDevelopmentCourses = [
         "brochure": "https://drive.google.com/file/d/1umkiSv6S7KnRpcjZupLumfvLNLhDTui_/view?usp=drive_link",
         "duration": "3 Days",
         "seo": {
-            "seoTitle": "Work–Life Balance Training Course | Trajlon Group",
+            "seoTitle": "Work–Life Balance Training Course | SkillHub International",
             "seoDescription": "This course provides practical tools and strategies to achieve a healthy balance between professional responsibilities and personal life, focusing on mindset, time management, and resilience.",
             "seoKeywords": "work life balance course, stress management training, personal well-being course, emotional intelligence training",
             "seoHeading": "Achieve Sustainable Work–Life Balance and Prevent Burnout"
@@ -14389,7 +14389,7 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1RfEbGc3gitp9Jtl9y-xzlQlo7E-tpmez/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Advanced Project Management (APM) Course | Trajlon Group",
+            "seoTitle": "Advanced Project Management (APM) Course | SkillHub International",
             "seoDescription": "This course takes participants beyond the fundamentals and into the advanced practices, tools and leadership dimensions of managing complex projects. It covers strategic alignment, governance, portfolio thinking, and adaptive techniques.",
             "seoKeywords": "advanced project management course, APM training, strategic project management, project governance, earned value management",
             "seoHeading": "Mastering Advanced Project Management Practices and Leadership"
@@ -14490,7 +14490,7 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1zU4llFte-Eprts4AAwhVmu1ttbhivsiI/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Advanced Project Management for Donor Funded Projects | Trajlon Group",
+            "seoTitle": "Advanced Project Management for Donor Funded Projects | SkillHub International",
             "seoDescription": "This 5-day course provides a deep dive into managing projects funded by bilateral, multilateral, and private foundations, focusing on advanced techniques, donor compliance, financial oversight, and sustainability planning.",
             "seoKeywords": "donor funded project management course, NGO project management, donor compliance training, project financial oversight, advanced project management",
             "seoHeading": "Master Advanced Project Management for Donor Funded Projects"
@@ -14598,7 +14598,7 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1_tlk1kfXUNmiUeDIDPI445HXRUPZB0Pm/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Monitoring and Evaluation of Development and Community Projects (MEPE) | Trajlon Group",
+            "seoTitle": "Monitoring and Evaluation of Development and Community Projects (MEPE) | SkillHub International",
             "seoDescription": "This course equips participants with the frameworks, methods and tools to design, implement, monitor, evaluate and learn from development and community-based projects. It emphasises results-orientation, accountability, and evidence-based decision making.",
             "seoKeywords": "monitoring and evaluation course, MEPE training, development project M&E, community project evaluation, results-based management",
             "seoHeading": "Mastering Monitoring and Evaluation for Development and Community Projects"
@@ -14704,9 +14704,9 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1alNc9atlc3WwstJRdNlAn2oxGQCt_hKo/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Project Analysis Management and Contract Management | Trajlon Group",
+            "seoTitle": "Project Analysis Management and Contract Management | SkillHub International",
             "seoDescription": "This 5-day course covers the interconnected disciplines of Project Analysis & Management and Contract Management. Learn to analyze, plan, control projects, and negotiate, structure, execute, and monitor contracts effectively.",
-            "seoKeywords": "project analysis course, contract management training, project lifecycle, contract negotiation, project control, Trajlon Group",
+            "seoKeywords": "project analysis course, contract management training, project lifecycle, contract negotiation, project control, SkillHub International",
             "seoHeading": "Mastering Project Analysis, Management, and Contract Execution"
         },
         "popular": false,
@@ -14800,7 +14800,7 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1EEPWRvjvNYFlvn9nY29_ME31eqdlYCHo/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Project Risk Management and Compliance Course | Trajlon Group",
+            "seoTitle": "Project Risk Management and Compliance Course | SkillHub International",
             "seoDescription": "Master the integration of risk management (covering threats and opportunities) and critical compliance dimensions (regulatory, contractual, internal governance) throughout the project lifecycle with this 5-day professional course.",
             "seoKeywords": "project risk management course, project compliance training, risk register, ISO 31000, project governance",
             "seoHeading": "Mastering Project Risk Management and Compliance"
@@ -14897,7 +14897,7 @@ const ProjectManagementCourses = [
         "brochure": "https://drive.google.com/file/d/1Zsu5i6g32Th1Q7FRlxOmJyIAwuJEYitd/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Resource Mobilisation, Planning and Negotiation Strategies for programs | Trajlon Group",
+            "seoTitle": "Resource Mobilisation, Planning and Negotiation Strategies for programs | SkillHub International",
             "seoDescription": "This 5-day course equips participants with the skills and strategies to mobilise resources (financial, material, human, partnerships), plan mobilisation efforts strategically, and confidently negotiate with donors, partners and stakeholders.",
             "seoKeywords": "Resource Mobilisation course, Fundraising strategies, Donor Negotiation, Partnership Management, Program Planning, NGO resource mobilization.",
             "seoHeading": "Master Resource Mobilisation, Planning, and Negotiation Strategies"
@@ -15010,7 +15010,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Advanced Public Sector Financial Management Course | Trajlon Group",
+            "seoTitle": "Advanced Public Sector Financial Management Course | SkillHub International",
             "seoDescription": "Master advanced concepts in public sector financial management (PFM), including IPSAS, MTEF, risk management, public debt, and strategic resource allocation for sustainable governance.",
             "seoKeywords": "public sector financial management course, advanced PFM training, IPSAS course, public debt management, MTEF training, government budgeting",
             "seoHeading": "Master Advanced Public Sector Financial Management and Governance"
@@ -15118,7 +15118,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Budgetary and Macroeconomic Analysis | Trajlon Group",
+            "seoTitle": "Budgetary and Macroeconomic Analysis | SkillHub International",
             "seoDescription": "Evaluate the interlinkages between national budgets and macroeconomic performance. Learn to apply analytical tools to assess fiscal trends, forecast variables, and support evidence-based policy formulation.",
             "seoKeywords": "budgetary analysis course, macroeconomic analysis training, fiscal policy course, macro-fiscal forecasting, public finance management",
             "seoHeading": "Master Budgetary and Macroeconomic Analysis"
@@ -15243,7 +15243,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "International Trade Law and Policy for Africa’s Development | Trajlon Group",
+            "seoTitle": "International Trade Law and Policy for Africa’s Development | SkillHub International",
             "seoDescription": "This course provides an in-depth understanding of the legal and policy frameworks governing international trade, focusing on their impact on Africa’s economic development, including the AfCFTA and strategies for sustainable growth.",
             "seoKeywords": "international trade law Africa, AfCFTA policy course, trade negotiation strategies, WTO rules Africa, regional integration policy",
             "seoHeading": "Mastering International Trade Law and Policy for Africa’s Development"
@@ -15332,7 +15332,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "International Trade Policy Development and Macroeconomic Analysis | Trajlon Group",
+            "seoTitle": "International Trade Policy Development and Macroeconomic Analysis | SkillHub International",
             "seoDescription": "Equip yourself with analytical frameworks and policy tools to design, evaluate, and implement international trade policies within a macro-economic context. Learn how trade policies affect national economies and how macroeconomic conditions feed back into trade strategy.",
             "seoKeywords": "international trade policy course, macroeconomic analysis, trade policy development, WTO frameworks, trade agreements, economic policy training",
             "seoHeading": "Mastering International Trade Policy Development and Macroeconomic Analysis"
@@ -15424,7 +15424,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Management and Analysis of PPPs | Trajlon Group",
+            "seoTitle": "Management and Analysis of PPPs | SkillHub International",
             "seoDescription": "Gain a deep understanding of Public-Private Partnerships (PPPs), covering legal, financial, and institutional frameworks, risk allocation, and contract management over 5 intensive days.",
             "seoKeywords": "PPP management course, Public-Private Partnerships analysis, infrastructure finance training, PPP risk allocation, contract management course",
             "seoHeading": "Mastering the Management and Analysis of Public-Private Partnerships (PPPs)"
@@ -15529,7 +15529,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Monetary and Fiscal Policy Analysis with DSGE Models (DSGE) | Trajlon Group",
+            "seoTitle": "Monetary and Fiscal Policy Analysis with DSGE Models (DSGE) | SkillHub International",
             "seoDescription": "Equip yourself with the theoretical foundations and computational tools for Dynamic Stochastic General Equilibrium (DSGE) models. Analyze monetary and fiscal policy impacts using advanced DSGE techniques.",
             "seoKeywords": "DSGE models course, monetary policy analysis, fiscal policy analysis, dynamic stochastic general equilibrium, central bank modelling, macroeconomic forecasting",
             "seoHeading": "Master Monetary and Fiscal Policy Analysis using DSGE Models"
@@ -15618,7 +15618,7 @@ const PublicFinanceEconomicCourses = [
         "brochure": "",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Utility Regulation and Strategic Management Course | Trajlon Group",
+            "seoTitle": "Utility Regulation and Strategic Management Course | SkillHub International",
             "seoDescription": "Gain a comprehensive understanding of regulatory frameworks and strategic management tools for public utilities (electricity, water, telecoms, transport) in this 5-day course.",
             "seoKeywords": "utility regulation course, strategic management public utilities, tariff design, economic regulation, PPPs in utilities",
             "seoHeading": "Mastering Utility Regulation and Strategic Management"
@@ -15714,7 +15714,7 @@ const PublicPrivateCourses = [
         "brochure": "https://drive.google.com/file/d/1bl5QEhoasjZC8ioZU3XpuMbnl9vd6rmG/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Management and Analysis of PPPs | Trajlon Group",
+            "seoTitle": "Management and Analysis of PPPs | SkillHub International",
             "seoDescription": "Gain a deep understanding of Public-Private Partnerships (PPPs), focusing on legal frameworks, risk allocation, financial modeling, and contract management for sustainable infrastructure development.",
             "seoKeywords": "PPP management course, Public Private Partnership analysis, infrastructure finance training, risk allocation in PPPs, contract management PPP",
             "seoHeading": "Master the Management and Analysis of Public-Private Partnerships (PPPs)"
@@ -15819,7 +15819,7 @@ const PublicPrivateCourses = [
         "brochure": "https://drive.google.com/file/d/12gAdvyJmlay6uE_r8kscVqTMn8yGonGj/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Mastering PPP Projects Training Course | Trajlon Group",
+            "seoTitle": "Mastering PPP Projects Training Course | SkillHub International",
             "seoDescription": "This intensive program provides participants with a comprehensive mastery of PPP project development, implementation, and management across sectors such as transport, energy, water, ICT, and social infrastructure.",
             "seoKeywords": "PPP projects course, Public Private Partnership training, infrastructure finance, project structuring, risk management",
             "seoHeading": "Mastering Public-Private Partnership (PPP) Projects"
@@ -15925,7 +15925,7 @@ const PublicPrivateCourses = [
         "brochure": "https://drive.google.com/file/d/1Zq1E9VS3G2pRV1wkxfi_stU_8Aj3mErS/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Planning and Delivery of Public-Private Partnerships (PPP) | Trajlon Group",
+            "seoTitle": "Planning and Delivery of Public-Private Partnerships (PPP) | SkillHub International",
             "seoDescription": "Master the full lifecycle of Public-Private Partnerships (PPP), covering project identification, feasibility studies, procurement, risk management, and successful delivery models for infrastructure projects.",
             "seoKeywords": "PPP course, Public-Private Partnerships training, infrastructure finance, project delivery, risk management in PPP, procurement strategies",
             "seoHeading": "Mastering the Planning and Delivery of Public-Private Partnerships (PPP)"
@@ -16033,7 +16033,7 @@ const PublicPrivateCourses = [
         "brochure": "https://drive.google.com/file/d/1jU0vFxCz3nTstOBosf8NuN0uJktQCMTj/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Public Private Partnership (PPP) Contract and Agreement | Trajlon Group",
+            "seoTitle": "Public Private Partnership (PPP) Contract and Agreement | SkillHub International",
             "seoDescription": "Gain an in-depth understanding of how PPP contracts are designed, negotiated, and managed throughout the project lifecycle. Cover legal foundations, risk allocation, financial implications, and dispute resolution.",
             "seoKeywords": "PPP contracts course, public private partnership agreement, contract negotiation, risk allocation, dispute resolution, infrastructure finance",
             "seoHeading": "Mastering PPP Contract Design, Negotiation, and Management"
@@ -16136,7 +16136,7 @@ const PublicPrivateCourses = [
         "brochure": "https://drive.google.com/file/d/1o6eoO214R25F0LTd7J-Nw0Bvsur9pXfj/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Public-Private Partnership (PPP) and Project Finance | Trajlon Group",
+            "seoTitle": "Public-Private Partnership (PPP) and Project Finance | SkillHub International",
             "seoDescription": "This course provides participants with a comprehensive understanding of the intersection between PPPs and project finance, focusing on financial structuring, risk management, and successful infrastructure delivery.",
             "seoKeywords": "PPP course, Project Finance training, Public-Private Partnership, infrastructure finance, risk allocation, financial modelling",
             "seoHeading": "Mastering Public-Private Partnership (PPP) and Project Finance"
@@ -16246,7 +16246,7 @@ const StrategyStrategicCourses = [
         "brochure": "https://drive.google.com/file/d/1b8VsLNfDpfGmVk9qOd6ziV9VHGA__ZQ3/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Advanced Strategic Management Course | Trajlon Group",
+            "seoTitle": "Advanced Strategic Management Course | SkillHub International",
             "seoDescription": "Gain advanced knowledge and practical tools to formulate, implement, and evaluate complex business strategies, focusing on competitive advantage, innovation, and strategic leadership.",
             "seoKeywords": "advanced strategic management course, strategic leadership training, corporate strategy formulation, business model innovation, strategic risk management",
             "seoHeading": "Mastering Advanced Strategic Management and Competitive Strategy"
@@ -16357,7 +16357,7 @@ const StrategyStrategicCourses = [
         "brochure": "https://drive.google.com/file/d/1hrpnynVacDNM-Z-eY1-k-h7jREcCyWcU/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Board of Directors and Members Training Course | Trajlon Group",
+            "seoTitle": "Board of Directors and Members Training Course | SkillHub International",
             "seoDescription": "A comprehensive 5-day training course designed for board members and directors focusing on corporate governance, strategic oversight, financial stewardship, compliance, and ethical leadership.",
             "seoKeywords": "board of directors training, corporate governance course, director duties, board effectiveness, strategic oversight training",
             "seoHeading": "Master Corporate Governance and Board Effectiveness"
@@ -16470,7 +16470,7 @@ const StrategyStrategicCourses = [
         "brochure": "https://drive.google.com/file/d/11EwHoZnKRwE_Tf919VyFbQXIqwM7Hf0O/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Business Process Reengineering (BPR) Course | Trajlon Group",
+            "seoTitle": "Business Process Reengineering (BPR) Course | SkillHub International",
             "seoDescription": "Analyse, redesign, and improve business processes for greater efficiency, quality, and customer satisfaction. Learn process mapping, performance measurement, and change management techniques for transformational change.",
             "seoKeywords": "Business Process Reengineering course, BPR training, process mapping, workflow redesign, organizational change management, process improvement",
             "seoHeading": "Mastering Business Process Reengineering (BPR)"
@@ -16576,9 +16576,9 @@ const StrategyStrategicCourses = [
         "brochure": "https://drive.google.com/file/d/12j9rux3YfMkrxztS9OLTlLD-eYNk_7xO/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Corporate Resilience Training for Managers and Organisations | Trajlon Group",
+            "seoTitle": "Corporate Resilience Training for Managers and Organisations | SkillHub International",
             "seoDescription": "Equip managers and organizational leaders with the skills and frameworks to build corporate resilience, manage crises, and ensure strategic continuity in dynamic environments.",
-            "seoKeywords": "corporate resilience training, organizational resilience course, crisis management training, adaptive leadership, business continuity planning, Trajlon Group",
+            "seoKeywords": "corporate resilience training, organizational resilience course, crisis management training, adaptive leadership, business continuity planning, SkillHub International",
             "seoHeading": "Building Corporate Resilience and Strategic Adaptability"
         },
         "popular": false,
@@ -16677,7 +16677,7 @@ const StrategyStrategicCourses = [
         "brochure": "https://drive.google.com/file/d/15jfBHJJwcMrhgezmCZbYU59GczZOgE1C/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Partnerships, Joint Venture and Consortia Development | Trajlon Group",
+            "seoTitle": "Strategic Partnerships, Joint Venture and Consortia Development | SkillHub International",
             "seoDescription": "Master the planning, negotiation, and management of strategic partnerships, joint ventures, and consortia. Learn governance, risk management, and legal structures in this 5-day course.",
             "seoKeywords": "strategic partnerships course, joint venture development, consortia management training, corporate strategy collaboration, partnership negotiation",
             "seoHeading": "Master Strategic Partnerships, Joint Ventures, and Consortia Development"
@@ -16787,7 +16787,7 @@ const TaxRevenueCourses = [
         "brochure": "https://drive.google.com/file/d/1kC4-0d8MwThDKpqQ0KP7XNqiJ-Y0MMTD/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Masterclass in Tax Administration | Trajlon Group",
+            "seoTitle": "Masterclass in Tax Administration | SkillHub International",
             "seoDescription": "This intensive masterclass provides participants with advanced knowledge and practical insights into effective tax administration systems, focusing on modern strategies for improving compliance, efficiency, and revenue mobilization.",
             "seoKeywords": "tax administration masterclass, tax compliance strategies, revenue mobilization, digital tax transformation, tax governance course",
             "seoHeading": "Advanced Strategies for Effective Tax Administration and Revenue Mobilization"
@@ -16904,7 +16904,7 @@ const TaxRevenueCourses = [
         "brochure": "https://drive.google.com/file/d/1kHl7HpIYD3_L3fWlOQwmMJOAWonENlkc/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Tax Policy, Auditing and Debt Management | Trajlon Group",
+            "seoTitle": "Tax Policy, Auditing and Debt Management | SkillHub International",
             "seoDescription": "This 5-day course provides an integrated understanding of tax policy formulation, audit practices, and debt management strategies to strengthen fiscal stability and enhance compliance.",
             "seoKeywords": "tax policy course, public debt management training, tax auditing best practices, fiscal stability, revenue mobilization, debt sustainability analysis",
             "seoHeading": "Mastering Tax Policy, Auditing, and Public Debt Management"
@@ -17021,7 +17021,7 @@ const TaxRevenueCourses = [
         "brochure": "https://drive.google.com/file/d/111C4zNuy8wrNGoNN6QTFCYi0zi9Hth8b/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Tax Policy, Fiscal Analysis and Revenue Forecasting | Trajlon Group",
+            "seoTitle": "Tax Policy, Fiscal Analysis and Revenue Forecasting | SkillHub International",
             "seoDescription": "This course provides participants with advanced knowledge and analytical tools to design effective tax policies, evaluate fiscal performance, and forecast government revenues.",
             "seoKeywords": "tax policy course, fiscal analysis training, revenue forecasting, public finance management, tax reform strategies",
             "seoHeading": "Master Tax Policy, Fiscal Analysis, and Revenue Forecasting"
@@ -17137,7 +17137,7 @@ const TaxRevenueCourses = [
         "brochure": "https://drive.google.com/file/d/1_X9aRX5FkKr3dKDDohO8vB3w2qWOcLpt/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Taxation Principles and Practices to Combat Tax Evasion and Tax Avoidance | Trajlon Group",
+            "seoTitle": "Taxation Principles and Practices to Combat Tax Evasion and Tax Avoidance | SkillHub International",
             "seoDescription": "This course provides an in-depth understanding of taxation principles and advanced strategies for detecting, preventing, and combating tax evasion and avoidance. Learn to strengthen enforcement mechanisms and promote compliance.",
             "seoKeywords": "taxation principles course, combat tax evasion, tax avoidance strategies, fiscal policy training, tax enforcement, BEPS initiatives",
             "seoHeading": "Mastering Taxation Principles and Strategies to Combat Tax Evasion"
@@ -17254,7 +17254,7 @@ const TaxRevenueCourses = [
         "brochure": "https://drive.google.com/file/d/1qDVCnGAzNJWKgz-16osxmHJUb-zLjAvB/view?usp=drive_link",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Taxation and Audit of the Insurance Industry with IFRS 17 | Trajlon Group",
+            "seoTitle": "Taxation and Audit of the Insurance Industry with IFRS 17 | SkillHub International",
             "seoDescription": "This specialized training program provides participants with a comprehensive understanding of taxation principles, audit practices, and financial reporting under IFRS 17 for insurance companies.",
             "seoKeywords": "IFRS 17 training, insurance taxation course, audit of insurance companies, IFRS 17 compliance, deferred tax insurance",
             "seoHeading": "Mastering Taxation and Audit Compliance for Insurance under IFRS 17"
@@ -17370,11 +17370,11 @@ const TaxRevenueCourses = [
         brochure: "https://drive.google.com/file/d/1OjDgZ6yQqWoGjyHPwPSKhymJ7SEi8YSa/view?usp=drive_link",
         duration: "5 Days",
         seo: {
-            seoTitle: "Value Added Tax (VAT) Training Course South Africa | Trajlon Group",
+            seoTitle: "Value Added Tax (VAT) Training Course South Africa | SkillHub International",
             seoDescription:
                 "Comprehensive VAT course covering registration, compliance, accurate calculation of input/output VAT, filing, and risk management. Stay compliant with current tax legislation.",
             seoKeywords:
-                "VAT training course South Africa, Value Added Tax compliance, input VAT output VAT calculation, VAT return filing, VAT risk management, eFiling training, tax legislation updates, Trajlon Group",
+                "VAT training course South Africa, Value Added Tax compliance, input VAT output VAT calculation, VAT return filing, VAT risk management, eFiling training, tax legislation updates, SkillHub International",
             seoHeading: "Comprehensive Value Added Tax (VAT) Training",
         },
         shortDesc:
@@ -17496,7 +17496,7 @@ const AiInBusinessCourses = [
         "slg": "ai-readiness-maturity-organisational-change-management",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI Readiness, Maturity & Organisational Change Management | Trajlon Group",
+            "seoTitle": "AI Readiness, Maturity & Organisational Change Management | SkillHub International",
             "seoDescription": "This course provides advanced knowledge and practical skills to help organisations assess, plan, and manage their transition towards effective and responsible adoption of Artificial Intelligence (AI).",
             "seoKeywords": "AI readiness course, AI maturity assessment, organisational change management AI, AI transformation roadmap, responsible AI adoption",
             "seoHeading": "Master AI Readiness, Maturity & Organisational Change Management"
@@ -17616,7 +17616,7 @@ const AiInBusinessCourses = [
         "slg": "ai-for-law-enforcement-justice-systems",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI for Law Enforcement & Justice Systems | Trajlon Group",
+            "seoTitle": "AI for Law Enforcement & Justice Systems | SkillHub International",
             "seoDescription": "This course provides advanced knowledge and practical skills on the application of Artificial Intelligence (AI) in law enforcement and justice systems. It focuses on how AI technologies can enhance crime prevention, investigations, judicial processes, corrections management, and public safety.",
             "seoKeywords": "AI in law enforcement, AI in justice systems, predictive policing, digital forensics, algorithmic bias, justice sector technology",
             "seoHeading": "AI for Law Enforcement & Justice Systems"
@@ -17736,9 +17736,9 @@ const AiInBusinessCourses = [
         "slg": "ai-for-project-management-business-analysis-decision-support",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI for Project Management, Business Analysis & Decision Support | Trajlon Group",
+            "seoTitle": "AI for Project Management, Business Analysis & Decision Support | SkillHub International",
             "seoDescription": "This course provides advanced skills and practical insights into the application of Artificial Intelligence (AI) in project management, business analysis, and strategic decision support. Learn how to enhance planning, forecasting, risk management, and executive decision-making.",
-            "seoKeywords": "AI for Project Management, Business Analysis AI, Decision Support Systems, Predictive Analytics, AI Governance, Trajlon Group",
+            "seoKeywords": "AI for Project Management, Business Analysis AI, Decision Support Systems, Predictive Analytics, AI Governance, SkillHub International",
             "seoHeading": "Mastering AI for Project Management, Business Analysis & Strategic Decision Support"
         },
         "brochure": "https://drive.google.com/file/d/1x7yYZcwErx-Xd9Gnc9xSQ4k_sMC6tNJO/view?usp=drive_link",
@@ -17856,7 +17856,7 @@ const AiInBusinessCourses = [
         "slg": "artificial-intelligence-for-public-sector-innovation-service-delivery",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Artificial Intelligence for Public Sector Innovation & Service Delivery | Trajlon Group",
+            "seoTitle": "Artificial Intelligence for Public Sector Innovation & Service Delivery | SkillHub International",
             "seoDescription": "Learn how public sector leaders can leverage Artificial Intelligence (AI) to enhance service delivery, improve policy implementation, and ensure ethical governance and accountability in government operations.",
             "seoKeywords": "AI public sector course, artificial intelligence government, public service innovation, AI service delivery, government digital transformation",
             "seoHeading": "Mastering AI for Public Sector Innovation and Service Delivery"
@@ -17976,7 +17976,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-agriculture-smart-farming",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Agriculture & Smart Farming | Trajlon Group",
+            "seoTitle": "AI in Agriculture & Smart Farming | SkillHub International",
             "seoDescription": "This course provides advanced knowledge and practical skills on the application of Artificial Intelligence (AI) in agriculture and smart farming systems. It focuses on how AI-driven technologies can improve agricultural productivity, climate resilience, food security, and value-chain efficiency.",
             "seoKeywords": "AI in agriculture course, smart farming training, precision agriculture, agri-tech innovation, climate-smart farming",
             "seoHeading": "Mastering Artificial Intelligence in Agriculture and Smart Farming"
@@ -18096,7 +18096,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-education-learning-technologies",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Education & Learning Technologies Course | Trajlon Group",
+            "seoTitle": "AI in Education & Learning Technologies Course | SkillHub International",
             "seoDescription": "Gain advanced knowledge and practical skills on applying Artificial Intelligence (AI) in education and learning technologies, focusing on personalized learning, data-driven insights, and ethical implementation.",
             "seoKeywords": "AI in education, learning technologies course, personalized learning, education policy, ethical AI, digital transformation in education",
             "seoHeading": "Mastering Artificial Intelligence in Education and Learning Systems"
@@ -18216,7 +18216,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-finance-banking-risk-management",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Finance, Banking & Risk Management | Trajlon Group",
+            "seoTitle": "AI in Finance, Banking & Risk Management | SkillHub International",
             "seoDescription": "Gain advanced knowledge and practical skills in applying Artificial Intelligence (AI) to finance, banking, and risk management. Focus on enhancing decision-making, fraud detection, regulatory compliance, and operational efficiency using AI-driven tools.",
             "seoKeywords": "AI in Finance, AI in Banking, Risk Management AI, Financial Forecasting, Fraud Detection AI, RegTech, Financial Data Governance",
             "seoHeading": "Master Artificial Intelligence Applications in Finance, Banking, and Risk Management"
@@ -18336,7 +18336,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-healthcare-operations-diagnostics",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Healthcare Operations & Diagnostics | Trajlon Group",
+            "seoTitle": "AI in Healthcare Operations & Diagnostics | SkillHub International",
             "seoDescription": "This 5-day course provides advanced knowledge on applying AI in healthcare operations, clinical diagnostics, patient flow, and hospital management, focusing on ethical integration and improved outcomes.",
             "seoKeywords": "AI in healthcare operations, AI diagnostics course, healthcare predictive analytics, clinical decision support systems, healthcare AI ethics",
             "seoHeading": "Mastering AI for Healthcare Operations and Clinical Diagnostics"
@@ -18456,9 +18456,9 @@ const AiInBusinessCourses = [
         "slg": "ai-in-mining-energy-utilities",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Mining, Energy & Utilities | Trajlon Group",
+            "seoTitle": "AI in Mining, Energy & Utilities | SkillHub International",
             "seoDescription": "Gain advanced knowledge and practical skills in applying Artificial Intelligence (AI) to optimize operations, enhance safety, and improve sustainability across the mining, energy, and utilities sectors.",
-            "seoKeywords": "AI in mining, AI in energy, AI in utilities, predictive maintenance, operational optimization, digital transformation, Trajlon Group",
+            "seoKeywords": "AI in mining, AI in energy, AI in utilities, predictive maintenance, operational optimization, digital transformation, SkillHub International",
             "seoHeading": "Mastering Artificial Intelligence for Mining, Energy, and Utilities"
         },
         "brochure": "https://drive.google.com/file/d/1CXCtuXwFdFgiybED70OUzMqbF9LrFBu4/view?usp=drive_link",
@@ -18576,7 +18576,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-real-estate-smart-cities",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Real Estate & Smart Cities Course | Trajlon Group",
+            "seoTitle": "AI in Real Estate & Smart Cities Course | SkillHub International",
             "seoDescription": "Gain advanced knowledge and practical skills in applying Artificial Intelligence (AI) to real estate development, urban planning, and smart city systems. Learn to enhance valuation, operations, and sustainability.",
             "seoKeywords": "AI in real estate, smart cities course, urban planning AI, property management technology, AI urban development",
             "seoHeading": "Mastering Artificial Intelligence for Real Estate and Smart City Development"
@@ -18696,7 +18696,7 @@ const AiInBusinessCourses = [
         "slg": "ai-in-supply-chain-logistics-operations-optimisation",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI in Supply Chain, Logistics & Operations Optimisation | Trajlon Group",
+            "seoTitle": "AI in Supply Chain, Logistics & Operations Optimisation | SkillHub International",
             "seoDescription": "This course provides advanced knowledge and practical skills on the application of Artificial Intelligence (AI) in supply chain management, logistics, and operations optimisation.",
             "seoKeywords": "AI in supply chain, logistics optimization course, operations optimization, machine learning logistics, demand forecasting AI",
             "seoHeading": "Mastering AI for Supply Chain, Logistics, and Operations Optimization"
@@ -18816,9 +18816,9 @@ const AiInBusinessCourses = [
         "slg": "ai-powered-customer-service-crm-contact-centre-optimisation",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "AI-Powered Customer Service, CRM & Contact Centre Optimisation | Trajlon Group",
+            "seoTitle": "AI-Powered Customer Service, CRM & Contact Centre Optimisation | SkillHub International",
             "seoDescription": "This 5-day course provides advanced knowledge on applying AI in customer service, CRM, and contact centre operations to enhance customer experience, efficiency, and personalization.",
-            "seoKeywords": "AI customer service course, CRM optimization training, contact centre AI, artificial intelligence customer experience, Trajlon Group",
+            "seoKeywords": "AI customer service course, CRM optimization training, contact centre AI, artificial intelligence customer experience, SkillHub International",
             "seoHeading": "Master AI-Powered Customer Service, CRM & Contact Centre Optimisation"
         },
         "brochure": "https://drive.google.com/file/d/1YJjcuwkk9PY_7fmmto_lGcmaXBelmTCs/view?usp=drive_link",
@@ -18936,9 +18936,9 @@ const AiInBusinessCourses = [
         "slg": "applied-artificial-intelligence-for-business-leaders",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Applied Artificial Intelligence for Business Leaders | Trajlon Group",
+            "seoTitle": "Applied Artificial Intelligence for Business Leaders | SkillHub International",
             "seoDescription": "This course provides senior executives and business leaders with practical, strategic, and non-technical insights into how Artificial Intelligence (AI) can be applied to drive business performance, innovation, and competitive advantage.",
-            "seoKeywords": "Applied Artificial Intelligence course, AI for business leaders, strategic AI insights, leading AI initiatives, AI governance, Trajlon Group",
+            "seoKeywords": "Applied Artificial Intelligence course, AI for business leaders, strategic AI insights, leading AI initiatives, AI governance, SkillHub International",
             "seoHeading": "Applied Artificial Intelligence for Business Leaders"
         },
         "brochure": "https://drive.google.com/file/d/1PBAez2-6vXvt1_heeeDPyr44lqfHVVuT/view?usp=drive_link",
@@ -19056,7 +19056,7 @@ const AiInBusinessCourses = [
         "slg": "cybersecurity-ai-threat-intelligence",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Cybersecurity & AI Threat Intelligence | Trajlon Group",
+            "seoTitle": "Cybersecurity & AI Threat Intelligence | SkillHub International",
             "seoDescription": "This 5-day course provides advanced knowledge on applying AI in cybersecurity, focusing on threat detection, incident response, risk management, and cyber resilience for critical infrastructure and public sector environments.",
             "seoKeywords": "AI cybersecurity course, threat intelligence training, AI incident response, cyber resilience, governance and ethics in AI security",
             "seoHeading": "Mastering AI for Advanced Cybersecurity and Threat Intelligence"
@@ -19176,7 +19176,7 @@ const AiInBusinessCourses = [
         "slg": "data-science-machine-learning-ai-bootcamp",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Data Science, Machine Learning & AI Bootcamp | Trajlon Group",
+            "seoTitle": "Data Science, Machine Learning & AI Bootcamp | SkillHub International",
             "seoDescription": "This intensive bootcamp provides participants with practical, hands-on skills in data science, machine learning, and artificial intelligence (AI). It focuses on building end-to-end data capabilities—from data collection and analysis to model development, evaluation, and deployment.",
             "seoKeywords": "data science bootcamp, machine learning course, AI training, artificial intelligence course, data analytics skills",
             "seoHeading": "Data Science, Machine Learning & AI Bootcamp"
@@ -19296,9 +19296,9 @@ const AiInBusinessCourses = [
         "slg": "executive-artificial-intelligence-strategy-digital-transformation",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Executive Artificial Intelligence Strategy & Digital Transformation | Trajlon Group",
+            "seoTitle": "Executive Artificial Intelligence Strategy & Digital Transformation | SkillHub International",
             "seoDescription": "This course equips senior executives and decision-makers with strategic, non-technical insights to lead Artificial Intelligence (AI)–driven digital transformation initiatives effectively. Focuses on governance, value creation, and risk management.",
-            "seoKeywords": "AI strategy course, digital transformation executive training, executive AI governance, leading AI initiatives, Trajlon Group",
+            "seoKeywords": "AI strategy course, digital transformation executive training, executive AI governance, leading AI initiatives, SkillHub International",
             "seoHeading": "Executive Artificial Intelligence Strategy & Digital Transformation"
         },
         "brochure": "https://drive.google.com/file/d/1rrdNq0tVhmPwrnaOUgAo19oRkx1mQYQb/view?usp=drive_link",
@@ -19416,7 +19416,7 @@ const AiInBusinessCourses = [
         "slg": "generative-ai-tools-workflow-automation-for-business-productivity",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Generative AI Tools & Workflow Automation for Business Productivity | Trajlon Group",
+            "seoTitle": "Generative AI Tools & Workflow Automation for Business Productivity | SkillHub International",
             "seoDescription": "This course provides practical knowledge and hands-on skills on the use of Generative Artificial Intelligence (GenAI) tools and workflow automation to enhance business productivity, efficiency, and decision-making.",
             "seoKeywords": "Generative AI course, workflow automation training, business productivity tools, GenAI for business, AI workflow optimization",
             "seoHeading": "Master Generative AI Tools & Workflow Automation for Business Productivity"
@@ -19536,7 +19536,7 @@ const AiInBusinessCourses = [
         "slg": "hr-analytics-ai-driven-talent-management",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "HR Analytics & AI-Driven Talent Management | Trajlon Group",
+            "seoTitle": "HR Analytics & AI-Driven Talent Management | SkillHub International",
             "seoDescription": "Gain advanced skills in HR analytics and AI-driven talent management. Learn to use data for strategic workforce planning, recruitment, performance enhancement, and ethical data governance to drive organizational performance.",
             "seoKeywords": "HR analytics course, AI talent management, workforce planning, predictive HR, people analytics, HR data governance",
             "seoHeading": "Mastering HR Analytics and AI-Driven Talent Management"
@@ -19656,7 +19656,7 @@ const AiInBusinessCourses = [
         "slg": "machine-learning-predictive-analytics-for-business",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Machine Learning & Predictive Analytics for Business | Trajlon Group",
+            "seoTitle": "Machine Learning & Predictive Analytics for Business | SkillHub International",
             "seoDescription": "Gain practical knowledge on applying Machine Learning (ML) and predictive analytics to improve business performance, forecasting, risk management, and strategic decision-making.",
             "seoKeywords": "machine learning course, predictive analytics training, business forecasting, data-driven decision making, ML for business",
             "seoHeading": "Master Machine Learning and Predictive Analytics for Strategic Business Decisions"
@@ -19776,9 +19776,9 @@ const AiInBusinessCourses = [
         "slg": "responsible-ai-ethical-governance-risk-management",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Responsible AI, Ethical Governance & Risk Management Course | Trajlon Group",
+            "seoTitle": "Responsible AI, Ethical Governance & Risk Management Course | SkillHub International",
             "seoDescription": "This 5-day course provides advanced knowledge and practical frameworks for designing, governing, and managing Artificial Intelligence (AI) systems responsibly, focusing on ethics, risk, and compliance.",
-            "seoKeywords": "Responsible AI course, AI Governance training, Ethical AI risk management, AI compliance, Trajlon Group",
+            "seoKeywords": "Responsible AI course, AI Governance training, Ethical AI risk management, AI compliance, SkillHub International",
             "seoHeading": "Master Responsible AI, Ethical Governance, and Risk Management"
         },
         "brochure": "https://drive.google.com/file/d/1_wNrgzmnKaU83bTXEHRJy-NEAQgiZ_7H/view?usp=drive_link",
@@ -19899,7 +19899,7 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "capital-markets-theory-investments-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Capital Markets Theory & Investments Programme | Trajlon Group",
+            "seoTitle": "Capital Markets Theory & Investments Programme | SkillHub International",
             "seoDescription": "This 5-day programme provides a rigorous understanding of capital markets theory, asset pricing, and investment decision-making. Learn to construct and evaluate diversified portfolios across equities, fixed income, and alternative assets, aligned with global best practices.",
             "seoKeywords": "capital markets theory course, investment programme, asset pricing models, portfolio construction, financial decision-making, emerging markets investment",
             "seoHeading": "Master Capital Markets Theory, Asset Pricing, and Investment Strategies"
@@ -20011,7 +20011,7 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "fiduciary-duties-of-directors-and-management-in-pension-fund-schemes-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Fiduciary Duties of Directors and Management in Pension Fund Schemes Programme | Trajlon Group",
+            "seoTitle": "Fiduciary Duties of Directors and Management in Pension Fund Schemes Programme | SkillHub International",
             "seoDescription": "The Fiduciary Duties of Directors and Management in Pension Fund Schemes Programme equips directors, trustees, senior management, and key officers with a clear, practical, and legally grounded understanding of their fiduciary responsibilities in the governance and management of pension fund schemes.",
             "seoKeywords": "fiduciary duties course, pension fund governance, trustee responsibilities, pension scheme compliance, director liability",
             "seoHeading": "Mastering Fiduciary Duties in Pension Fund Schemes"
@@ -20123,9 +20123,9 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "financial-markets-regulations-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Financial Markets Regulations Programme | Trajlon Group",
+            "seoTitle": "Financial Markets Regulations Programme | SkillHub International",
             "seoDescription": "This 5-day Financial Markets Regulations Programme provides a comprehensive understanding of regulatory frameworks governing financial markets, institutions, and market participants, focusing on compliance, systemic risk, and market integrity.",
-            "seoKeywords": "financial markets regulation course, market integrity training, compliance obligations financial institutions, systemic risk management, Trajlon Group",
+            "seoKeywords": "financial markets regulation course, market integrity training, compliance obligations financial institutions, systemic risk management, SkillHub International",
             "seoHeading": "Master Financial Markets Regulations and Compliance"
         },
         "brochure": "https://drive.google.com/file/d/12ZPZGaY8BNxr0Ip2r2J44lAv_CedTaW5/view?usp=drive_link",
@@ -20235,9 +20235,9 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "fundamentals-of-life-insurance-retirement-savings-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Fundamentals of Life Insurance & Retirement Savings Programme | Trajlon Group",
+            "seoTitle": "Fundamentals of Life Insurance & Retirement Savings Programme | SkillHub International",
             "seoDescription": "Equip participants with a comprehensive understanding of life insurance products, retirement savings mechanisms, and long-term financial protection strategies, aligned with global best practices in insurance and pension systems.",
-            "seoKeywords": "life insurance fundamentals, retirement savings programme, pension fund structures, financial protection strategies, life insurance policy structures, Trajlon Group",
+            "seoKeywords": "life insurance fundamentals, retirement savings programme, pension fund structures, financial protection strategies, life insurance policy structures, SkillHub International",
             "seoHeading": "Master Life Insurance and Retirement Savings Fundamentals"
         },
         "brochure": "https://drive.google.com/file/d/1c1EBnHVRtharHIny7I0pZu8nFafruBXg/view?usp=drive_link",
@@ -20347,7 +20347,7 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "pension-fund-governance-regulations-best-practices-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Pension Fund Governance, Regulations & Best Practices Programme | Trajlon Group",
+            "seoTitle": "Pension Fund Governance, Regulations & Best Practices Programme | SkillHub International",
             "seoDescription": "The Pension Fund Governance, Regulations & Best Practices Programme equips trustees, managers, and pension-sector professionals with the governance, regulatory, and fiduciary skills required to oversee pension funds effectively, ethically, and in compliance with applicable laws and standards.",
             "seoKeywords": "pension fund governance course, pension fund regulations, trustee training, fiduciary duty, pension fund compliance",
             "seoHeading": "Mastering Pension Fund Governance, Regulations & Best Practices"
@@ -20459,7 +20459,7 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "retirement-planning-post-retirement-venture-skills-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Retirement Planning & Post-Retirement Venture Skills Programme | Trajlon Group",
+            "seoTitle": "Retirement Planning & Post-Retirement Venture Skills Programme | SkillHub International",
             "seoDescription": "Equip yourself with the financial, strategic, and entrepreneurial skills needed to plan for a secure retirement and successfully transition into productive post-retirement ventures. This 5-day programme covers income planning, risk management, and small business development for retirees.",
             "seoKeywords": "retirement planning course, post-retirement venture skills, financial planning for retirees, retirement income sustainability, entrepreneurship for seniors",
             "seoHeading": "Master Retirement Planning and Launch Post-Retirement Ventures"
@@ -20571,7 +20571,7 @@ const PensionsAdministrationSocialProtectionCourses = [
         "slg": "valuation-of-securities-laws-relating-to-securities-operations-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Valuation of Securities & Laws Relating to Securities Operations Programme | Trajlon Group",
+            "seoTitle": "Valuation of Securities & Laws Relating to Securities Operations Programme | SkillHub International",
             "seoDescription": "This 5-day programme equips participants with a solid understanding of how financial securities are valued and how securities markets are governed, regulated, and operated within legal and regulatory frameworks.",
             "seoKeywords": "securities valuation course, securities law training, capital markets regulation, equity valuation, debt valuation, market compliance",
             "seoHeading": "Mastering Securities Valuation and Legal Compliance in Capital Markets"
@@ -20686,7 +20686,7 @@ const RealEstateManagementCourses = [
         "slg": "real-estate-investment-valuation-financial-analysis-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Real Estate Investment, Valuation & Financial Analysis Programme | Trajlon Group",
+            "seoTitle": "Real Estate Investment, Valuation & Financial Analysis Programme | SkillHub International",
             "seoDescription": "The Real Estate Investment, Valuation & Financial Analysis Programme equips participants with the financial, analytical, and strategic skills required to evaluate, value, and invest in real estate assets across residential, commercial, industrial, and mixed-use property markets.",
             "seoKeywords": "real estate investment course, property valuation training, financial analysis real estate, DCF modelling course, real estate finance Africa",
             "seoHeading": "Master Real Estate Investment, Valuation, and Financial Analysis"
@@ -20801,7 +20801,7 @@ const RealEstateManagementCourses = [
         "slg": "real-estate-marketing-sales-transaction-management-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Real Estate Marketing, Sales & Transaction Management Programme | Trajlon Group",
+            "seoTitle": "Real Estate Marketing, Sales & Transaction Management Programme | SkillHub International",
             "seoDescription": "The Real Estate Marketing, Sales & Transaction Management Programme equips participants with the strategic, commercial, and operational skills required to market real estate assets, manage sales processes, and execute property transactions efficiently and compliantly.",
             "seoKeywords": "real estate marketing course, property sales management, real estate transaction management, conveyancing training, property negotiation skills",
             "seoHeading": "Master Real Estate Marketing, Sales, and Transaction Management"
@@ -20913,7 +20913,7 @@ const RealEstateManagementCourses = [
         "slg": "real-estate-portfolio-strategy-performance-management-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Real Estate Portfolio Strategy & Performance Management Programme | Trajlon Group",
+            "seoTitle": "Real Estate Portfolio Strategy & Performance Management Programme | SkillHub International",
             "seoDescription": "Master the strategic, financial, and operational skills needed to plan, manage, and optimise real estate assets and portfolios. Learn portfolio strategy, capital planning, ESG integration, and performance measurement for long-term value creation.",
             "seoKeywords": "real estate portfolio strategy, asset management course, real estate performance management, corporate real estate, ESG real estate, capital planning",
             "seoHeading": "Master Real Estate Portfolio Strategy and Performance Management"
@@ -21025,7 +21025,7 @@ const RealEstateManagementCourses = [
         "slg": "real-estate-risk-management-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Real Estate Risk Management Programme | Trajlon Group",
+            "seoTitle": "Real Estate Risk Management Programme | SkillHub International",
             "seoDescription": "Equip participants with the analytical, financial, legal, and operational skills required to identify, assess, mitigate, and manage risks across the real estate investment, development, financing, and transaction lifecycle.",
             "seoKeywords": "real estate risk management course, property risk assessment, real estate finance risk, climate risk real estate, emerging markets property risk",
             "seoHeading": "Master Real Estate Risk Management and Portfolio Resilience"
@@ -21137,7 +21137,7 @@ const RealEstateManagementCourses = [
         "slg": "strategic-mortgage-finance-housing-finance-systems-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Mortgage Finance & Housing Finance Systems Programme | Trajlon Group",
+            "seoTitle": "Strategic Mortgage Finance & Housing Finance Systems Programme | SkillHub International",
             "seoDescription": "The Strategic Mortgage Finance & Housing Finance Systems Programme equips participants with the financial, analytical, regulatory, and practical skills required to design, assess, approve, manage, and regulate mortgage and housing finance products.",
             "seoKeywords": "mortgage finance course, housing finance systems, mortgage credit risk management, mortgage portfolio management, strategic mortgage lending",
             "seoHeading": "Master Strategic Mortgage Finance and Housing Finance Systems"
@@ -21249,7 +21249,7 @@ const RealEstateManagementCourses = [
         "slg": "strategic-property-market-analysis-and-forecasting-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Property Market Analysis & Forecasting Programme | Trajlon Group",
+            "seoTitle": "Strategic Property Market Analysis & Forecasting Programme | SkillHub International",
             "seoDescription": "Equip yourself with analytical and quantitative skills to analyze property markets, interpret data, and forecast real estate trends for informed investment and development decisions.",
             "seoKeywords": "property market analysis course, real estate forecasting, market segmentation, property investment risk, real estate economics",
             "seoHeading": "Master Strategic Property Market Analysis and Real Estate Forecasting"
@@ -21361,7 +21361,7 @@ const RealEstateManagementCourses = [
         "slg": "strategic-real-estate-management-programme",
         "duration": "5 Days",
         "seo": {
-            "seoTitle": "Strategic Real Estate Management Programme | Trajlon Group",
+            "seoTitle": "Strategic Real Estate Management Programme | SkillHub International",
             "seoDescription": "Equip yourself with the strategic, financial, and operational skills needed to plan, manage, and optimize real estate assets and portfolios in alignment with organizational goals and long-term value creation.",
             "seoKeywords": "strategic real estate management, real estate asset optimization, corporate real estate strategy, real estate portfolio management, ESG real estate",
             "seoHeading": "Master Strategic Real Estate Management and Portfolio Optimization"
