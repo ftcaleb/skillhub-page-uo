@@ -5,13 +5,13 @@ import Image from "next/image"
 
 // Using placeholder logos for now. Ideally these should be SVGs for best results.
 const partners = [
-  { name: "QCTO", logo: "/asset/QCTO.jpg" },
-  { name: "SAPICS", logo: "/asset/SAPICS.webp" },
-  { name: "APICS", logo: "/asset/APICS.webp" },
-  { name: "T.E.T.A", logo: "/asset/TETA.png" },
-  { name: "merSETA", logo: "/asset/Merseta.png" },
-  { name: "VSCP Consulting", logo: "/asset/VSCP.jpg" },
-  { name: "BEE", logo: "/asset/BEE.png" },
+  { name: "QCTO", logo: "/asset/qcto.webp" },
+  { name: "SAPICS", logo: "/asset/sapics.webp" },
+  { name: "APICS", logo: "/asset/apics.webp" },
+  { name: "T.E.T.A", logo: "/asset/teta.webp" },
+  { name: "merSETA", logo: "/asset/merseta.webp" },
+  { name: "VSCP Consulting", logo: "/asset/vscp.webp" },
+  { name: "BEE", logo: "/asset/bee.webp" },
 ]
 
 function MarqueeRow({ reverse = false }: { reverse?: boolean }) {
