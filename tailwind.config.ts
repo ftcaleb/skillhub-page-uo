@@ -84,6 +84,10 @@ const config: Config = {
           from: { transform: 'translateX(0)' },
           to: { transform: 'translateX(calc(-50% - 1.5rem))' },
         },
+        'scroll-reverse': {
+          from: { transform: 'translateX(calc(-50% - 1.5rem))' },
+          to: { transform: 'translateX(0)' },
+        },
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
