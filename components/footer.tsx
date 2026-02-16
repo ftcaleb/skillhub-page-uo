@@ -48,8 +48,8 @@ export function Footer() {
               <div className="flex items-start gap-4">
                 <MapPin className="h-6 w-6 text-accent shrink-0 mt-0.5" />
                 <div className="text-base text-primary-foreground/80 leading-relaxed">
-                  <p>42 6th Street Wynberg</p>
-                  <p>Sandton, 2090</p>
+                  <p>2nd Floor Maude Street West Tower</p>
+                  <p>Nelson Mandela Square Sandton, 2196</p>
                 </div>
               </div>
 
