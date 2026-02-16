@@ -311,7 +311,7 @@ const stats = [
   { icon: GraduationCap, value: "20+", label: "Years of Experience" },
   { icon: Globe, value: "3450+", label: "Professionals trained" },
   { icon: Briefcase, value: "98%", label: "Satisfied Learners" },
-  { icon: Users, value: "100+", label: "Expert Faculty" },
+  { icon: Users, value: "100+", label: "Expert Faculties" },
 ]
 
 function ImpactStats() {
