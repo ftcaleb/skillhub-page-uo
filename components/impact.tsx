@@ -140,7 +140,7 @@ export function Impact() {
           </MotionDiv>
           <MotionDiv variants={fadeInUp}>
             <p className="mt-4 text-muted-foreground leading-relaxed lg:text-lg">
-              Four decades of unwavering commitment to educational excellence, producing leaders who shape the world.
+              Two decades of unwavering commitment to educational excellence, producing leaders who shape the world.
             </p>
           </MotionDiv>
         </div>
