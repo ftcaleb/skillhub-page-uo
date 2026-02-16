@@ -103,7 +103,7 @@ export function ContactForm() {
 
     return (
         <motion.div variants={fadeInUp}>
-            <Card className="rounded-3xl border border-border/50 bg-card shadow-lg shadow-primary/5">
+            <Card className="rounded-3xl ml-10 border border-border/50 bg-card shadow-lg shadow-primary/5">
                 <CardHeader className="p-8 pb-4">
                     <CardTitle className="text-3xl font-bold tracking-tight">Send Us a Message</CardTitle>
                     <CardDescription className="text-lg mt-2">

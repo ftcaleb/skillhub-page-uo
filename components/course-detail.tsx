@@ -85,7 +85,7 @@ export function CourseDetail({ course }: CourseDetailProps) {
                                     Enroll Now
                                 </Link>
                             </Button>
-                            {course.brochure && (
+                            {/* {course.brochure && (
                                 <Button
                                     size="lg"
                                     variant="outline"
@@ -96,7 +96,7 @@ export function CourseDetail({ course }: CourseDetailProps) {
                                         Download Brochure
                                     </a>
                                 </Button>
-                            )}
+                            )} */}
                         </div>
                     </div>
                 </MotionDiv>

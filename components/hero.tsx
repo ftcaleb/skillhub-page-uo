@@ -56,7 +56,7 @@ export function Hero() {
           >
             <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm px-4 py-1.5 text-xs font-medium tracking-widest uppercase text-white/80">
               <span className="h-1.5 w-1.5 rounded-full bg-accent animate-pulse" />
-              Transforming Skills Globally
+              Established 1999
             </span>
           </motion.div>
 
@@ -67,9 +67,9 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.4, ease: [0.22, 1, 0.36, 1] }}
           >
             <span className="text-balance">
-              {"Shaping Tomorrow's "}
+              {"Transforming "}<span className="text-accent"><br />      </span>
               <span className="relative inline-block">
-                Leaders
+                Skills
                 <motion.span
                   className="absolute -bottom-1 left-0 h-[3px] bg-accent rounded-full"
                   initial={{ width: 0 }}
@@ -77,7 +77,7 @@ export function Hero() {
                   transition={{ duration: 0.8, delay: 1.2, ease: [0.22, 1, 0.36, 1] }}
                 />
               </span>
-              {" Today"}
+              {" Globally"}
             </span>
           </motion.h1>
 

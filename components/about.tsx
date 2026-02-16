@@ -7,7 +7,7 @@ import Image from "next/image"
 
 const pillars = [
   "World-class research facilities and partnerships",
-  "Internationally recognized faculty and mentors",
+  "Internationally recognized facilities and mentors",
   "Industry-aligned curriculum with hands-on learning",
   "Vibrant multicultural campus community",
 ]
@@ -69,7 +69,7 @@ export function About() {
 
             <MotionDiv variants={fadeInUp}>
               <h2 className="mt-4 font-serif text-3xl font-bold leading-tight text-foreground md:text-4xl lg:text-[2.75rem] lg:leading-tight text-balance">
-                Four Decades of Academic Excellence and Innovation
+                Two Decades of Academic Excellence and Innovation
               </h2>
             </MotionDiv>
 

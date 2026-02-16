@@ -41,7 +41,7 @@ export function GalleryGrid() {
     }
 
     return (
-        <section className="py-12 lg:py-20 bg-background">
+        <section className="py-12 ml-10 lg:py-20 bg-background">
             <div className="container px-4 md:px-6">
 
                 {/* Filters - Minimalist approach */}

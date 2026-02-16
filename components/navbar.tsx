@@ -59,7 +59,7 @@ export function Navbar() {
             />
           </div>
           <span
-            className={`text-lg font-bold tracking-tight transition-colors duration-300 ${showTransparent ? "text-white" : "text-foreground"
+            className={`text-xl font-bold tracking-tight transition-colors duration-300 ${showTransparent ? "text-white" : "text-foreground"
               }`}
           >
             SkillHub International
