@@ -8,25 +8,25 @@ import Image from "next/image"
 
 const testimonials = [
   {
-    name: "Dr. Sarah Chen",
-    role: "Chief Innovation Officer at Meridian Tech",
-    image: "/images/testimonial-1.jpg",
-    quote: "The Executive Leadership Program transformed how I approach complex organizational challenges. The faculty's real-world experience and the peer network I built have been invaluable to my career trajectory.",
-    cohort: "Class of 2018",
+    name: "Mandisa Mokeke",
+    role: "HR Executive at Highlands Water Commission",
+    image: "/asset/mandisa.webp",
+    quote: "Highlands Water Commission is a leading water utility company in South Africa, providing high-quality water products and services to customers across the country. With a strong focus on safety, sustainability, and innovation, Highlands Water Commission is committed to powering Africa's growth and development.",
+    cohort: "Class of 2025",
   },
   {
-    name: "James Whitfield",
-    role: "Managing Partner at Atlas Consulting",
-    image: "/images/testimonial-2.jpg",
-    quote: "Ascend Institute doesn't just teach theory. They create environments where you solve real problems with brilliant people from around the world. That experience changed my career fundamentally.",
-    cohort: "Class of 2015",
+    name: "Jonathan Mulenga",
+    role: "Procurement Manager at Pensions and Insurance Authority",
+    image: "/asset/jonathan.webp",
+    quote: "Pensions and Insurance Authority is a leading insurance company in Zambia, providing high-quality insurance products and services to customers across the country. With a strong focus on safety, sustainability, and innovation, Pensions and Insurance Authority is committed to powering Zambia's growth and development.",
+    cohort: "Class of 2025",
   },
   {
-    name: "Priya Venkatesh",
-    role: "VP of Product at Nomad Health",
-    image: "/images/testimonial-3.jpg",
-    quote: "The global perspective I gained at Ascend is something I carry into every boardroom. The connections I made here span six continents and have opened doors I never imagined possible.",
-    cohort: "Class of 2020",
+    name: "Lamin Jallow",
+    role: "Procurement Manager at Oryx Energies",
+    image: "/asset/lamin.webp",
+    quote: "Oryx Energies is a leading independent energy company in Africa, providing high-quality petroleum products and services to customers across the continent. With a strong focus on safety, sustainability, and innovation, Oryx Energies is committed to powering Africa's growth and development.",
+    cohort: "Class of 2024",
   },
 ]
 
