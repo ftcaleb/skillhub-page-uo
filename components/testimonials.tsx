@@ -9,9 +9,9 @@ import Image from "next/image"
 const testimonials = [
   {
     name: "Mandisa Mokeke",
-    role: "HR Executive at Highlands Water Commission",
+    role: "HR Executive at Lesotho Highlands Water Commission",
     image: "/asset/mandisa.webp",
-    quote: "Highlands Water Commission is a leading water utility company in South Africa, providing high-quality water products and services to customers across the country. With a strong focus on safety, sustainability, and innovation, Highlands Water Commission is committed to powering Africa's growth and development.",
+    quote: "Lesotho Highlands Water Commission is a leading water utility company in Lesotho, providing high-quality water products and services to customers across the country. With a strong focus on safety, sustainability, and innovation, Lesotho Highlands Water Commission is committed to powering Lesotho's growth and development.",
     cohort: "Class of 2025",
   },
   {
