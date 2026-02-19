@@ -40,7 +40,14 @@ export function EventsGrid({
     baseUrl = "/events"
 }: EventsGridProps) {
     const [search, setSearch] = useState("")
+    const [isModalOpen, setIsModalOpen] = useState(false)
     const router = useRouter()
+
+    const handleCategorySelect = (cat: string) => {
+        const href = cat === "All" ? "/events" : `/events/category/${encodeURIComponent(cat)}`
+        setIsModalOpen(false)
+        router.push(href)
+    }
 
     // Client-side category filtering for display if needed, 
     // but primarily we use server-side for main navigation.
@@ -85,8 +92,24 @@ export function EventsGrid({
                     </div>
                 </div>
 
-                {/* Category pills */}
-                <div className="mt-8">
+                {/* Mobile Categories Trigger */}
+                <div className="mt-6 md:hidden">
+                    <button
+                        onClick={() => setIsModalOpen(true)}
+                        className="flex items-center gap-2 h-10 rounded-lg border border-border/60 bg-card px-4 text-sm font-medium text-foreground transition-colors hover:bg-secondary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/40"
+                    >
+                        <SlidersHorizontal className="h-4 w-4 text-accent" />
+                        Categories
+                        {currentCategory !== "All" && (
+                            <span className="ml-1 inline-flex h-5 min-w-[1.25rem] items-center justify-center rounded-full bg-accent px-1.5 text-[10px] font-bold text-accent-foreground">
+                                1
+                            </span>
+                        )}
+                    </button>
+                </div>
+
+                {/* Category pills - Desktop */}
+                <div className="mt-8 hidden md:block">
                     <div className="flex flex-wrap gap-2">
                         {categories.map((cat) => {
                             const href = cat === "All"
@@ -119,6 +142,14 @@ export function EventsGrid({
                         })}
                     </div>
                 </div>
+
+                <CategoryModal
+                    categories={categories}
+                    currentCategory={currentCategory}
+                    isOpen={isModalOpen}
+                    onClose={() => setIsModalOpen(false)}
+                    onSelect={handleCategorySelect}
+                />
 
                 {/* Grid */}
                 <motion.div layout className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
