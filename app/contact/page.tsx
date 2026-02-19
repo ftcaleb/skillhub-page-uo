@@ -28,7 +28,7 @@ export default function ContactPage() {
                     />
                 </div>
 
-                <div className="container relative z-10 px-6 lg:px-8">
+                <div className="container relative ml-10 z-10 px-6 lg:px-8">
                     <div className="max-w-4xl">
                         {/* Breadcrumb Navigation */}
                         <nav className="flex items-center gap-2 text-sm font-semibold text-primary-foreground/50 mb-10 animate-in fade-in slide-in-from-left-4 duration-700">
