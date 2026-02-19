@@ -17,11 +17,13 @@ import {
   BookOpen,
   Shield,
   Layers,
-  GraduationCap
+  GraduationCap,
+  SlidersHorizontal
 } from "lucide-react"
 import { getAllCategories, Course } from "@/lib/courses-data"
 import { Pagination } from "@/components/pagination"
 import { cn } from "@/lib/utils"
+import { CategoryModal } from "@/components/category-modal"
 
 import { Button } from "@/components/ui/button"
 
@@ -57,6 +59,13 @@ export function CoursesGrid({
   const router = useRouter()
   const pathname = usePathname()
   const [search, setSearch] = useState("")
+  const [isModalOpen, setIsModalOpen] = useState(false)
+
+  const handleCategorySelect = (cat: string) => {
+    const href = cat === "All" ? "/courses" : `/courses/category/${encodeURIComponent(cat)}`
+    setIsModalOpen(false)
+    router.push(href)
+  }
 
   // Filter functionality needs to be handled carefully
   // If we search, we are filtering the *current page* of results visible?
@@ -117,8 +126,24 @@ export function CoursesGrid({
               />
             </div>
 
-            {/* Dropdown filters */}
+            {/* Dropdown filters + mobile categories button */}
             <div className="flex flex-wrap items-center gap-3">
+              {/* Mobile-only Categories trigger */}
+              <button
+                onClick={() => setIsModalOpen(true)}
+                className="md:hidden flex items-center gap-2 h-10 rounded-lg border border-border/60 bg-card px-4 text-sm font-medium text-foreground transition-colors hover:bg-secondary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/40"
+                aria-haspopup="dialog"
+                aria-expanded={isModalOpen}
+              >
+                <SlidersHorizontal className="h-4 w-4 text-accent" />
+                Categories
+                {currentCategory !== "All" && (
+                  <span className="ml-1 inline-flex h-5 min-w-[1.25rem] items-center justify-center rounded-full bg-accent px-1.5 text-[10px] font-bold text-accent-foreground">
+                    1
+                  </span>
+                )}
+              </button>
+
               <select
                 value={duration}
                 onChange={(e) => setDuration(e.target.value)}
@@ -134,11 +159,12 @@ export function CoursesGrid({
           </div>
         </div>
 
-        {/* Category pills */}
-        <div className="mt-8">
+
+        {/* Category pills – desktop only */}
+        <div className="mt-8 hidden md:block">
           <div className="flex flex-wrap gap-2">
             {categories.map((cat) => {
-              // Construct URL: 
+              // Construct URL:
               // If All -> /courses
               // If Category -> /courses/category/[cat]
               const href = cat === "All"
@@ -171,6 +197,15 @@ export function CoursesGrid({
             })}
           </div>
         </div>
+
+        {/* Mobile category modal */}
+        <CategoryModal
+          categories={categories}
+          currentCategory={currentCategory}
+          isOpen={isModalOpen}
+          onClose={() => setIsModalOpen(false)}
+          onSelect={handleCategorySelect}
+        />
 
         {/* Results count */}
         <div className="mt-8 text-sm text-muted-foreground">

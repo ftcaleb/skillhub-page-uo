@@ -12,10 +12,12 @@ import {
     MapPin,
     Users,
     ArrowRight,
+    SlidersHorizontal,
 } from "lucide-react"
 import { Event, getAllEventCategories } from "@/lib/events-data"
 import { Pagination } from "@/components/pagination"
 import { cn } from "@/lib/utils"
+import { CategoryModal } from "@/components/category-modal"
 
 import { Button } from "@/components/ui/button"
 import { useRouter } from "next/navigation"
