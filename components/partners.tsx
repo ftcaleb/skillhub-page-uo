@@ -12,6 +12,15 @@ const partners = [
   { name: "merSETA", logo: "/asset/merseta.webp" },
   { name: "VSCP Consulting", logo: "/asset/vscp.webp" },
   { name: "BEE", logo: "/asset/bee.webp" },
+
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/gipf.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/lhwp.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/zambiaAir.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/uganda.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/africanUnion.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/tanzania.webp" },
+  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/zimbabwe.webp" },
+
 ]
 
 function MarqueeRow({ reverse = false }: { reverse?: boolean }) {
