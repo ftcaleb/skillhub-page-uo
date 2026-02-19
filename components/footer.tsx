@@ -1,6 +1,6 @@
 "use client"
 
-import { GraduationCap, MapPin, Phone, Mail, Facebook, Linkedin, Instagram, Youtube, Twitter } from "lucide-react"
+import { GraduationCap, MapPin, Phone, Mail, Linkedin, Youtube, Twitter } from "lucide-react"
 import Link from "next/link"
 
 const footerLinks = {
@@ -13,11 +13,10 @@ const footerLinks = {
   ],
   Courses: [
     { label: "Procurement", href: "/courses/category/Procurement" },
-    { label: "Inventory", href: "/courses/category/Inventory" },
-    { label: "Ports & Shipping", href: "/courses/category/Ports%20%26%20Shipping" },
+    { label: "Ports & Shipping", href: "/courses/category/Ports-Shipping" },
     { label: "Production", href: "/courses/category/Production" },
-    { label: "Transport", href: "/courses/category/Transport" },
-    { label: "Airport & Rail", href: "/courses/category/Airport%20%26%20Rail" },
+    { label: "Transport & Distribution", href: "/courses/category/Transport-Distribution" },
+    { label: "Airport & Rail", href: "/courses/category/Airport-Rail" },
   ],
   "About Us": [
     { label: "Milestones", href: "/about#milestones" },
@@ -98,24 +97,17 @@ export function Footer() {
           <div className="flex items-center gap-8">
             <Link
               href="#"
-              aria-label="Twitter"
+              aria-label="TikTok"
               className="text-primary-foreground/50 transition-transform hover:text-primary-foreground hover:scale-110"
             >
               <Twitter className="h-6 w-6" />
             </Link>
             <Link
-              href="#"
+              href="https://www.linkedin.com/company/skillhub-africa/"
               aria-label="LinkedIn"
               className="text-primary-foreground/50 transition-transform hover:text-primary-foreground hover:scale-110"
             >
               <Linkedin className="h-6 w-6" />
-            </Link>
-            <Link
-              href="#"
-              aria-label="Instagram"
-              className="text-primary-foreground/50 transition-transform hover:text-primary-foreground hover:scale-110"
-            >
-              <Instagram className="h-6 w-6" />
             </Link>
             <Link
               href="#"
