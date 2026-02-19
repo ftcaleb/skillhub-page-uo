@@ -13,13 +13,13 @@ const partners = [
   { name: "VSCP Consulting", logo: "/asset/vscp.webp" },
   { name: "BEE", logo: "/asset/bee.webp" },
 
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/gipf.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/lhwp.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/zambiaAir.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/uganda.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/africanUnion.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/tanzania.webp" },
-  { name: "Zambia Institute of Supply Chain and Management", logo: "/asset/zimbabwe.webp" },
+  { name: "Government Institutions Pension Fund Namibia", logo: "/asset/gipf.webp" },
+  { name: "Lesotho Highlands Water Commission", logo: "/asset/lhwp.webp" },
+  { name: "Zambia Airports", logo: "/asset/zambiaAir.webp" },
+  { name: "Uganda Civil Aviation Authority", logo: "/asset/uganda.webp" },
+  { name: "African Union", logo: "/asset/africanUnion.webp" },
+  { name: "Public, Private Partnership Centre", logo: "/asset/tanzania.webp" },
+  { name: "Reserve Bank of Zimbabwe", logo: "/asset/zimbabwe.webp" },
 
 ]
 
