@@ -55,7 +55,7 @@ export function EventDetail({ event }: EventDetailProps) {
                         </div>
 
                         {/* YouTube Video if available */}
-                        {event.youtubeUrl && (
+                        {/* {event.youtubeUrl && (
                             <div className="rounded-2xl overflow-hidden border border-border/50 bg-card p-2">
                                 <div className="aspect-video w-full rounded-xl overflow-hidden bg-muted">
                                     <iframe
@@ -69,7 +69,7 @@ export function EventDetail({ event }: EventDetailProps) {
                                     ></iframe>
                                 </div>
                             </div>
-                        )}
+                        )} */}
                     </div>
 
                     {/* Sidebar */}
