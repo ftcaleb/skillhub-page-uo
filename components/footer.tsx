@@ -1,6 +1,6 @@
 "use client"
 
-import { GraduationCap, MapPin, Phone, Mail, Linkedin, Youtube, Twitter } from "lucide-react"
+import { GraduationCap, MapPin, Phone, Mail, Linkedin, Youtube } from "lucide-react"
 import Link from "next/link"
 
 const footerLinks = {
@@ -100,7 +100,20 @@ export function Footer() {
               aria-label="TikTok"
               className="text-primary-foreground/50 transition-transform hover:text-primary-foreground hover:scale-110"
             >
-              <Twitter className="h-6 w-6" />
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="h-6 w-6"
+              >
+                <path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" />
+              </svg>
             </Link>
             <Link
               href="https://www.linkedin.com/company/skillhub-africa/"
