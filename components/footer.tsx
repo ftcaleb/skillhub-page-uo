@@ -96,7 +96,7 @@ export function Footer() {
         <div className="mt-20 pt-8 border-t border-primary-foreground/10 flex flex-col items-center justify-center gap-6">
           <div className="flex items-center gap-8">
             <Link
-              href="#"
+              href="https://www.tiktok.com/@skillhubinternational?is_from_webapp=1&sender_device=pc"
               aria-label="TikTok"
               className="text-primary-foreground/50 transition-transform hover:text-primary-foreground hover:scale-110"
             >
