@@ -3,7 +3,8 @@ import { PageHeader } from "@/components/page-header"
 import { CoursesGrid } from "@/components/courses-grid"
 import { CtaSection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
-import { getCoursesByCategory, getAllCategories, getCourseCountByCategory, getPaginatedCourses } from "@/lib/courses-data"
+import { getAllCategories, getCourseCountByCategory, getPaginatedCourses } from "@/lib/courses-data"
+import { formatCategoryForDisplay } from "@/lib/formatters"
 import { notFound } from "next/navigation"
 import type { Metadata } from "next"
 
@@ -21,7 +22,7 @@ export async function generateStaticParams() {
     }))
 }
 
-// Generate metadata for SEO
+// Generate metadata for SEO — uses raw slug strings; no display formatting here
 export async function generateMetadata({
     params,
 }: CategoryPageProps): Promise<Metadata> {
@@ -58,6 +59,7 @@ export async function generateMetadata({
 
 export default async function CategoryPage({ params }: CategoryPageProps) {
     const { category: rawCategory } = await params
+    // `category` is the raw decoded slug — used for data fetching & routing only
     const category = decodeURIComponent(rawCategory)
     const { courses, totalPages, totalCourses } = getPaginatedCourses(1, 12, category)
 
@@ -65,16 +67,20 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         notFound()
     }
 
+    // Display-only label — replaces hyphens with spaces for user-visible text
+    // Never used for data filtering, URL construction, or metadata
+    const displayCategory = formatCategoryForDisplay(category)
+
     return (
         <main>
             <Navbar />
             <PageHeader
-                title={`${category} Courses`}
-                description={`Discover our comprehensive collection of ${category} training programs, designed to elevate your expertise and drive career advancement.`}
+                title={`${displayCategory} Courses`}
+                description={`Discover our comprehensive collection of ${displayCategory} training programs, designed to elevate your expertise and drive career advancement.`}
                 breadcrumbs={[
                     { label: "Home", href: "/" },
                     { label: "Courses", href: "/courses" },
-                    { label: category, href: `/courses/category/${encodeURIComponent(category)}` },
+                    { label: displayCategory, href: `/courses/category/${encodeURIComponent(category)}` },
                 ]}
             />
             <CoursesGrid

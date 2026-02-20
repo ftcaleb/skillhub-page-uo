@@ -24,6 +24,7 @@ import { getAllCategories, Course } from "@/lib/courses-data"
 import { Pagination } from "@/components/pagination"
 import { cn } from "@/lib/utils"
 import { CategoryModal } from "@/components/category-modal"
+import { formatCategoryForDisplay } from "@/lib/formatters"
 
 import { Button } from "@/components/ui/button"
 
@@ -191,7 +192,7 @@ export function CoursesGrid({
                       transition={{ type: "spring", stiffness: 380, damping: 30 }}
                     />
                   )}
-                  <span className="relative z-10">{cat}</span>
+                  <span className="relative z-10">{formatCategoryForDisplay(cat)}</span>
                 </Link>
               )
             })}

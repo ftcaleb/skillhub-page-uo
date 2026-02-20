@@ -18,6 +18,7 @@ import { Event, getAllEventCategories } from "@/lib/events-data"
 import { Pagination } from "@/components/pagination"
 import { cn } from "@/lib/utils"
 import { CategoryModal } from "@/components/category-modal"
+import { formatCategoryForDisplay } from "@/lib/formatters"
 
 import { Button } from "@/components/ui/button"
 import { useRouter } from "next/navigation"
@@ -136,7 +137,7 @@ export function EventsGrid({
                                             transition={{ type: "spring", stiffness: 380, damping: 30 }}
                                         />
                                     )}
-                                    <span className="relative z-10">{cat}</span>
+                                    <span className="relative z-10">{formatCategoryForDisplay(cat)}</span>
                                 </Link>
                             )
                         })}

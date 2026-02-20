@@ -5,6 +5,7 @@ import { createPortal } from "react-dom"
 import { motion, AnimatePresence } from "motion/react"
 import { X, SlidersHorizontal, Check } from "lucide-react"
 import { cn } from "@/lib/utils"
+import { formatCategoryForDisplay } from "@/lib/formatters"
 
 interface CategoryModalProps {
     /** Full list of categories, including "All" as the first item */
@@ -155,7 +156,7 @@ export function CategoryModal({
                                                             : "text-foreground hover:bg-secondary active:bg-secondary/80"
                                                     )}
                                                 >
-                                                    <span>{cat}</span>
+                                                    <span>{formatCategoryForDisplay(cat)}</span>
                                                     {isActive && (
                                                         <Check className="h-4 w-4 shrink-0" aria-hidden="true" />
                                                     )}
