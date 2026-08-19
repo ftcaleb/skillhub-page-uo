@@ -110,4 +110,16 @@ export const galleryItems: GalleryItem[] = [
         category: "Community",
         span: "large"
     },
+    {
+        id: "20",
+        src: "/asset/workshop-discussion.jpeg",
+        category: "Workshops",
+        span: "medium"
+    },
+    {
+        id: "21",
+        src: "/asset/training-session-group.jpeg",
+        category: "Community",
+        span: "large"
+    },
 ]
